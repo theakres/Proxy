@@ -2,13 +2,6 @@
  {
   "server": "37.139.40.75",
   "port": 443,
-  "secret": "eeaa6cb0b4a5f0726f60b57ee7548edf536d6573682e65656c756d612e6f7267",
-  "country": "NL",
-  "provider": "VK"
- },
- {
-  "server": "37.139.40.75",
-  "port": 443,
   "secret": "eedcaae509a2455bbfc6165f1708fd5c586d6573682e65656c756d612e6f7267",
   "country": "NL",
   "provider": "VK"
@@ -17,7 +10,7 @@
   "server": "84.23.52.184",
   "port": 443,
   "secret": "ddf390d9757cb92d87826bcef28a6e75ed",
-  "country": "PL",
+  "country": "EE",
   "provider": "VK"
  },
  {
@@ -28,48 +21,6 @@
   "provider": "VK"
  },
  {
-  "server": "90.156.216.7",
-  "port": 443,
-  "secret": "eeaa6cb0b4a5f0726f60b57ee7548edf536d6573682e65656c756d612e6f7267",
-  "country": "NL",
-  "provider": "VK"
- },
- {
-  "server": "90.156.216.7",
-  "port": 443,
-  "secret": "eedcaae509a2455bbfc6165f1708fd5c586d6573682e65656c756d612e6f7267",
-  "country": "NL",
-  "provider": "VK"
- },
- {
-  "server": "90.156.217.92",
-  "port": 443,
-  "secret": "eeaa6cb0b4a5f0726f60b57ee7548edf536d6573682e65656c756d612e6f7267",
-  "country": "NL",
-  "provider": "VK"
- },
- {
-  "server": "90.156.217.92",
-  "port": 443,
-  "secret": "eedcaae509a2455bbfc6165f1708fd5c586d6573682e65656c756d612e6f7267",
-  "country": "NL",
-  "provider": "VK"
- },
- {
-  "server": "90.156.219.176",
-  "port": 443,
-  "secret": "eeaa6cb0b4a5f0726f60b57ee7548edf536d6573682e65656c756d612e6f7267",
-  "country": "NL",
-  "provider": "VK"
- },
- {
-  "server": "90.156.219.176",
-  "port": 443,
-  "secret": "eedcaae509a2455bbfc6165f1708fd5c586d6573682e65656c756d612e6f7267",
-  "country": "NL",
-  "provider": "VK"
- },
- {
   "server": "94.139.247.202",
   "port": 443,
   "secret": "dd6dc6c32df732ff33148c4217aa901c4d",
@@ -77,24 +28,10 @@
   "provider": "VK"
  },
  {
-  "server": "95.163.213.141",
+  "server": "161.104.105.122",
   "port": 443,
-  "secret": "eeaa6cb0b4a5f0726f60b57ee7548edf536d6573682e65656c756d612e6f7267",
+  "secret": "dd6dc6c32df732ff33148c4217aa901c4d",
   "country": "NL",
-  "provider": "VK"
- },
- {
-  "server": "95.163.213.141",
-  "port": 443,
-  "secret": "eedcaae509a2455bbfc6165f1708fd5c586d6573682e65656c756d612e6f7267",
-  "country": "NL",
-  "provider": "VK"
- },
- {
-  "server": "146.185.211.162",
-  "port": 443,
-  "secret": "ee6ec9f7e082baf2397b450727ce78447e6f7a6f6e2e7275",
-  "country": "DE",
   "provider": "VK"
  },
  {
@@ -105,49 +42,10 @@
   "provider": "VK"
  },
  {
-  "server": "185.241.193.174",
-  "port": 443,
-  "secret": "ee7391242569590e01416101927d38b565646e732d73686f702e7275",
-  "country": "DE",
-  "provider": "VK"
- },
- {
-  "server": "212.233.89.100",
-  "port": 443,
-  "secret": "eeaa6cb0b4a5f0726f60b57ee7548edf536d6573682e65656c756d612e6f7267",
-  "country": "NL",
-  "provider": "VK"
- },
- {
-  "server": "212.233.89.100",
-  "port": 443,
-  "secret": "eedcaae509a2455bbfc6165f1708fd5c586d6573682e65656c756d612e6f7267",
-  "country": "NL",
-  "provider": "VK"
- },
- {
-  "server": "67.kfwl.lol",
-  "secret": "6cbb2d841fd22454f22c39ec3fd7c148",
-  "country": "SE",
-  "via": "https"
- },
- {
-  "server": "67.kfwl.lol",
-  "secret": "8d803cfffd5a1b56c1529f903e1d20f9",
-  "country": "SE",
-  "via": "websocket"
- },
- {
   "server": "67.kfwl.lol",
   "secret": "b5df144e99add138994f80d91b351a43",
   "country": "SE",
   "via": "https-lanes"
- },
- {
-  "server": "67.kfwl.lol",
-  "secret": "fe0c29d25797e0fe498a2123ecb4bfc4",
-  "country": "SE",
-  "via": "websocket-lanes"
  },
  {
   "server": "azirproxy.tgstar.net",
@@ -168,6 +66,12 @@
   "via": "websocket"
  },
  {
+  "server": "flare-tg.xyz",
+  "secret": "341b03f574bb516bee51a6c6aa68f212",
+  "country": "SE",
+  "via": "https"
+ },
+ {
   "server": "free.vnespiska.win",
   "secret": "9fc8d7d1aeee614bd5fa3b760da44dd3",
   "country": "DE",
@@ -176,7 +80,7 @@
  {
   "server": "freetg.mishutkin.click",
   "secret": "87e5ee876fc0254eed830e8029a81964",
-  "country": "PL",
+  "country": "NL",
   "via": "websocket"
  },
  {
@@ -270,6 +174,12 @@
   "via": "websocket"
  },
  {
+  "server": "vpsnuna.ru",
+  "secret": "f8b5f2f8556cad4b4ef5576bef407884",
+  "country": "PL",
+  "via": "https"
+ },
+ {
   "server": "web.antenna-mzt.live",
   "secret": "73a41a35f42a05667dc578a25d99868f",
   "country": "NL",
@@ -327,12 +237,6 @@
   "server": "websw.freenet.ddnsgeek.com",
   "secret": "f43cfa0cb4b1d1124643927f09de3c7b",
   "country": "SE",
-  "via": "https"
- },
- {
-  "server": "webtest.rocketvpn.top",
-  "secret": "9268d5fb37a0368812f055dd9e918428",
-  "country": "PL",
   "via": "https"
  }
 ]
