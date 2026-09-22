@@ -2,6 +2,13 @@
  {
   "server": "37.139.40.75",
   "port": 443,
+  "secret": "eeaa6cb0b4a5f0726f60b57ee7548edf536d6573682e65656c756d612e6f7267",
+  "country": "NL",
+  "provider": "VK"
+ },
+ {
+  "server": "37.139.40.75",
+  "port": 443,
   "secret": "eedcaae509a2455bbfc6165f1708fd5c586d6573682e65656c756d612e6f7267",
   "country": "NL",
   "provider": "VK"
@@ -14,6 +21,13 @@
   "provider": "VK"
  },
  {
+  "server": "85.192.34.39",
+  "port": 443,
+  "secret": "ee7391242569590e01416101927d38b565686f66662e7275",
+  "country": "DE",
+  "provider": "VK"
+ },
+ {
   "server": "89.208.209.22",
   "port": 443,
   "secret": "ddf390d9757cb92d87826bcef28a6e75ed",
@@ -21,9 +35,65 @@
   "provider": "VK"
  },
  {
+  "server": "90.156.216.7",
+  "port": 443,
+  "secret": "eeaa6cb0b4a5f0726f60b57ee7548edf536d6573682e65656c756d612e6f7267",
+  "country": "NL",
+  "provider": "VK"
+ },
+ {
+  "server": "90.156.216.7",
+  "port": 443,
+  "secret": "eedcaae509a2455bbfc6165f1708fd5c586d6573682e65656c756d612e6f7267",
+  "country": "NL",
+  "provider": "VK"
+ },
+ {
+  "server": "90.156.217.92",
+  "port": 443,
+  "secret": "eeaa6cb0b4a5f0726f60b57ee7548edf536d6573682e65656c756d612e6f7267",
+  "country": "NL",
+  "provider": "VK"
+ },
+ {
+  "server": "90.156.217.92",
+  "port": 443,
+  "secret": "eedcaae509a2455bbfc6165f1708fd5c586d6573682e65656c756d612e6f7267",
+  "country": "NL",
+  "provider": "VK"
+ },
+ {
+  "server": "90.156.219.176",
+  "port": 443,
+  "secret": "eeaa6cb0b4a5f0726f60b57ee7548edf536d6573682e65656c756d612e6f7267",
+  "country": "NL",
+  "provider": "VK"
+ },
+ {
+  "server": "90.156.219.176",
+  "port": 443,
+  "secret": "eedcaae509a2455bbfc6165f1708fd5c586d6573682e65656c756d612e6f7267",
+  "country": "NL",
+  "provider": "VK"
+ },
+ {
   "server": "94.139.247.202",
   "port": 443,
   "secret": "dd6dc6c32df732ff33148c4217aa901c4d",
+  "country": "NL",
+  "provider": "VK"
+ },
+ {
+  "server": "95.163.213.141",
+  "port": 443,
+  "secret": "eeaa6cb0b4a5f0726f60b57ee7548edf536d6573682e65656c756d612e6f7267",
+  "country": "NL",
+  "provider": "VK"
+ },
+ {
+  "server": "95.163.213.141",
+  "port": 443,
+  "secret": "eedcaae509a2455bbfc6165f1708fd5c586d6573682e65656c756d612e6f7267",
   "country": "NL",
   "provider": "VK"
  },
@@ -42,10 +112,37 @@
   "provider": "VK"
  },
  {
+  "server": "185.130.115.145",
+  "port": 443,
+  "secret": "ee6ec9f7e082baf2397b450727ce78447e686f66662e7275",
+  "country": "DE",
+  "provider": "VK"
+ },
+ {
+  "server": "212.233.89.100",
+  "port": 443,
+  "secret": "eeaa6cb0b4a5f0726f60b57ee7548edf536d6573682e65656c756d612e6f7267",
+  "country": "NL",
+  "provider": "VK"
+ },
+ {
+  "server": "212.233.89.100",
+  "port": 443,
+  "secret": "eedcaae509a2455bbfc6165f1708fd5c586d6573682e65656c756d612e6f7267",
+  "country": "NL",
+  "provider": "VK"
+ },
+ {
   "server": "67.kfwl.lol",
   "secret": "b5df144e99add138994f80d91b351a43",
   "country": "SE",
   "via": "https-lanes"
+ },
+ {
+  "server": "azir.moonvira.com",
+  "secret": "db28729a2a2b81d558d2deb53e00233e",
+  "country": "DE",
+  "via": "websocket"
  },
  {
   "server": "azirproxy.tgstar.net",
@@ -90,12 +187,6 @@
   "via": "https"
  },
  {
-  "server": "internet-legal.site",
-  "secret": "13d67b2f4163f5d8370a983b7e921fa6",
-  "country": "DE",
-  "via": "https"
- },
- {
   "server": "jxjxjo.lol",
   "secret": "865d8256f6769081944d727dc7954720",
   "country": "DE",
@@ -135,12 +226,6 @@
   "server": "newversion.my",
   "secret": "c60988954529faf7447b7ef83203a020",
   "country": "DE",
-  "via": "https"
- },
- {
-  "server": "proxy.rocketvpn.top",
-  "secret": "2dc504739203a0637f14c5dac7ec925c",
-  "country": "NL",
   "via": "https"
  },
  {
@@ -204,6 +289,12 @@
   "via": "https"
  },
  {
+  "server": "web.willvpn.space",
+  "secret": "fb4224121e528a37200b09a99841e44e",
+  "country": "NL",
+  "via": "https"
+ },
+ {
   "server": "web.zainet.tech",
   "secret": "fa488bdb4af55a669012cfaff5bf2328",
   "country": "NL",
@@ -229,9 +320,21 @@
  },
  {
   "server": "webrtp.prtw.ru",
+  "secret": "27abca9f854cf8f6edf5944b1f2bf1c9",
+  "country": "NL",
+  "via": "https"
+ },
+ {
+  "server": "webrtp.prtw.ru",
   "secret": "ac893cee4c37ad1097b525b91cf00131",
   "country": "NL",
   "via": "websocket"
+ },
+ {
+  "server": "webrtp.prtw.ru",
+  "secret": "c86eee0a0873b12d40fa6ea959caa5f0",
+  "country": "NL",
+  "via": "https-lanes"
  },
  {
   "server": "websw.freenet.ddnsgeek.com",
