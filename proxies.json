@@ -9,14 +9,14 @@
  {
   "server": "37.139.40.75",
   "port": 443,
-  "secret": "eeaa6cb0b4a5f0726f60b57ee7548edf536d6573682e65656c756d612e6f7267",
+  "secret": "eedcaae509a2455bbfc6165f1708fd5c586d6573682e65656c756d612e6f7267",
   "country": "NL",
   "provider": "VK"
  },
  {
   "server": "37.139.40.75",
   "port": 443,
-  "secret": "eedcaae509a2455bbfc6165f1708fd5c586d6573682e65656c756d612e6f7267",
+  "secret": "eeaa6cb0b4a5f0726f60b57ee7548edf536d6573682e65656c756d612e6f7267",
   "country": "NL",
   "provider": "VK"
  },
@@ -35,7 +35,7 @@
   "provider": "VK"
  },
  {
-  "server": "85.192.35.205",
+  "server": "85.192.34.108",
   "port": 443,
   "secret": "ee6ec9f7e082baf2397b450727ce78447e686f66662e7275",
   "country": "DE",
@@ -51,42 +51,14 @@
  {
   "server": "90.156.216.7",
   "port": 443,
-  "secret": "eeaa6cb0b4a5f0726f60b57ee7548edf536d6573682e65656c756d612e6f7267",
+  "secret": "eedcaae509a2455bbfc6165f1708fd5c586d6573682e65656c756d612e6f7267",
   "country": "NL",
   "provider": "VK"
  },
  {
   "server": "90.156.216.7",
   "port": 443,
-  "secret": "eedcaae509a2455bbfc6165f1708fd5c586d6573682e65656c756d612e6f7267",
-  "country": "NL",
-  "provider": "VK"
- },
- {
-  "server": "90.156.217.92",
-  "port": 443,
   "secret": "eeaa6cb0b4a5f0726f60b57ee7548edf536d6573682e65656c756d612e6f7267",
-  "country": "NL",
-  "provider": "VK"
- },
- {
-  "server": "90.156.217.92",
-  "port": 443,
-  "secret": "eedcaae509a2455bbfc6165f1708fd5c586d6573682e65656c756d612e6f7267",
-  "country": "NL",
-  "provider": "VK"
- },
- {
-  "server": "90.156.219.176",
-  "port": 443,
-  "secret": "eeaa6cb0b4a5f0726f60b57ee7548edf536d6573682e65656c756d612e6f7267",
-  "country": "NL",
-  "provider": "VK"
- },
- {
-  "server": "90.156.219.176",
-  "port": 443,
-  "secret": "eedcaae509a2455bbfc6165f1708fd5c586d6573682e65656c756d612e6f7267",
   "country": "NL",
   "provider": "VK"
  },
@@ -100,14 +72,14 @@
  {
   "server": "95.163.213.141",
   "port": 443,
-  "secret": "eeaa6cb0b4a5f0726f60b57ee7548edf536d6573682e65656c756d612e6f7267",
+  "secret": "eedcaae509a2455bbfc6165f1708fd5c586d6573682e65656c756d612e6f7267",
   "country": "NL",
   "provider": "VK"
  },
  {
-  "server": "95.163.213.141",
+  "server": "161.104.105.122",
   "port": 443,
-  "secret": "eedcaae509a2455bbfc6165f1708fd5c586d6573682e65656c756d612e6f7267",
+  "secret": "dd6dc6c32df732ff33148c4217aa901c4d",
   "country": "NL",
   "provider": "VK"
  },
@@ -119,9 +91,9 @@
   "provider": "VK"
  },
  {
-  "server": "161.104.106.87",
+  "server": "212.233.89.100",
   "port": 443,
-  "secret": "dd6dc6c32df732ff33148c4217aa901c4d",
+  "secret": "eedcaae509a2455bbfc6165f1708fd5c586d6573682e65656c756d612e6f7267",
   "country": "NL",
   "provider": "VK"
  },
@@ -129,13 +101,6 @@
   "server": "212.233.89.100",
   "port": 443,
   "secret": "eeaa6cb0b4a5f0726f60b57ee7548edf536d6573682e65656c756d612e6f7267",
-  "country": "NL",
-  "provider": "VK"
- },
- {
-  "server": "212.233.89.100",
-  "port": 443,
-  "secret": "eedcaae509a2455bbfc6165f1708fd5c586d6573682e65656c756d612e6f7267",
   "country": "NL",
   "provider": "VK"
  },
@@ -170,22 +135,28 @@
   "via": "https"
  },
  {
+  "server": "deepsky.club",
+  "secret": "1549de91e71978183354fa780ac7d53f",
+  "country": "PL",
+  "via": "https"
+ },
+ {
   "server": "fiwebpps.yearnings.ru",
   "secret": "d48469efaa56e717893a3773f4f2de45",
   "country": "FI",
   "via": "websocket"
  },
  {
+  "server": "flare-tg.xyz",
+  "secret": "341b03f574bb516bee51a6c6aa68f212",
+  "country": "SE",
+  "via": "https"
+ },
+ {
   "server": "free.vnespiska.win",
   "secret": "9fc8d7d1aeee614bd5fa3b760da44dd3",
   "country": "DE",
   "via": "https"
- },
- {
-  "server": "freetg.mishutkin.click",
-  "secret": "87e5ee876fc0254eed830e8029a81964",
-  "country": "NL",
-  "via": "websocket"
  },
  {
   "server": "hulkpros.online",
@@ -206,9 +177,9 @@
   "via": "websocket"
  },
  {
-  "server": "n3k1t41996bs.site",
-  "secret": "fe13948493577f314ffe3d703f532685",
-  "country": "FI",
+  "server": "my.woyt.pro",
+  "secret": "8e0eb653b4a296e7d05c98371a277f8a",
+  "country": "NL",
   "via": "https"
  },
  {
@@ -218,10 +189,22 @@
   "via": "https"
  },
  {
+  "server": "newsoutlet247.shop",
+  "secret": "221e9f387d3a5b291a802805512e3661",
+  "country": "HU",
+  "via": "websocket"
+ },
+ {
   "server": "newversion.my",
   "secret": "c60988954529faf7447b7ef83203a020",
   "country": "DE",
   "via": "https"
+ },
+ {
+  "server": "proxy.btb.onl",
+  "secret": "c65971187df6f633ab62b21d03c4d504",
+  "country": "DE",
+  "via": "websocket"
  },
  {
   "server": "rnd.tirel.top",
