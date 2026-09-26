@@ -28,20 +28,6 @@
   "provider": "VK"
  },
  {
-  "server": "85.192.33.89",
-  "port": 443,
-  "secret": "ee7391242569590e01416101927d38b565686f66662e7275",
-  "country": "DE",
-  "provider": "VK"
- },
- {
-  "server": "85.192.34.108",
-  "port": 443,
-  "secret": "ee6ec9f7e082baf2397b450727ce78447e686f66662e7275",
-  "country": "DE",
-  "provider": "VK"
- },
- {
   "server": "89.208.209.22",
   "port": 443,
   "secret": "ddf390d9757cb92d87826bcef28a6e75ed",
@@ -63,6 +49,34 @@
   "provider": "VK"
  },
  {
+  "server": "90.156.217.92",
+  "port": 443,
+  "secret": "eedcaae509a2455bbfc6165f1708fd5c586d6573682e65656c756d612e6f7267",
+  "country": "NL",
+  "provider": "VK"
+ },
+ {
+  "server": "90.156.217.92",
+  "port": 443,
+  "secret": "eeaa6cb0b4a5f0726f60b57ee7548edf536d6573682e65656c756d612e6f7267",
+  "country": "NL",
+  "provider": "VK"
+ },
+ {
+  "server": "90.156.219.176",
+  "port": 443,
+  "secret": "eedcaae509a2455bbfc6165f1708fd5c586d6573682e65656c756d612e6f7267",
+  "country": "NL",
+  "provider": "VK"
+ },
+ {
+  "server": "90.156.219.176",
+  "port": 443,
+  "secret": "eeaa6cb0b4a5f0726f60b57ee7548edf536d6573682e65656c756d612e6f7267",
+  "country": "NL",
+  "provider": "VK"
+ },
+ {
   "server": "94.139.247.202",
   "port": 443,
   "secret": "dd6dc6c32df732ff33148c4217aa901c4d",
@@ -73,6 +87,13 @@
   "server": "95.163.213.141",
   "port": 443,
   "secret": "eedcaae509a2455bbfc6165f1708fd5c586d6573682e65656c756d612e6f7267",
+  "country": "NL",
+  "provider": "VK"
+ },
+ {
+  "server": "95.163.213.141",
+  "port": 443,
+  "secret": "eeaa6cb0b4a5f0726f60b57ee7548edf536d6573682e65656c756d612e6f7267",
   "country": "NL",
   "provider": "VK"
  },
@@ -147,16 +168,16 @@
   "via": "websocket"
  },
  {
-  "server": "flare-tg.xyz",
-  "secret": "341b03f574bb516bee51a6c6aa68f212",
-  "country": "SE",
-  "via": "https"
- },
- {
   "server": "free.vnespiska.win",
   "secret": "9fc8d7d1aeee614bd5fa3b760da44dd3",
   "country": "DE",
   "via": "https"
+ },
+ {
+  "server": "freetg.mishutkin.click",
+  "secret": "87e5ee876fc0254eed830e8029a81964",
+  "country": "NL",
+  "via": "websocket"
  },
  {
   "server": "hulkpros.online",
@@ -210,6 +231,12 @@
   "server": "rnd.tirel.top",
   "secret": "b0bfb76c2fa6afb7970c89607679f7a0",
   "country": "NL",
+  "via": "https"
+ },
+ {
+  "server": "tg2.rknmimo.cfd",
+  "secret": "ad4ac6036da69786375da4f58721ab70",
+  "country": "US",
   "via": "https"
  },
  {
@@ -271,12 +298,6 @@
   "secret": "1014d05ddbb4c391fe7217cae7ad7be8",
   "country": "NL",
   "via": "websocket-lanes"
- },
- {
-  "server": "web2.zainet.tech",
-  "secret": "9ed08be15ce91986b2ddb754d84bfd76",
-  "country": "NL",
-  "via": "websocket"
  },
  {
   "server": "webproxy.yearnings.ru",
