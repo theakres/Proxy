@@ -7,10 +7,52 @@
   "provider": "Yandex KZ"
  },
  {
+  "server": "37.139.32.103",
+  "port": 443,
+  "secret": "ee1111222233334444555566667777888874342e6d79726b612e6469676974616c",
+  "country": "AE",
+  "provider": "VK"
+ },
+ {
+  "server": "37.139.32.103",
+  "port": 8443,
+  "secret": "ee888877776666555544443333222211117474322e6d79726b612e6469676974616c",
+  "country": "IT",
+  "provider": "VK"
+ },
+ {
+  "server": "37.139.34.1",
+  "port": 443,
+  "secret": "ee04daa35f7150d1d16c43f270c26831086a61726b6f2e6d79726b612e6469676974616c",
+  "country": "IT",
+  "provider": "VK"
+ },
+ {
+  "server": "37.139.40.75",
+  "port": 443,
+  "secret": "eedcaae509a2455bbfc6165f1708fd5c586d6573682e65656c756d612e6f7267",
+  "country": "NL",
+  "provider": "VK"
+ },
+ {
+  "server": "37.139.40.75",
+  "port": 443,
+  "secret": "eeaa6cb0b4a5f0726f60b57ee7548edf536d6573682e65656c756d612e6f7267",
+  "country": "NL",
+  "provider": "VK"
+ },
+ {
   "server": "84.23.52.184",
   "port": 443,
   "secret": "ddf390d9757cb92d87826bcef28a6e75ed",
   "country": "EE",
+  "provider": "VK"
+ },
+ {
+  "server": "87.239.106.191",
+  "port": 443,
+  "secret": "eeebfc2fcebe840e19f29cf87fadfaad78686f66662e7275",
+  "country": "FI",
   "provider": "VK"
  },
  {
@@ -21,9 +63,65 @@
   "provider": "VK"
  },
  {
+  "server": "90.156.216.7",
+  "port": 443,
+  "secret": "eedcaae509a2455bbfc6165f1708fd5c586d6573682e65656c756d612e6f7267",
+  "country": "NL",
+  "provider": "VK"
+ },
+ {
+  "server": "90.156.216.7",
+  "port": 443,
+  "secret": "eeaa6cb0b4a5f0726f60b57ee7548edf536d6573682e65656c756d612e6f7267",
+  "country": "NL",
+  "provider": "VK"
+ },
+ {
+  "server": "90.156.217.92",
+  "port": 443,
+  "secret": "eedcaae509a2455bbfc6165f1708fd5c586d6573682e65656c756d612e6f7267",
+  "country": "NL",
+  "provider": "VK"
+ },
+ {
+  "server": "90.156.217.92",
+  "port": 443,
+  "secret": "eeaa6cb0b4a5f0726f60b57ee7548edf536d6573682e65656c756d612e6f7267",
+  "country": "NL",
+  "provider": "VK"
+ },
+ {
+  "server": "90.156.219.176",
+  "port": 443,
+  "secret": "eedcaae509a2455bbfc6165f1708fd5c586d6573682e65656c756d612e6f7267",
+  "country": "NL",
+  "provider": "VK"
+ },
+ {
+  "server": "90.156.219.176",
+  "port": 443,
+  "secret": "eeaa6cb0b4a5f0726f60b57ee7548edf536d6573682e65656c756d612e6f7267",
+  "country": "NL",
+  "provider": "VK"
+ },
+ {
   "server": "94.139.247.202",
   "port": 443,
   "secret": "dd6dc6c32df732ff33148c4217aa901c4d",
+  "country": "NL",
+  "provider": "VK"
+ },
+ {
+  "server": "95.163.213.141",
+  "port": 443,
+  "secret": "eedcaae509a2455bbfc6165f1708fd5c586d6573682e65656c756d612e6f7267",
+  "country": "NL",
+  "provider": "VK"
+ },
+ {
+  "server": "95.163.213.141",
+  "port": 443,
+  "secret": "eeaa6cb0b4a5f0726f60b57ee7548edf536d6573682e65656c756d612e6f7267",
   "country": "NL",
   "provider": "VK"
  },
@@ -49,30 +147,23 @@
   "provider": "VK"
  },
  {
-  "server": "161.104.108.118",
+  "server": "185.130.115.231",
   "port": 443,
   "secret": "ee6ec9f7e082baf2397b450727ce78447e686f66662e7275",
   "country": "DE",
   "provider": "VK"
  },
  {
-  "server": "161.104.108.176",
-  "port": 443,
-  "secret": "ee7391242569590e01416101927d38b565686f66662e7275",
-  "country": "DE",
-  "provider": "VK"
- },
- {
   "server": "212.233.89.100",
   "port": 443,
-  "secret": "eeaa6cb0b4a5f0726f60b57ee7548edf536d6573682e65656c756d612e6f7267",
+  "secret": "eedcaae509a2455bbfc6165f1708fd5c586d6573682e65656c756d612e6f7267",
   "country": "NL",
   "provider": "VK"
  },
  {
   "server": "212.233.89.100",
   "port": 443,
-  "secret": "eedcaae509a2455bbfc6165f1708fd5c586d6573682e65656c756d612e6f7267",
+  "secret": "eeaa6cb0b4a5f0726f60b57ee7548edf536d6573682e65656c756d612e6f7267",
   "country": "NL",
   "provider": "VK"
  },
@@ -158,12 +249,6 @@
   "server": "my.woyt.pro",
   "secret": "8e0eb653b4a296e7d05c98371a277f8a",
   "country": "NL",
-  "via": "https"
- },
- {
-  "server": "n3k1t41996bs.site",
-  "secret": "fe13948493577f314ffe3d703f532685",
-  "country": "FI",
   "via": "https"
  },
  {
@@ -285,11 +370,5 @@
   "secret": "c86eee0a0873b12d40fa6ea959caa5f0",
   "country": "NL",
   "via": "https-lanes"
- },
- {
-  "server": "websw.freenet.ddnsgeek.com",
-  "secret": "f43cfa0cb4b1d1124643927f09de3c7b",
-  "country": "SE",
-  "via": "https"
  }
 ]
