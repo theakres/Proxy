@@ -17,7 +17,7 @@
   "server": "37.139.32.103",
   "port": 8443,
   "secret": "ee888877776666555544443333222211117474322e6d79726b612e6469676974616c",
-  "country": "IT",
+  "country": "AE",
   "provider": "VK"
  },
  {
@@ -25,6 +25,13 @@
   "port": 443,
   "secret": "ee04daa35f7150d1d16c43f270c26831086a61726b6f2e6d79726b612e6469676974616c",
   "country": "IT",
+  "provider": "VK"
+ },
+ {
+  "server": "37.139.34.1",
+  "port": 444,
+  "secret": "ee8888777766665555444433332222111174332e6d79726b612e6469676974616c",
+  "country": "AE",
   "provider": "VK"
  },
  {
@@ -49,7 +56,7 @@
   "provider": "VK"
  },
  {
-  "server": "87.239.106.191",
+  "server": "87.239.110.226",
   "port": 443,
   "secret": "eeebfc2fcebe840e19f29cf87fadfaad78686f66662e7275",
   "country": "FI",
@@ -147,9 +154,16 @@
   "provider": "VK"
  },
  {
-  "server": "185.130.115.231",
+  "server": "185.86.146.130",
   "port": 443,
-  "secret": "ee6ec9f7e082baf2397b450727ce78447e686f66662e7275",
+  "secret": "ee54701e1686de96a44721501a7bee9e4c6c796e657474652e6d79726b612e6469676974616c",
+  "country": "DE",
+  "provider": "VK"
+ },
+ {
+  "server": "185.130.114.221",
+  "port": 443,
+  "secret": "ee7391242569590e01416101927d38b565686f66662e7275",
   "country": "DE",
   "provider": "VK"
  },
@@ -204,10 +218,10 @@
   "via": "https"
  },
  {
-  "server": "fiwebpps.yearnings.ru",
-  "secret": "d48469efaa56e717893a3773f4f2de45",
-  "country": "FI",
-  "via": "websocket"
+  "server": "flare-free.xyz",
+  "secret": "ec101543b4d4b7f77045eca0d821a641",
+  "country": "SE",
+  "via": "https"
  },
  {
   "server": "flare-tg.xyz",
@@ -248,7 +262,13 @@
  {
   "server": "my.woyt.pro",
   "secret": "8e0eb653b4a296e7d05c98371a277f8a",
-  "country": "NL",
+  "country": "US",
+  "via": "https"
+ },
+ {
+  "server": "n3k1t41996bs.site",
+  "secret": "fe13948493577f314ffe3d703f532685",
+  "country": "FI",
   "via": "https"
  },
  {
@@ -304,6 +324,12 @@
   "secret": "73a41a35f42a05667dc578a25d99868f",
   "country": "NL",
   "via": "websocket-lanes"
+ },
+ {
+  "server": "web.fi.nvrsk-not-news.ru",
+  "secret": "034499688122599a18a1ce8c8687e64f",
+  "country": "AE",
+  "via": "https"
  },
  {
   "server": "web.jumbleconnect.ru",
@@ -370,5 +396,11 @@
   "secret": "c86eee0a0873b12d40fa6ea959caa5f0",
   "country": "NL",
   "via": "https-lanes"
+ },
+ {
+  "server": "wp.subkadeh.cyou",
+  "secret": "ee4810f3afd96b0c8ad9104bb8c25077",
+  "country": "TR",
+  "via": "websocket"
  }
 ]
