@@ -7,21 +7,7 @@
   "provider": "Yandex KZ"
  },
  {
-  "server": "51.250.8.7",
-  "port": 443,
-  "secret": "ee428556d05daa4a0b07760f3441189a97706574726f766963682e7275",
-  "country": "GB",
-  "provider": "Yandex"
- },
- {
-  "server": "51.250.110.2",
-  "port": 443,
-  "secret": "eee85e0f743d3dafb1821e815c0690ad29706574726f766963682e7275",
-  "country": "FR",
-  "provider": "Yandex"
- },
- {
-  "server": "84.201.159.182",
+  "server": "51.250.85.124",
   "port": 443,
   "secret": "ee1790ad0931b7149843b05376bcda0df1706574726f766963682e7275",
   "country": "GB",
@@ -42,6 +28,13 @@
   "provider": "Yandex"
  },
  {
+  "server": "158.160.158.93",
+  "port": 443,
+  "secret": "eee85e0f743d3dafb1821e815c0690ad29706574726f766963682e7275",
+  "country": "FR",
+  "provider": "Yandex"
+ },
+ {
   "server": "158.160.204.45",
   "port": 443,
   "secret": "dd6dc6c32df732ff33148c4217aa901c4d",
@@ -49,21 +42,35 @@
   "provider": "Yandex"
  },
  {
-  "server": "212.111.85.68",
+  "server": "212.111.85.159",
+  "port": 443,
+  "secret": "ee1111222233334444555566667777888874342e6d79726b612e6469676974616c",
+  "country": "AE",
+  "provider": "VK"
+ },
+ {
+  "server": "212.111.85.159",
+  "port": 8443,
+  "secret": "ee888877776666555544443333222211117474322e6d79726b612e6469676974616c",
+  "country": "AE",
+  "provider": "VK"
+ },
+ {
+  "server": "212.111.85.253",
   "port": 443,
   "secret": "ee04daa35f7150d1d16c43f270c26831086a61726b6f2e6d79726b612e6469676974616c",
   "country": "IT",
   "provider": "VK"
  },
  {
-  "server": "212.111.85.68",
+  "server": "212.111.85.253",
   "port": 444,
   "secret": "ee8888777766665555444433332222111174332e6d79726b612e6469676974616c",
   "country": "AE",
   "provider": "VK"
  },
  {
-  "server": "212.111.87.104",
+  "server": "212.111.87.4",
   "port": 443,
   "secret": "ee54701e1686de96a44721501a7bee9e4c6c796e657474652e6d79726b612e6469676974616c",
   "country": "IT",
