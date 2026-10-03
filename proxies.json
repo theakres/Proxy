@@ -7,42 +7,21 @@
   "provider": "Yandex KZ"
  },
  {
-  "server": "51.250.74.79",
-  "port": 443,
-  "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
-  "country": "NL",
-  "provider": "Yandex"
- },
- {
-  "server": "84.252.129.122",
+  "server": "89.169.137.192",
   "port": 443,
   "secret": "ee428556d05daa4a0b07760f3441189a97706574726f766963682e7275",
   "country": "GB",
   "provider": "Yandex"
  },
  {
-  "server": "89.169.142.235",
+  "server": "89.169.152.69",
   "port": 443,
   "secret": "ee1790ad0931b7149843b05376bcda0df1706574726f766963682e7275",
   "country": "GB",
   "provider": "Yandex"
  },
  {
-  "server": "89.208.87.157",
-  "port": 443,
-  "secret": "ee25f1d868ea750156d0d2128388c87ae4746173732e7275",
-  "country": "FI",
-  "provider": "VK"
- },
- {
   "server": "93.77.160.149",
-  "port": 443,
-  "secret": "eee85e0f743d3dafb1821e815c0690ad29706574726f766963682e7275",
-  "country": "FR",
-  "provider": "Yandex"
- },
- {
-  "server": "158.160.154.155",
   "port": 443,
   "secret": "eee85e0f743d3dafb1821e815c0690ad29706574726f766963682e7275",
   "country": "FR",
@@ -56,20 +35,6 @@
   "provider": "Yandex"
  },
  {
-  "server": "212.111.85.159",
-  "port": 443,
-  "secret": "ee1111222233334444555566667777888874342e6d79726b612e6469676974616c",
-  "country": "AE",
-  "provider": "VK"
- },
- {
-  "server": "212.111.85.159",
-  "port": 8443,
-  "secret": "ee888877776666555544443333222211117474322e6d79726b612e6469676974616c",
-  "country": "AE",
-  "provider": "VK"
- },
- {
   "server": "212.111.85.253",
   "port": 443,
   "secret": "ee04daa35f7150d1d16c43f270c26831086a61726b6f2e6d79726b612e6469676974616c",
@@ -81,13 +46,6 @@
   "port": 444,
   "secret": "ee8888777766665555444433332222111174332e6d79726b612e6469676974616c",
   "country": "AE",
-  "provider": "VK"
- },
- {
-  "server": "212.111.87.4",
-  "port": 443,
-  "secret": "ee54701e1686de96a44721501a7bee9e4c6c796e657474652e6d79726b612e6469676974616c",
-  "country": "IT",
   "provider": "VK"
  },
  {
@@ -175,12 +133,6 @@
   "via": "https"
  },
  {
-  "server": "netherlands.gamma-kvn.com",
-  "secret": "1f39305372faa27bf1abe2c0bdc6f08e",
-  "country": "NL",
-  "via": "https"
- },
- {
   "server": "newversion.my",
   "secret": "c60988954529faf7447b7ef83203a020",
   "country": "DE",
@@ -253,12 +205,6 @@
   "via": "https"
  },
  {
-  "server": "web.vpsfix.lol",
-  "secret": "6b757bc7d694606163d4dcd3a7ed565f",
-  "country": "NL",
-  "via": "https"
- },
- {
   "server": "web.willvpn.space",
   "secret": "fb4224121e528a37200b09a99841e44e",
   "country": "NL",
@@ -271,27 +217,9 @@
   "via": "websocket-lanes"
  },
  {
-  "server": "web2.zainet.tech",
-  "secret": "9ed08be15ce91986b2ddb754d84bfd76",
-  "country": "NL",
-  "via": "websocket"
- },
- {
   "server": "webproxy.yearnings.ru",
   "secret": "158380d7f43736a6c8bec9820226790d",
   "country": "DE",
-  "via": "websocket"
- },
- {
-  "server": "webproxy1.gram.blog",
-  "secret": "9e44d13ce2b5296286da74b3dda5b95f",
-  "country": "AE",
-  "via": "websocket"
- },
- {
-  "server": "webproxy3.gram.blog",
-  "secret": "f588977fcd87f2d6850e697ac3df1772",
-  "country": "FR",
   "via": "websocket"
  },
  {
