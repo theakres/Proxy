@@ -7,10 +7,45 @@
   "provider": "Yandex KZ"
  },
  {
-  "server": "89.169.129.12",
+  "server": "62.84.119.196",
   "port": 443,
-  "secret": "ee1790ad0931b7149843b05376bcda0df1706574726f766963682e7275",
-  "country": "GB",
+  "secret": "eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275",
+  "country": "NL",
+  "provider": "Yandex"
+ },
+ {
+  "server": "62.84.127.77",
+  "port": 443,
+  "secret": "eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275",
+  "country": "NL",
+  "provider": "Yandex"
+ },
+ {
+  "server": "84.201.130.229",
+  "port": 443,
+  "secret": "ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275",
+  "country": "NL",
+  "provider": "Yandex"
+ },
+ {
+  "server": "84.252.128.245",
+  "port": 443,
+  "secret": "ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275",
+  "country": "NL",
+  "provider": "Yandex"
+ },
+ {
+  "server": "89.169.160.217",
+  "port": 443,
+  "secret": "eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275",
+  "country": "NL",
+  "provider": "Yandex"
+ },
+ {
+  "server": "89.169.162.12",
+  "port": 443,
+  "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
+  "country": "PL",
   "provider": "Yandex"
  },
  {
@@ -21,9 +56,30 @@
   "provider": "VK"
  },
  {
-  "server": "93.77.191.241",
+  "server": "93.77.176.171",
   "port": 443,
   "secret": "ee428556d05daa4a0b07760f3441189a97706574726f766963682e7275",
+  "country": "GB",
+  "provider": "Yandex"
+ },
+ {
+  "server": "93.77.188.185",
+  "port": 443,
+  "secret": "ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275",
+  "country": "NL",
+  "provider": "Yandex"
+ },
+ {
+  "server": "111.88.147.219",
+  "port": 443,
+  "secret": "ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275",
+  "country": "NL",
+  "provider": "Yandex"
+ },
+ {
+  "server": "111.88.241.169",
+  "port": 443,
+  "secret": "ee1790ad0931b7149843b05376bcda0df1706574726f766963682e7275",
   "country": "GB",
   "provider": "Yandex"
  },
@@ -100,6 +156,12 @@
   "secret": "865d8256f6769081944d727dc7954720",
   "country": "DE",
   "via": "websocket-lanes"
+ },
+ {
+  "server": "max-speed.co.uk",
+  "secret": "84738086f0aa4f0c4f4b977e9d0b254e",
+  "country": "DE",
+  "via": "websocket"
  },
  {
   "server": "my.woyt.pro",
@@ -180,15 +242,15 @@
   "via": "https"
  },
  {
-  "server": "web.jumbleconnect.ru",
-  "secret": "89a5ca0dd451fbe51762d7cdcc13a5be",
-  "country": "RO",
-  "via": "https-lanes"
- },
- {
   "server": "web.labronim-a.space",
   "secret": "fe21e0dea7537d5dc6f6b334fc4a992f",
   "country": "US",
+  "via": "https"
+ },
+ {
+  "server": "web.vpsfix.lol",
+  "secret": "6b757bc7d694606163d4dcd3a7ed565f",
+  "country": "NL",
   "via": "https"
  },
  {
@@ -198,16 +260,16 @@
   "via": "https"
  },
  {
-  "server": "web.yard-tg-bot.online",
-  "secret": "07635470792163f3d4d6ef46d88b9cad",
-  "country": "RO",
-  "via": "https"
- },
- {
   "server": "web2.antenna-mzt.live",
   "secret": "1014d05ddbb4c391fe7217cae7ad7be8",
   "country": "NL",
   "via": "websocket-lanes"
+ },
+ {
+  "server": "web2.zainet.tech",
+  "secret": "9ed08be15ce91986b2ddb754d84bfd76",
+  "country": "NL",
+  "via": "websocket"
  },
  {
   "server": "webproxy.yearnings.ru",
