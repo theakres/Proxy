@@ -7,24 +7,52 @@
   "provider": "Yandex KZ"
  },
  {
-  "server": "89.169.137.192",
+  "server": "37.139.32.203",
   "port": 443,
-  "secret": "ee428556d05daa4a0b07760f3441189a97706574726f766963682e7275",
-  "country": "GB",
+  "secret": "ee94fc2b484af6e1e1c87e6576b33c2575766b2e636f6d",
+  "country": "US",
+  "provider": "VK"
+ },
+ {
+  "server": "37.139.32.203",
+  "port": 443,
+  "secret": "ee94fc2b484af6e1e1c87e6576b33c257579612e7275",
+  "country": "US",
+  "provider": "VK"
+ },
+ {
+  "server": "37.139.32.246",
+  "port": 443,
+  "secret": "ee94fc2b484af6e1e1c87e6576b33c2575766b2e636f6d",
+  "country": "US",
+  "provider": "VK"
+ },
+ {
+  "server": "37.139.32.246",
+  "port": 443,
+  "secret": "ee94fc2b484af6e1e1c87e6576b33c257579612e7275",
+  "country": "US",
+  "provider": "VK"
+ },
+ {
+  "server": "81.26.185.103",
+  "port": 443,
+  "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
+  "country": "PL",
   "provider": "Yandex"
  },
  {
-  "server": "89.169.152.69",
+  "server": "93.77.176.11",
   "port": 443,
   "secret": "ee1790ad0931b7149843b05376bcda0df1706574726f766963682e7275",
   "country": "GB",
   "provider": "Yandex"
  },
  {
-  "server": "93.77.160.149",
+  "server": "93.77.185.125",
   "port": 443,
-  "secret": "eee85e0f743d3dafb1821e815c0690ad29706574726f766963682e7275",
-  "country": "FR",
+  "secret": "ee428556d05daa4a0b07760f3441189a97706574726f766963682e7275",
+  "country": "GB",
   "provider": "Yandex"
  },
  {
@@ -47,6 +75,12 @@
   "secret": "ee8888777766665555444433332222111174332e6d79726b612e6469676974616c",
   "country": "AE",
   "provider": "VK"
+ },
+ {
+  "server": "41play.live",
+  "secret": "b3bb7260db405b8ba98bcbc11d6daaf5",
+  "country": "US",
+  "via": "websocket-lanes"
  },
  {
   "server": "67.kfwl.lol",
@@ -133,6 +167,12 @@
   "via": "https"
  },
  {
+  "server": "netherlands.gamma-kvn.com",
+  "secret": "1f39305372faa27bf1abe2c0bdc6f08e",
+  "country": "NL",
+  "via": "https"
+ },
+ {
   "server": "newversion.my",
   "secret": "c60988954529faf7447b7ef83203a020",
   "country": "DE",
@@ -202,12 +242,6 @@
   "server": "web.labronim-a.space",
   "secret": "fe21e0dea7537d5dc6f6b334fc4a992f",
   "country": "US",
-  "via": "https"
- },
- {
-  "server": "web.willvpn.space",
-  "secret": "fb4224121e528a37200b09a99841e44e",
-  "country": "NL",
   "via": "https"
  },
  {
