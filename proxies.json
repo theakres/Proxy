@@ -7,17 +7,10 @@
   "provider": "Yandex KZ"
  },
  {
-  "server": "62.84.117.4",
+  "server": "89.169.129.12",
   "port": 443,
-  "secret": "ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275",
-  "country": "NL",
-  "provider": "Yandex"
- },
- {
-  "server": "84.201.158.106",
-  "port": 443,
-  "secret": "eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275",
-  "country": "NL",
+  "secret": "ee1790ad0931b7149843b05376bcda0df1706574726f766963682e7275",
+  "country": "GB",
   "provider": "Yandex"
  },
  {
@@ -28,45 +21,10 @@
   "provider": "VK"
  },
  {
-  "server": "93.77.186.157",
+  "server": "93.77.191.241",
   "port": 443,
-  "secret": "eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275",
-  "country": "NL",
-  "provider": "Yandex"
- },
- {
-  "server": "93.77.191.163",
-  "port": 443,
-  "secret": "ee1790ad0931b7149843b05376bcda0df1706574726f766963682e7275",
+  "secret": "ee428556d05daa4a0b07760f3441189a97706574726f766963682e7275",
   "country": "GB",
-  "provider": "Yandex"
- },
- {
-  "server": "111.88.147.219",
-  "port": 443,
-  "secret": "ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275",
-  "country": "NL",
-  "provider": "Yandex"
- },
- {
-  "server": "111.88.152.77",
-  "port": 443,
-  "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
-  "country": "NL",
-  "provider": "Yandex"
- },
- {
-  "server": "111.88.156.24",
-  "port": 443,
-  "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
-  "country": "NL",
-  "provider": "Yandex"
- },
- {
-  "server": "111.88.158.81",
-  "port": 443,
-  "secret": "eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275",
-  "country": "NL",
   "provider": "Yandex"
  },
  {
@@ -144,6 +102,12 @@
   "via": "websocket-lanes"
  },
  {
+  "server": "my.woyt.pro",
+  "secret": "8e0eb653b4a296e7d05c98371a277f8a",
+  "country": "US",
+  "via": "https"
+ },
+ {
   "server": "n3k1t41996bs.site",
   "secret": "fe13948493577f314ffe3d703f532685",
   "country": "FI",
@@ -214,6 +178,12 @@
   "secret": "034499688122599a18a1ce8c8687e64f",
   "country": "AE",
   "via": "https"
+ },
+ {
+  "server": "web.jumbleconnect.ru",
+  "secret": "89a5ca0dd451fbe51762d7cdcc13a5be",
+  "country": "RO",
+  "via": "https-lanes"
  },
  {
   "server": "web.labronim-a.space",
