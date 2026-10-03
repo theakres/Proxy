@@ -7,59 +7,31 @@
   "provider": "Yandex KZ"
  },
  {
-  "server": "46.21.245.97",
+  "server": "37.139.33.166",
   "port": 443,
-  "secret": "ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275",
-  "country": "NL",
-  "provider": "Yandex"
+  "secret": "ee94fc2b484af6e1e1c87e6576b33c2575766b2e636f6d",
+  "country": "US",
+  "provider": "VK"
  },
  {
-  "server": "51.250.2.21",
+  "server": "37.139.33.166",
   "port": 443,
-  "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
-  "country": "NL",
-  "provider": "Yandex"
+  "secret": "ee94fc2b484af6e1e1c87e6576b33c257579612e7275",
+  "country": "US",
+  "provider": "VK"
  },
  {
-  "server": "84.201.157.66",
-  "port": 443,
-  "secret": "ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275",
-  "country": "NL",
-  "provider": "Yandex"
- },
- {
-  "server": "89.169.150.3",
-  "port": 443,
-  "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
-  "country": "NL",
-  "provider": "Yandex"
- },
- {
-  "server": "89.169.156.136",
+  "server": "89.169.147.47",
   "port": 443,
   "secret": "ee428556d05daa4a0b07760f3441189a97706574726f766963682e7275",
   "country": "GB",
   "provider": "Yandex"
  },
  {
-  "server": "93.77.165.113",
+  "server": "93.77.177.157",
   "port": 443,
-  "secret": "eee85e0f743d3dafb1821e815c0690ad29706574726f766963682e7275",
-  "country": "FR",
-  "provider": "Yandex"
- },
- {
-  "server": "158.160.145.247",
-  "port": 443,
-  "secret": "eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275",
+  "secret": "ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275",
   "country": "NL",
-  "provider": "Yandex"
- },
- {
-  "server": "158.160.147.65",
-  "port": 443,
-  "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
-  "country": "PL",
   "provider": "Yandex"
  },
  {
@@ -71,23 +43,10 @@
  },
  {
   "server": "212.111.85.253",
-  "port": 443,
-  "secret": "ee04daa35f7150d1d16c43f270c26831086a61726b6f2e6d79726b612e6469676974616c",
-  "country": "IT",
-  "provider": "VK"
- },
- {
-  "server": "212.111.85.253",
   "port": 444,
   "secret": "ee8888777766665555444433332222111174332e6d79726b612e6469676974616c",
   "country": "AE",
   "provider": "VK"
- },
- {
-  "server": "41play.live",
-  "secret": "b3bb7260db405b8ba98bcbc11d6daaf5",
-  "country": "US",
-  "via": "websocket-lanes"
  },
  {
   "server": "67.kfwl.lol",
@@ -156,18 +115,6 @@
   "via": "websocket-lanes"
  },
  {
-  "server": "max-speed.co.uk",
-  "secret": "84738086f0aa4f0c4f4b977e9d0b254e",
-  "country": "DE",
-  "via": "websocket"
- },
- {
-  "server": "my.woyt.pro",
-  "secret": "8e0eb653b4a296e7d05c98371a277f8a",
-  "country": "US",
-  "via": "https"
- },
- {
   "server": "n3k1t41996bs.site",
   "secret": "fe13948493577f314ffe3d703f532685",
   "country": "FI",
@@ -192,16 +139,16 @@
   "via": "https"
  },
  {
-  "server": "NewVersion.MY",
-  "secret": "c60988954529faf7447b7ef83203a020",
-  "country": "DE",
-  "via": "https"
- },
- {
   "server": "proxy.btb.onl",
   "secret": "c65971187df6f633ab62b21d03c4d504",
   "country": "DE",
   "via": "websocket-lanes"
+ },
+ {
+  "server": "rnd.tirel.top",
+  "secret": "b0bfb76c2fa6afb7970c89607679f7a0",
+  "country": "NL",
+  "via": "https"
  },
  {
   "server": "tg.rknmimo.cfd",
@@ -246,14 +193,20 @@
   "via": "https"
  },
  {
+  "server": "web.jumbleconnect.ru",
+  "secret": "89a5ca0dd451fbe51762d7cdcc13a5be",
+  "country": "RO",
+  "via": "https-lanes"
+ },
+ {
   "server": "web.labronim-a.space",
   "secret": "fe21e0dea7537d5dc6f6b334fc4a992f",
   "country": "US",
   "via": "https"
  },
  {
-  "server": "web.vpsfix.lol",
-  "secret": "6b757bc7d694606163d4dcd3a7ed565f",
+  "server": "web.willvpn.space",
+  "secret": "fb4224121e528a37200b09a99841e44e",
   "country": "NL",
   "via": "https"
  },
