@@ -7,7 +7,7 @@
   "provider": "Yandex KZ"
  },
  {
-  "server": "51.250.85.124",
+  "server": "89.169.151.181",
   "port": 443,
   "secret": "ee1790ad0931b7149843b05376bcda0df1706574726f766963682e7275",
   "country": "GB",
@@ -21,14 +21,7 @@
   "provider": "VK"
  },
  {
-  "server": "158.160.147.246",
-  "port": 443,
-  "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
-  "country": "NL",
-  "provider": "Yandex"
- },
- {
-  "server": "158.160.158.93",
+  "server": "158.160.154.155",
   "port": 443,
   "secret": "eee85e0f743d3dafb1821e815c0690ad29706574726f766963682e7275",
   "country": "FR",
@@ -77,12 +70,6 @@
   "provider": "VK"
  },
  {
-  "server": "41play.live",
-  "secret": "b3bb7260db405b8ba98bcbc11d6daaf5",
-  "country": "US",
-  "via": "websocket-lanes"
- },
- {
   "server": "67.kfwl.lol",
   "secret": "b5df144e99add138994f80d91b351a43",
   "country": "SE",
@@ -115,12 +102,6 @@
  {
   "server": "flare-free.xyz",
   "secret": "ec101543b4d4b7f77045eca0d821a641",
-  "country": "SE",
-  "via": "https"
- },
- {
-  "server": "flare-tg.xyz",
-  "secret": "341b03f574bb516bee51a6c6aa68f212",
   "country": "SE",
   "via": "https"
  },
@@ -170,18 +151,6 @@
   "server": "n3k1t41996bs.site",
   "secret": "fe13948493577f314ffe3d703f532685",
   "country": "FI",
-  "via": "https"
- },
- {
-  "server": "naap1.cdnflow.store",
-  "secret": "2adba7744ab0b1ca88b609561c0334a1",
-  "country": "NL",
-  "via": "https"
- },
- {
-  "server": "netherlands.gamma-kvn.com",
-  "secret": "1f39305372faa27bf1abe2c0bdc6f08e",
-  "country": "NL",
   "via": "https"
  },
  {
