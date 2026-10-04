@@ -14,6 +14,13 @@
   "provider": "Yandex"
  },
  {
+  "server": "51.250.31.69",
+  "port": 443,
+  "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
+  "country": "PL",
+  "provider": "Yandex"
+ },
+ {
   "server": "51.250.110.57",
   "port": 443,
   "secret": "ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275",
@@ -28,31 +35,31 @@
   "provider": "Yandex"
  },
  {
-  "server": "89.169.189.65",
-  "port": 443,
-  "secret": "ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275",
-  "country": "NL",
-  "provider": "Yandex"
- },
- {
-  "server": "111.88.158.36",
-  "port": 443,
-  "secret": "ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275",
-  "country": "NL",
-  "provider": "Yandex"
- },
- {
-  "server": "111.88.241.122",
+  "server": "89.169.156.226",
   "port": 443,
   "secret": "ee1790ad0931b7149843b05376bcda0df1706574726f766963682e7275",
   "country": "GB",
   "provider": "Yandex"
  },
  {
-  "server": "158.160.189.157",
+  "server": "93.77.163.99",
   "port": 443,
   "secret": "eee85e0f743d3dafb1821e815c0690ad29706574726f766963682e7275",
   "country": "FR",
+  "provider": "Yandex"
+ },
+ {
+  "server": "103.76.53.121",
+  "port": 443,
+  "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
+  "country": "NL",
+  "provider": "Yandex"
+ },
+ {
+  "server": "158.160.128.123",
+  "port": 443,
+  "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
+  "country": "NL",
   "provider": "Yandex"
  },
  {
@@ -92,6 +99,12 @@
   "via": "https"
  },
  {
+  "server": "freetg.mishutkin.click",
+  "secret": "87e5ee876fc0254eed830e8029a81964",
+  "country": "NL",
+  "via": "websocket"
+ },
+ {
   "server": "hulkpros.online",
   "secret": "2241502ca43baef61ccdec6177ed166c",
   "country": "GB",
@@ -113,12 +126,6 @@
   "server": "n3k1t41996bs.site",
   "secret": "fe13948493577f314ffe3d703f532685",
   "country": "FI",
-  "via": "https"
- },
- {
-  "server": "naap1.cdnflow.store",
-  "secret": "2adba7744ab0b1ca88b609561c0334a1",
-  "country": "NL",
   "via": "https"
  },
  {
@@ -191,6 +198,12 @@
   "server": "web.labronim-a.space",
   "secret": "fe21e0dea7537d5dc6f6b334fc4a992f",
   "country": "US",
+  "via": "https"
+ },
+ {
+  "server": "web.vpsfix.lol",
+  "secret": "6b757bc7d694606163d4dcd3a7ed565f",
+  "country": "NL",
   "via": "https"
  },
  {
