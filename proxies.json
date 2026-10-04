@@ -7,10 +7,10 @@
   "provider": "Yandex KZ"
  },
  {
-  "server": "62.84.116.30",
+  "server": "62.84.121.119",
   "port": 443,
-  "secret": "ee428556d05daa4a0b07760f3441189a97706574726f766963682e7275",
-  "country": "GB",
+  "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
+  "country": "PL",
   "provider": "Yandex"
  },
  {
@@ -28,24 +28,10 @@
   "provider": "Yandex"
  },
  {
-  "server": "89.169.190.180",
+  "server": "89.169.188.220",
   "port": 443,
   "secret": "ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275",
   "country": "NL",
-  "provider": "Yandex"
- },
- {
-  "server": "93.77.161.226",
-  "port": 443,
-  "secret": "eee85e0f743d3dafb1821e815c0690ad29706574726f766963682e7275",
-  "country": "FR",
-  "provider": "Yandex"
- },
- {
-  "server": "103.76.55.148",
-  "port": 443,
-  "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
-  "country": "PL",
   "provider": "Yandex"
  },
  {
@@ -192,6 +178,12 @@
   "secret": "034499688122599a18a1ce8c8687e64f",
   "country": "AE",
   "via": "https"
+ },
+ {
+  "server": "web.jumbleconnect.ru",
+  "secret": "89a5ca0dd451fbe51762d7cdcc13a5be",
+  "country": "RO",
+  "via": "https-lanes"
  },
  {
   "server": "web.labronim-a.space",
