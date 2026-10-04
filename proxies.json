@@ -7,16 +7,30 @@
   "provider": "Yandex KZ"
  },
  {
-  "server": "51.250.3.210",
+  "server": "51.250.94.134",
+  "port": 443,
+  "secret": "ee1790ad0931b7149843b05376bcda0df1706574726f766963682e7275",
+  "country": "GB",
+  "provider": "Yandex"
+ },
+ {
+  "server": "81.26.177.213",
+  "port": 443,
+  "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
+  "country": "PL",
+  "provider": "Yandex"
+ },
+ {
+  "server": "89.169.133.165",
   "port": 443,
   "secret": "eee85e0f743d3dafb1821e815c0690ad29706574726f766963682e7275",
   "country": "FR",
   "provider": "Yandex"
  },
  {
-  "server": "51.250.94.134",
+  "server": "89.169.150.89",
   "port": 443,
-  "secret": "ee1790ad0931b7149843b05376bcda0df1706574726f766963682e7275",
+  "secret": "ee428556d05daa4a0b07760f3441189a97706574726f766963682e7275",
   "country": "GB",
   "provider": "Yandex"
  },
@@ -35,24 +49,10 @@
   "provider": "Yandex"
  },
  {
-  "server": "93.77.184.245",
-  "port": 443,
-  "secret": "ee428556d05daa4a0b07760f3441189a97706574726f766963682e7275",
-  "country": "GB",
-  "provider": "Yandex"
- },
- {
   "server": "130.193.40.69",
   "port": 443,
   "secret": "eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275",
   "country": "NL",
-  "provider": "Yandex"
- },
- {
-  "server": "158.160.139.50",
-  "port": 443,
-  "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
-  "country": "PL",
   "provider": "Yandex"
  },
  {
@@ -99,6 +99,12 @@
   "via": "https"
  },
  {
+  "server": "flare-tg.xyz",
+  "secret": "341b03f574bb516bee51a6c6aa68f212",
+  "country": "SE",
+  "via": "https"
+ },
+ {
   "server": "free.vnespiska.win",
   "secret": "9fc8d7d1aeee614bd5fa3b760da44dd3",
   "country": "DE",
@@ -131,14 +137,14 @@
  {
   "server": "kak.hotstbvs.ru",
   "secret": "19642a8b48eff48766d6f7f240209026",
-  "country": "CZ",
+  "country": "LV",
   "via": "https-lanes"
  },
  {
-  "server": "max-speed.co.uk",
-  "secret": "84738086f0aa4f0c4f4b977e9d0b254e",
-  "country": "DE",
-  "via": "websocket"
+  "server": "my.woyt.pro",
+  "secret": "8e0eb653b4a296e7d05c98371a277f8a",
+  "country": "US",
+  "via": "https"
  },
  {
   "server": "n3k1t41996bs.site",
@@ -149,6 +155,12 @@
  {
   "server": "naap1.cdnflow.store",
   "secret": "2adba7744ab0b1ca88b609561c0334a1",
+  "country": "NL",
+  "via": "https"
+ },
+ {
+  "server": "netherlands.gamma-kvn.com",
+  "secret": "1f39305372faa27bf1abe2c0bdc6f08e",
   "country": "NL",
   "via": "https"
  },
@@ -168,6 +180,12 @@
   "server": "tg.rknmimo.cfd",
   "secret": "2af7b2d6033352d284348a0fd154c2fe",
   "country": "NL",
+  "via": "https"
+ },
+ {
+  "server": "tg2.rknmimo.cfd",
+  "secret": "ad4ac6036da69786375da4f58721ab70",
+  "country": "DE",
   "via": "https"
  },
  {
@@ -199,6 +217,12 @@
   "secret": "034499688122599a18a1ce8c8687e64f",
   "country": "AE",
   "via": "https"
+ },
+ {
+  "server": "web.jumbleconnect.ru",
+  "secret": "89a5ca0dd451fbe51762d7cdcc13a5be",
+  "country": "RO",
+  "via": "https-lanes"
  },
  {
   "server": "web.labronim-a.space",
