@@ -7,10 +7,24 @@
   "provider": "Yandex KZ"
  },
  {
-  "server": "81.26.186.27",
+  "server": "84.201.149.137",
   "port": 443,
   "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
   "country": "PL",
+  "provider": "Yandex"
+ },
+ {
+  "server": "84.201.157.17",
+  "port": 443,
+  "secret": "ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275",
+  "country": "NL",
+  "provider": "Yandex"
+ },
+ {
+  "server": "130.193.40.69",
+  "port": 443,
+  "secret": "eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275",
+  "country": "NL",
   "provider": "Yandex"
  },
  {
@@ -57,6 +71,12 @@
   "via": "https"
  },
  {
+  "server": "freetg.mishutkin.click",
+  "secret": "87e5ee876fc0254eed830e8029a81964",
+  "country": "NL",
+  "via": "websocket"
+ },
+ {
   "server": "hulkpros.online",
   "secret": "2241502ca43baef61ccdec6177ed166c",
   "country": "GB",
@@ -75,15 +95,21 @@
   "via": "websocket-lanes"
  },
  {
-  "server": "n3k1t41996bs.site",
-  "secret": "fe13948493577f314ffe3d703f532685",
-  "country": "FI",
+  "server": "max-speed.co.uk",
+  "secret": "84738086f0aa4f0c4f4b977e9d0b254e",
+  "country": "DE",
+  "via": "websocket"
+ },
+ {
+  "server": "my.woyt.pro",
+  "secret": "8e0eb653b4a296e7d05c98371a277f8a",
+  "country": "US",
   "via": "https"
  },
  {
-  "server": "naap1.cdnflow.store",
-  "secret": "2adba7744ab0b1ca88b609561c0334a1",
-  "country": "NL",
+  "server": "n3k1t41996bs.site",
+  "secret": "fe13948493577f314ffe3d703f532685",
+  "country": "FI",
   "via": "https"
  },
  {
@@ -135,10 +161,22 @@
   "via": "websocket-lanes"
  },
  {
+  "server": "web.es.nvrsk-not-news.ru",
+  "secret": "9f28808baf85ae93956b1dd3eb9ee0d0",
+  "country": "ES",
+  "via": "https"
+ },
+ {
   "server": "web.fi.nvrsk-not-news.ru",
   "secret": "034499688122599a18a1ce8c8687e64f",
   "country": "AE",
   "via": "https"
+ },
+ {
+  "server": "web.jumbleconnect.ru",
+  "secret": "89a5ca0dd451fbe51762d7cdcc13a5be",
+  "country": "RO",
+  "via": "https-lanes"
  },
  {
   "server": "web.labronim-a.space",
@@ -149,6 +187,12 @@
  {
   "server": "web.vpsfix.lol",
   "secret": "6b757bc7d694606163d4dcd3a7ed565f",
+  "country": "NL",
+  "via": "https"
+ },
+ {
+  "server": "web.willvpn.space",
+  "secret": "fb4224121e528a37200b09a99841e44e",
   "country": "NL",
   "via": "https"
  },
