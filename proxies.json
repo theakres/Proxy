@@ -7,24 +7,31 @@
   "provider": "Yandex KZ"
  },
  {
-  "server": "84.201.158.146",
+  "server": "51.250.8.183",
   "port": 443,
   "secret": "ee1790ad0931b7149843b05376bcda0df1706574726f766963682e7275",
   "country": "GB",
   "provider": "Yandex"
  },
  {
-  "server": "89.169.128.177",
+  "server": "51.250.82.176",
   "port": 443,
   "secret": "ee428556d05daa4a0b07760f3441189a97706574726f766963682e7275",
   "country": "GB",
   "provider": "Yandex"
  },
  {
-  "server": "103.76.54.60",
+  "server": "81.26.187.247",
   "port": 443,
   "secret": "eee85e0f743d3dafb1821e815c0690ad29706574726f766963682e7275",
   "country": "FR",
+  "provider": "Yandex"
+ },
+ {
+  "server": "84.252.133.58",
+  "port": 443,
+  "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
+  "country": "PL",
   "provider": "Yandex"
  },
  {
@@ -145,12 +152,6 @@
  {
   "server": "naap1.cdnflow.store",
   "secret": "2adba7744ab0b1ca88b609561c0334a1",
-  "country": "NL",
-  "via": "https"
- },
- {
-  "server": "netherlands.gamma-kvn.com",
-  "secret": "1f39305372faa27bf1abe2c0bdc6f08e",
   "country": "NL",
   "via": "https"
  },
