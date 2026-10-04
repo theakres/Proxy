@@ -7,31 +7,10 @@
   "provider": "Yandex KZ"
  },
  {
-  "server": "84.201.165.171",
+  "server": "81.26.186.27",
   "port": 443,
-  "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
-  "country": "NL",
-  "provider": "Yandex"
- },
- {
-  "server": "84.252.130.174",
-  "port": 443,
-  "secret": "ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275",
-  "country": "NL",
-  "provider": "Yandex"
- },
- {
-  "server": "103.76.52.137",
-  "port": 443,
-  "secret": "eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275",
-  "country": "NL",
-  "provider": "Yandex"
- },
- {
-  "server": "111.88.155.63",
-  "port": 443,
-  "secret": "ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275",
-  "country": "NL",
+  "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
+  "country": "PL",
   "provider": "Yandex"
  },
  {
@@ -78,12 +57,6 @@
   "via": "https"
  },
  {
-  "server": "freetg.mishutkin.click",
-  "secret": "87e5ee876fc0254eed830e8029a81964",
-  "country": "NL",
-  "via": "websocket"
- },
- {
   "server": "hulkpros.online",
   "secret": "2241502ca43baef61ccdec6177ed166c",
   "country": "GB",
@@ -105,6 +78,18 @@
   "server": "n3k1t41996bs.site",
   "secret": "fe13948493577f314ffe3d703f532685",
   "country": "FI",
+  "via": "https"
+ },
+ {
+  "server": "naap1.cdnflow.store",
+  "secret": "2adba7744ab0b1ca88b609561c0334a1",
+  "country": "NL",
+  "via": "https"
+ },
+ {
+  "server": "netherlands.gamma-kvn.com",
+  "secret": "1f39305372faa27bf1abe2c0bdc6f08e",
+  "country": "NL",
   "via": "https"
  },
  {
@@ -150,12 +135,6 @@
   "via": "websocket-lanes"
  },
  {
-  "server": "web.es.nvrsk-not-news.ru",
-  "secret": "9f28808baf85ae93956b1dd3eb9ee0d0",
-  "country": "ES",
-  "via": "https"
- },
- {
   "server": "web.fi.nvrsk-not-news.ru",
   "secret": "034499688122599a18a1ce8c8687e64f",
   "country": "AE",
@@ -174,12 +153,6 @@
   "via": "https"
  },
  {
-  "server": "web.willvpn.space",
-  "secret": "fb4224121e528a37200b09a99841e44e",
-  "country": "NL",
-  "via": "https"
- },
- {
   "server": "web.yard-tg-bot.online",
   "secret": "07635470792163f3d4d6ef46d88b9cad",
   "country": "RO",
@@ -190,6 +163,12 @@
   "secret": "1014d05ddbb4c391fe7217cae7ad7be8",
   "country": "NL",
   "via": "websocket-lanes"
+ },
+ {
+  "server": "web2.zainet.tech",
+  "secret": "9ed08be15ce91986b2ddb754d84bfd76",
+  "country": "NL",
+  "via": "websocket"
  },
  {
   "server": "webproxy.yearnings.ru",
