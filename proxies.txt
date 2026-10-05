@@ -1,7 +1,8 @@
 tg://proxy?server=5.35.106.220&port=443&secret=ee59dde6ab8d9ecd79817c9f03c1ba2de168642e6b696e6f706f69736b2e7275
-tg://proxy?server=46.21.247.54&port=443&secret=ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275
 tg://proxy?server=84.201.140.188&port=443&secret=ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275
+tg://proxy?server=84.201.143.144&port=443&secret=ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275
 tg://proxy?server=84.252.138.247&port=443&secret=eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275
+tg://proxy?server=89.169.169.214&port=443&secret=eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275
 tg://proxy?server=158.160.203.227&port=443&secret=dd6dc6c32df732ff33148c4217aa901c4d
 tg://webproxy?server=41play.live&secret=b3bb7260db405b8ba98bcbc11d6daaf5
 tg://webproxy?server=67.kfwl.lol&secret=b5df144e99add138994f80d91b351a43
@@ -27,6 +28,7 @@ tg://webproxy?server=newversion.my&secret=c60988954529faf7447b7ef83203a020
 tg://webproxy?server=proxy.btb.onl&secret=c65971187df6f633ab62b21d03c4d504
 tg://webproxy?server=tg.rknmimo.cfd&secret=2af7b2d6033352d284348a0fd154c2fe
 tg://webproxy?server=tg2.rknmimo.cfd&secret=ad4ac6036da69786375da4f58721ab70
+tg://webproxy?server=tgweb1.mooo.com&secret=b7689021436511b147fd571f787b9ca2
 tg://webproxy?server=thebirds.world&secret=bace78f2e29ada4137186fa8b7d14f1d
 tg://webproxy?server=ultrafast.blog&secret=35ed0d45ffb5299af435492606ca6717
 tg://webproxy?server=web.antenna-mzt.live&secret=73a41a35f42a05667dc578a25d99868f
