@@ -7,13 +7,6 @@
   "provider": "Yandex KZ"
  },
  {
-  "server": "84.201.143.144",
-  "port": 443,
-  "secret": "ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275",
-  "country": "NL",
-  "provider": "Yandex"
- },
- {
   "server": "158.160.203.227",
   "port": 443,
   "secret": "dd6dc6c32df732ff33148c4217aa901c4d",
@@ -39,12 +32,6 @@
   "via": "websocket"
  },
  {
-  "server": "connect.zan-go.online",
-  "secret": "ec0029777f1996b8105f360caee792d5",
-  "country": "EE",
-  "via": "https"
- },
- {
   "server": "deepsky.club",
   "secret": "1549de91e71978183354fa780ac7d53f",
   "country": "PL",
@@ -59,12 +46,6 @@
  {
   "server": "flare-free.xyz",
   "secret": "ec101543b4d4b7f77045eca0d821a641",
-  "country": "SE",
-  "via": "https"
- },
- {
-  "server": "flare-tg.xyz",
-  "secret": "341b03f574bb516bee51a6c6aa68f212",
   "country": "SE",
   "via": "https"
  },
@@ -105,12 +86,6 @@
   "via": "https-lanes"
  },
  {
-  "server": "max-speed.co.uk",
-  "secret": "84738086f0aa4f0c4f4b977e9d0b254e",
-  "country": "DE",
-  "via": "websocket"
- },
- {
   "server": "my.woyt.pro",
   "secret": "8e0eb653b4a296e7d05c98371a277f8a",
   "country": "US",
@@ -145,6 +120,12 @@
   "secret": "c65971187df6f633ab62b21d03c4d504",
   "country": "DE",
   "via": "websocket-lanes"
+ },
+ {
+  "server": "rnd.tirel.top",
+  "secret": "b0bfb76c2fa6afb7970c89607679f7a0",
+  "country": "NL",
+  "via": "https"
  },
  {
   "server": "tg.rknmimo.cfd",
