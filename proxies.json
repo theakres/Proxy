@@ -7,17 +7,38 @@
   "provider": "Yandex KZ"
  },
  {
-  "server": "62.84.115.111",
+  "server": "51.250.0.189",
   "port": 443,
-  "secret": "ee428556d05daa4a0b07760f3441189a97706574726f766963682e7275",
+  "secret": "ee1790ad0931b7149843b05376bcda0df1706574726f766963682e7275",
   "country": "GB",
   "provider": "Yandex"
  },
  {
-  "server": "158.160.194.169",
+  "server": "93.77.162.2",
   "port": 443,
   "secret": "eee85e0f743d3dafb1821e815c0690ad29706574726f766963682e7275",
   "country": "FR",
+  "provider": "Yandex"
+ },
+ {
+  "server": "158.160.3.228",
+  "port": 443,
+  "secret": "eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275",
+  "country": "NL",
+  "provider": "Yandex"
+ },
+ {
+  "server": "158.160.30.247",
+  "port": 443,
+  "secret": "eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275",
+  "country": "NL",
+  "provider": "Yandex"
+ },
+ {
+  "server": "158.160.203.227",
+  "port": 443,
+  "secret": "dd6dc6c32df732ff33148c4217aa901c4d",
+  "country": "NL",
   "provider": "Yandex"
  },
  {
@@ -63,15 +84,21 @@
   "via": "https"
  },
  {
-  "server": "flare-tg.xyz",
-  "secret": "341b03f574bb516bee51a6c6aa68f212",
-  "country": "SE",
-  "via": "https"
- },
- {
   "server": "free.vnespiska.win",
   "secret": "9fc8d7d1aeee614bd5fa3b760da44dd3",
   "country": "DE",
+  "via": "https"
+ },
+ {
+  "server": "freetg.mishutkin.click",
+  "secret": "87e5ee876fc0254eed830e8029a81964",
+  "country": "NL",
+  "via": "websocket"
+ },
+ {
+  "server": "game.spacee.xyz",
+  "secret": "18adcc8527031c4f27eddcd437bd27e2",
+  "country": "SE",
   "via": "https"
  },
  {
@@ -95,8 +122,14 @@
  {
   "server": "kak.hotstbvs.ru",
   "secret": "19642a8b48eff48766d6f7f240209026",
-  "country": "LV",
+  "country": "US",
   "via": "https-lanes"
+ },
+ {
+  "server": "my.woyt.pro",
+  "secret": "8e0eb653b4a296e7d05c98371a277f8a",
+  "country": "US",
+  "via": "https"
  },
  {
   "server": "n3k1t41996bs.site",
@@ -181,6 +214,18 @@
   "secret": "034499688122599a18a1ce8c8687e64f",
   "country": "AE",
   "via": "https"
+ },
+ {
+  "server": "web.free-inet.ddnsfree.com",
+  "secret": "f43cfa0cb4b1d1124643927f09de3c7b",
+  "country": "NL",
+  "via": "https"
+ },
+ {
+  "server": "web.jumbleconnect.ru",
+  "secret": "89a5ca0dd451fbe51762d7cdcc13a5be",
+  "country": "RO",
+  "via": "https-lanes"
  },
  {
   "server": "web.labronim-a.space",
