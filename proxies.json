@@ -7,13 +7,6 @@
   "provider": "Yandex KZ"
  },
  {
-  "server": "46.21.247.54",
-  "port": 443,
-  "secret": "ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275",
-  "country": "NL",
-  "provider": "Yandex"
- },
- {
   "server": "84.201.140.188",
   "port": 443,
   "secret": "ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275",
@@ -21,7 +14,21 @@
   "provider": "Yandex"
  },
  {
+  "server": "84.201.143.144",
+  "port": 443,
+  "secret": "ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275",
+  "country": "NL",
+  "provider": "Yandex"
+ },
+ {
   "server": "84.252.138.247",
+  "port": 443,
+  "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
+  "country": "NL",
+  "provider": "Yandex"
+ },
+ {
+  "server": "89.169.169.214",
   "port": 443,
   "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
   "country": "NL",
@@ -176,6 +183,12 @@
   "server": "tg2.rknmimo.cfd",
   "secret": "ad4ac6036da69786375da4f58721ab70",
   "country": "DE",
+  "via": "https"
+ },
+ {
+  "server": "tgweb1.mooo.com",
+  "secret": "b7689021436511b147fd571f787b9ca2",
+  "country": "NL",
   "via": "https"
  },
  {
