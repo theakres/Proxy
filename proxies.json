@@ -7,21 +7,14 @@
   "provider": "Yandex KZ"
  },
  {
-  "server": "89.169.155.63",
+  "server": "84.201.132.25",
   "port": 443,
-  "secret": "ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275",
-  "country": "NL",
+  "secret": "ee1790ad0931b7149843b05376bcda0df1706574726f766963682e7275",
+  "country": "GB",
   "provider": "Yandex"
  },
  {
-  "server": "89.169.164.11",
-  "port": 443,
-  "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
-  "country": "NL",
-  "provider": "Yandex"
- },
- {
-  "server": "89.169.183.192",
+  "server": "93.77.176.232",
   "port": 443,
   "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
   "country": "NL",
@@ -35,9 +28,9 @@
   "provider": "Yandex"
  },
  {
-  "server": "111.88.253.151",
+  "server": "130.193.39.17",
   "port": 443,
-  "secret": "ee1790ad0931b7149843b05376bcda0df1706574726f766963682e7275",
+  "secret": "ee428556d05daa4a0b07760f3441189a97706574726f766963682e7275",
   "country": "GB",
   "provider": "Yandex"
  },
@@ -49,10 +42,10 @@
   "provider": "Yandex"
  },
  {
-  "server": "158.160.53.92",
+  "server": "158.160.20.21",
   "port": 443,
-  "secret": "ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275",
-  "country": "NL",
+  "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
+  "country": "PL",
   "provider": "Yandex"
  },
  {
@@ -88,6 +81,12 @@
   "via": "websocket"
  },
  {
+  "server": "connect.zan-go.online",
+  "secret": "ec0029777f1996b8105f360caee792d5",
+  "country": "EE",
+  "via": "https"
+ },
+ {
   "server": "deepsky.club",
   "secret": "1549de91e71978183354fa780ac7d53f",
   "country": "PL",
@@ -118,12 +117,6 @@
   "via": "https"
  },
  {
-  "server": "freetg.mishutkin.click",
-  "secret": "87e5ee876fc0254eed830e8029a81964",
-  "country": "NL",
-  "via": "websocket"
- },
- {
   "server": "hulkpros.online",
   "secret": "2241502ca43baef61ccdec6177ed166c",
   "country": "GB",
@@ -144,8 +137,14 @@
  {
   "server": "kak.hotstbvs.ru",
   "secret": "19642a8b48eff48766d6f7f240209026",
-  "country": "CZ",
+  "country": "LV",
   "via": "https-lanes"
+ },
+ {
+  "server": "my.woyt.pro",
+  "secret": "8e0eb653b4a296e7d05c98371a277f8a",
+  "country": "US",
+  "via": "https"
  },
  {
   "server": "n3k1t41996bs.site",
@@ -184,6 +183,12 @@
   "via": "websocket"
  },
  {
+  "server": "spacee.xyz",
+  "secret": "14e5cb4be26efb4a1a4c3e34b59ba79f",
+  "country": "DE",
+  "via": "https"
+ },
+ {
   "server": "tg.rknmimo.cfd",
   "secret": "2af7b2d6033352d284348a0fd154c2fe",
   "country": "NL",
@@ -220,15 +225,33 @@
   "via": "https"
  },
  {
+  "server": "web.jumbleconnect.ru",
+  "secret": "89a5ca0dd451fbe51762d7cdcc13a5be",
+  "country": "RO",
+  "via": "https-lanes"
+ },
+ {
   "server": "web.labronim-a.space",
   "secret": "fe21e0dea7537d5dc6f6b334fc4a992f",
   "country": "US",
   "via": "https"
  },
  {
+  "server": "web.vpsfix.lol",
+  "secret": "6b757bc7d694606163d4dcd3a7ed565f",
+  "country": "NL",
+  "via": "https"
+ },
+ {
   "server": "web.willvpn.space",
   "secret": "fb4224121e528a37200b09a99841e44e",
   "country": "NL",
+  "via": "https"
+ },
+ {
+  "server": "web.yard-tg-bot.online",
+  "secret": "07635470792163f3d4d6ef46d88b9cad",
+  "country": "RO",
   "via": "https"
  },
  {
@@ -260,6 +283,12 @@
   "secret": "c86eee0a0873b12d40fa6ea959caa5f0",
   "country": "NL",
   "via": "websocket-lanes"
+ },
+ {
+  "server": "websw.freenet.ddnsgeek.com",
+  "secret": "f43cfa0cb4b1d1124643927f09de3c7b",
+  "country": "SE",
+  "via": "https"
  },
  {
   "server": "wp.subkadeh.cyou",
