@@ -7,24 +7,10 @@
   "provider": "Yandex KZ"
  },
  {
-  "server": "51.250.3.209",
+  "server": "62.84.113.156",
   "port": 443,
-  "secret": "ee428556d05daa4a0b07760f3441189a97706574726f766963682e7275",
+  "secret": "ee1790ad0931b7149843b05376bcda0df1706574726f766963682e7275",
   "country": "GB",
-  "provider": "Yandex"
- },
- {
-  "server": "51.250.97.51",
-  "port": 443,
-  "secret": "ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275",
-  "country": "NL",
-  "provider": "Yandex"
- },
- {
-  "server": "93.77.160.127",
-  "port": 443,
-  "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
-  "country": "PL",
   "provider": "Yandex"
  },
  {
@@ -32,6 +18,20 @@
   "port": 443,
   "secret": "eee85e0f743d3dafb1821e815c0690ad29706574726f766963682e7275",
   "country": "FR",
+  "provider": "Yandex"
+ },
+ {
+  "server": "93.77.167.252",
+  "port": 443,
+  "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
+  "country": "PL",
+  "provider": "Yandex"
+ },
+ {
+  "server": "158.160.187.85",
+  "port": 443,
+  "secret": "ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275",
+  "country": "NL",
   "provider": "Yandex"
  },
  {
@@ -156,6 +156,18 @@
   "via": "https"
  },
  {
+  "server": "neomap.club",
+  "secret": "3082e7f2e4ebb3abec0b8011fc493653",
+  "country": "US",
+  "via": "websocket"
+ },
+ {
+  "server": "netherlands.gamma-kvn.com",
+  "secret": "1f39305372faa27bf1abe2c0bdc6f08e",
+  "country": "NL",
+  "via": "https"
+ },
+ {
   "server": "newversion.my",
   "secret": "c60988954529faf7447b7ef83203a020",
   "country": "DE",
@@ -249,7 +261,7 @@
   "server": "web.yard-tg-bot.online",
   "secret": "07635470792163f3d4d6ef46d88b9cad",
   "country": "RO",
-  "via": "https"
+  "via": "websocket"
  },
  {
   "server": "web2.antenna-mzt.live",
