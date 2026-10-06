@@ -7,7 +7,7 @@
   "provider": "Yandex KZ"
  },
  {
-  "server": "51.250.8.15",
+  "server": "51.250.3.209",
   "port": 443,
   "secret": "ee428556d05daa4a0b07760f3441189a97706574726f766963682e7275",
   "country": "GB",
@@ -21,24 +21,17 @@
   "provider": "Yandex"
  },
  {
-  "server": "93.77.163.167",
+  "server": "93.77.160.127",
   "port": 443,
   "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
   "country": "PL",
   "provider": "Yandex"
  },
  {
-  "server": "95.163.213.255",
+  "server": "93.77.165.214",
   "port": 443,
-  "secret": "ee141890e379048d6ccc4b57b53aeb1e4f676f6f676c652e636f6d",
-  "country": "FI",
-  "provider": "VK"
- },
- {
-  "server": "158.160.38.88",
-  "port": 443,
-  "secret": "ee1790ad0931b7149843b05376bcda0df1706574726f766963682e7275",
-  "country": "GB",
+  "secret": "eee85e0f743d3dafb1821e815c0690ad29706574726f766963682e7275",
+  "country": "FR",
   "provider": "Yandex"
  },
  {
@@ -49,11 +42,10 @@
   "provider": "Yandex"
  },
  {
-  "server": "158.160.228.249",
-  "port": 443,
-  "secret": "eee85e0f743d3dafb1821e815c0690ad29706574726f766963682e7275",
-  "country": "FR",
-  "provider": "Yandex"
+  "server": "41play.live",
+  "secret": "b3bb7260db405b8ba98bcbc11d6daaf5",
+  "country": "US",
+  "via": "websocket-lanes"
  },
  {
   "server": "67.kfwl.lol",
@@ -72,6 +64,12 @@
   "secret": "628e7bc8ee9c0b7cd5b1971d1f39f998",
   "country": "DE",
   "via": "websocket"
+ },
+ {
+  "server": "connect.zan-go.online",
+  "secret": "ec0029777f1996b8105f360caee792d5",
+  "country": "EE",
+  "via": "https"
  },
  {
   "server": "deepsky.club",
@@ -140,20 +138,20 @@
   "via": "https-lanes"
  },
  {
-  "server": "naap1.cdnflow.store",
-  "secret": "2adba7744ab0b1ca88b609561c0334a1",
-  "country": "NL",
-  "via": "https"
- },
- {
-  "server": "neomap.club",
-  "secret": "3082e7f2e4ebb3abec0b8011fc493653",
-  "country": "US",
+  "server": "max-speed.co.uk",
+  "secret": "84738086f0aa4f0c4f4b977e9d0b254e",
+  "country": "DE",
   "via": "websocket"
  },
  {
-  "server": "netherlands.gamma-kvn.com",
-  "secret": "1f39305372faa27bf1abe2c0bdc6f08e",
+  "server": "my.woyt.pro",
+  "secret": "8e0eb653b4a296e7d05c98371a277f8a",
+  "country": "US",
+  "via": "https"
+ },
+ {
+  "server": "naap1.cdnflow.store",
+  "secret": "2adba7744ab0b1ca88b609561c0334a1",
   "country": "NL",
   "via": "https"
  },
