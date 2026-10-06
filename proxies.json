@@ -14,17 +14,38 @@
   "provider": "Yandex"
  },
  {
-  "server": "158.160.4.31",
+  "server": "93.77.162.61",
   "port": 443,
-  "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
-  "country": "PL",
+  "secret": "eee85e0f743d3dafb1821e815c0690ad29706574726f766963682e7275",
+  "country": "FR",
   "provider": "Yandex"
  },
  {
-  "server": "158.160.30.220",
+  "server": "158.160.29.121",
   "port": 443,
   "secret": "ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275",
   "country": "NL",
+  "provider": "Yandex"
+ },
+ {
+  "server": "158.160.39.238",
+  "port": 443,
+  "secret": "eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275",
+  "country": "NL",
+  "provider": "Yandex"
+ },
+ {
+  "server": "158.160.48.240",
+  "port": 443,
+  "secret": "ee428556d05daa4a0b07760f3441189a97706574726f766963682e7275",
+  "country": "GB",
+  "provider": "Yandex"
+ },
+ {
+  "server": "158.160.49.144",
+  "port": 443,
+  "secret": "ee1790ad0931b7149843b05376bcda0df1706574726f766963682e7275",
+  "country": "GB",
   "provider": "Yandex"
  },
  {
@@ -115,14 +136,8 @@
  {
   "server": "kak.hotstbvs.ru",
   "secret": "19642a8b48eff48766d6f7f240209026",
-  "country": "US",
+  "country": "CZ",
   "via": "https-lanes"
- },
- {
-  "server": "my.woyt.pro",
-  "secret": "8e0eb653b4a296e7d05c98371a277f8a",
-  "country": "US",
-  "via": "https"
  },
  {
   "server": "naap1.cdnflow.store",
@@ -218,6 +233,12 @@
   "server": "web.labronim-a.space",
   "secret": "fe21e0dea7537d5dc6f6b334fc4a992f",
   "country": "US",
+  "via": "https"
+ },
+ {
+  "server": "web.vpsfix.lol",
+  "secret": "6b757bc7d694606163d4dcd3a7ed565f",
+  "country": "NL",
   "via": "https"
  },
  {
