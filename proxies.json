@@ -7,17 +7,10 @@
   "provider": "Yandex KZ"
  },
  {
-  "server": "51.250.94.217",
+  "server": "158.160.20.57",
   "port": 443,
-  "secret": "ee1790ad0931b7149843b05376bcda0df1706574726f766963682e7275",
-  "country": "GB",
-  "provider": "Yandex"
- },
- {
-  "server": "103.76.54.89",
-  "port": 443,
-  "secret": "eee85e0f743d3dafb1821e815c0690ad29706574726f766963682e7275",
-  "country": "FR",
+  "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
+  "country": "PL",
   "provider": "Yandex"
  },
  {
@@ -26,6 +19,12 @@
   "secret": "dd6dc6c32df732ff33148c4217aa901c4d",
   "country": "NL",
   "provider": "Yandex"
+ },
+ {
+  "server": "41play.live",
+  "secret": "b3bb7260db405b8ba98bcbc11d6daaf5",
+  "country": "US",
+  "via": "websocket-lanes"
  },
  {
   "server": "67.kfwl.lol",
@@ -88,12 +87,6 @@
   "via": "https"
  },
  {
-  "server": "freetg.mishutkin.click",
-  "secret": "87e5ee876fc0254eed830e8029a81964",
-  "country": "NL",
-  "via": "websocket"
- },
- {
   "server": "game.spacee.xyz",
   "secret": "18adcc8527031c4f27eddcd437bd27e2",
   "country": "SE",
@@ -120,7 +113,7 @@
  {
   "server": "kak.hotstbvs.ru",
   "secret": "19642a8b48eff48766d6f7f240209026",
-  "country": "LV",
+  "country": "CZ",
   "via": "https-lanes"
  },
  {
@@ -152,12 +145,6 @@
   "secret": "3082e7f2e4ebb3abec0b8011fc493653",
   "country": "US",
   "via": "websocket"
- },
- {
-  "server": "netherlands.gamma-kvn.com",
-  "secret": "1f39305372faa27bf1abe2c0bdc6f08e",
-  "country": "NL",
-  "via": "https"
  },
  {
   "server": "newversion.my",
@@ -214,6 +201,12 @@
   "via": "websocket-lanes"
  },
  {
+  "server": "web.es.nvrsk-not-news.ru",
+  "secret": "9f28808baf85ae93956b1dd3eb9ee0d0",
+  "country": "AM",
+  "via": "https"
+ },
+ {
   "server": "web.fi.nvrsk-not-news.ru",
   "secret": "034499688122599a18a1ce8c8687e64f",
   "country": "AE",
@@ -235,12 +228,6 @@
   "server": "web.labronim-a.space",
   "secret": "fe21e0dea7537d5dc6f6b334fc4a992f",
   "country": "US",
-  "via": "https"
- },
- {
-  "server": "web.vpsfix.lol",
-  "secret": "6b757bc7d694606163d4dcd3a7ed565f",
-  "country": "NL",
   "via": "https"
  },
  {
