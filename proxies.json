@@ -7,10 +7,59 @@
   "provider": "Yandex KZ"
  },
  {
-  "server": "158.160.20.57",
+  "server": "37.230.168.58",
+  "port": 443,
+  "secret": "ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275",
+  "country": "NL",
+  "provider": "Yandex"
+ },
+ {
+  "server": "46.243.211.155",
+  "port": 443,
+  "secret": "eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275",
+  "country": "NL",
+  "provider": "Yandex"
+ },
+ {
+  "server": "51.250.12.87",
+  "port": 443,
+  "secret": "eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275",
+  "country": "NL",
+  "provider": "Yandex"
+ },
+ {
+  "server": "51.250.93.100",
+  "port": 443,
+  "secret": "eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275",
+  "country": "NL",
+  "provider": "Yandex"
+ },
+ {
+  "server": "51.250.101.98",
+  "port": 443,
+  "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
+  "country": "NL",
+  "provider": "Yandex"
+ },
+ {
+  "server": "84.201.153.216",
+  "port": 443,
+  "secret": "ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275",
+  "country": "NL",
+  "provider": "Yandex"
+ },
+ {
+  "server": "158.160.16.243",
   "port": 443,
   "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
   "country": "PL",
+  "provider": "Yandex"
+ },
+ {
+  "server": "158.160.189.55",
+  "port": 443,
+  "secret": "eee85e0f743d3dafb1821e815c0690ad29706574726f766963682e7275",
+  "country": "FR",
   "provider": "Yandex"
  },
  {
@@ -19,12 +68,6 @@
   "secret": "dd6dc6c32df732ff33148c4217aa901c4d",
   "country": "NL",
   "provider": "Yandex"
- },
- {
-  "server": "41play.live",
-  "secret": "b3bb7260db405b8ba98bcbc11d6daaf5",
-  "country": "US",
-  "via": "websocket-lanes"
  },
  {
   "server": "67.kfwl.lol",
@@ -75,16 +118,16 @@
   "via": "https"
  },
  {
-  "server": "flare-tg.xyz",
-  "secret": "341b03f574bb516bee51a6c6aa68f212",
-  "country": "SE",
-  "via": "https"
- },
- {
   "server": "free.vnespiska.win",
   "secret": "9fc8d7d1aeee614bd5fa3b760da44dd3",
   "country": "DE",
   "via": "https"
+ },
+ {
+  "server": "freetg.mishutkin.click",
+  "secret": "87e5ee876fc0254eed830e8029a81964",
+  "country": "NL",
+  "via": "websocket"
  },
  {
   "server": "game.spacee.xyz",
@@ -117,12 +160,6 @@
   "via": "https-lanes"
  },
  {
-  "server": "max-speed.co.uk",
-  "secret": "84738086f0aa4f0c4f4b977e9d0b254e",
-  "country": "DE",
-  "via": "websocket"
- },
- {
   "server": "my.woyt.pro",
   "secret": "8e0eb653b4a296e7d05c98371a277f8a",
   "country": "US",
@@ -145,6 +182,12 @@
   "secret": "3082e7f2e4ebb3abec0b8011fc493653",
   "country": "US",
   "via": "websocket"
+ },
+ {
+  "server": "netherlands.gamma-kvn.com",
+  "secret": "1f39305372faa27bf1abe2c0bdc6f08e",
+  "country": "NL",
+  "via": "https"
  },
  {
   "server": "newversion.my",
@@ -173,12 +216,6 @@
  {
   "server": "tg.rknmimo.cfd",
   "secret": "2af7b2d6033352d284348a0fd154c2fe",
-  "country": "NL",
-  "via": "https"
- },
- {
-  "server": "tgweb1.mooo.com",
-  "secret": "b7689021436511b147fd571f787b9ca2",
   "country": "NL",
   "via": "https"
  },
