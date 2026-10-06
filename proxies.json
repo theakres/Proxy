@@ -7,17 +7,10 @@
   "provider": "Yandex KZ"
  },
  {
-  "server": "51.250.0.249",
+  "server": "51.250.97.191",
   "port": 443,
   "secret": "eee85e0f743d3dafb1821e815c0690ad29706574726f766963682e7275",
   "country": "FR",
-  "provider": "Yandex"
- },
- {
-  "server": "51.250.83.225",
-  "port": 443,
-  "secret": "ee428556d05daa4a0b07760f3441189a97706574726f766963682e7275",
-  "country": "GB",
   "provider": "Yandex"
  },
  {
@@ -158,6 +151,12 @@
   "secret": "3082e7f2e4ebb3abec0b8011fc493653",
   "country": "US",
   "via": "websocket"
+ },
+ {
+  "server": "netherlands.gamma-kvn.com",
+  "secret": "1f39305372faa27bf1abe2c0bdc6f08e",
+  "country": "NL",
+  "via": "https"
  },
  {
   "server": "newversion.my",
