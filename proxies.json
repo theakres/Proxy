@@ -7,31 +7,24 @@
   "provider": "Yandex KZ"
  },
  {
-  "server": "51.250.81.153",
+  "server": "46.21.245.113",
   "port": 443,
   "secret": "eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275",
   "country": "NL",
   "provider": "Yandex"
  },
  {
-  "server": "84.201.153.216",
-  "port": 443,
-  "secret": "ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275",
-  "country": "NL",
-  "provider": "Yandex"
- },
- {
-  "server": "93.77.164.16",
-  "port": 443,
-  "secret": "eee85e0f743d3dafb1821e815c0690ad29706574726f766963682e7275",
-  "country": "FR",
-  "provider": "Yandex"
- },
- {
-  "server": "103.76.52.10",
+  "server": "158.160.4.31",
   "port": 443,
   "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
   "country": "PL",
+  "provider": "Yandex"
+ },
+ {
+  "server": "158.160.30.220",
+  "port": 443,
+  "secret": "ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275",
+  "country": "NL",
   "provider": "Yandex"
  },
  {
@@ -96,12 +89,6 @@
   "via": "https"
  },
  {
-  "server": "freetg.mishutkin.click",
-  "secret": "87e5ee876fc0254eed830e8029a81964",
-  "country": "NL",
-  "via": "websocket"
- },
- {
   "server": "game.spacee.xyz",
   "secret": "18adcc8527031c4f27eddcd437bd27e2",
   "country": "SE",
@@ -128,19 +115,13 @@
  {
   "server": "kak.hotstbvs.ru",
   "secret": "19642a8b48eff48766d6f7f240209026",
-  "country": "CZ",
+  "country": "US",
   "via": "https-lanes"
  },
  {
   "server": "my.woyt.pro",
   "secret": "8e0eb653b4a296e7d05c98371a277f8a",
   "country": "US",
-  "via": "https"
- },
- {
-  "server": "n3k1t41996bs.site",
-  "secret": "fe13948493577f314ffe3d703f532685",
-  "country": "FI",
   "via": "https"
  },
  {
