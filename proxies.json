@@ -7,21 +7,14 @@
   "provider": "Yandex KZ"
  },
  {
-  "server": "62.84.125.251",
+  "server": "51.250.94.217",
   "port": 443,
   "secret": "ee1790ad0931b7149843b05376bcda0df1706574726f766963682e7275",
   "country": "GB",
   "provider": "Yandex"
  },
  {
-  "server": "89.169.135.115",
-  "port": 443,
-  "secret": "ee428556d05daa4a0b07760f3441189a97706574726f766963682e7275",
-  "country": "GB",
-  "provider": "Yandex"
- },
- {
-  "server": "93.77.167.241",
+  "server": "103.76.54.89",
   "port": 443,
   "secret": "eee85e0f743d3dafb1821e815c0690ad29706574726f766963682e7275",
   "country": "FR",
@@ -33,12 +26,6 @@
   "secret": "dd6dc6c32df732ff33148c4217aa901c4d",
   "country": "NL",
   "provider": "Yandex"
- },
- {
-  "server": "41play.live",
-  "secret": "b3bb7260db405b8ba98bcbc11d6daaf5",
-  "country": "US",
-  "via": "websocket-lanes"
  },
  {
   "server": "67.kfwl.lol",
@@ -273,12 +260,6 @@
   "secret": "1014d05ddbb4c391fe7217cae7ad7be8",
   "country": "NL",
   "via": "websocket-lanes"
- },
- {
-  "server": "web2.zainet.tech",
-  "secret": "9ed08be15ce91986b2ddb754d84bfd76",
-  "country": "NL",
-  "via": "websocket"
  },
  {
   "server": "webproxy.yearnings.ru",
