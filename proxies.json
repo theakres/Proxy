@@ -7,21 +7,21 @@
   "provider": "Yandex KZ"
  },
  {
-  "server": "51.250.1.161",
+  "server": "62.84.125.251",
   "port": 443,
   "secret": "ee1790ad0931b7149843b05376bcda0df1706574726f766963682e7275",
   "country": "GB",
   "provider": "Yandex"
  },
  {
-  "server": "51.250.82.239",
+  "server": "89.169.135.115",
   "port": 443,
   "secret": "ee428556d05daa4a0b07760f3441189a97706574726f766963682e7275",
   "country": "GB",
   "provider": "Yandex"
  },
  {
-  "server": "89.169.190.12",
+  "server": "93.77.167.241",
   "port": 443,
   "secret": "eee85e0f743d3dafb1821e815c0690ad29706574726f766963682e7275",
   "country": "FR",
@@ -133,7 +133,7 @@
  {
   "server": "kak.hotstbvs.ru",
   "secret": "19642a8b48eff48766d6f7f240209026",
-  "country": "CZ",
+  "country": "LV",
   "via": "https-lanes"
  },
  {
@@ -225,12 +225,6 @@
   "secret": "73a41a35f42a05667dc578a25d99868f",
   "country": "NL",
   "via": "websocket-lanes"
- },
- {
-  "server": "web.es.nvrsk-not-news.ru",
-  "secret": "9f28808baf85ae93956b1dd3eb9ee0d0",
-  "country": "AM",
-  "via": "https"
  },
  {
   "server": "web.fi.nvrsk-not-news.ru",
