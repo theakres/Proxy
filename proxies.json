@@ -7,7 +7,14 @@
   "provider": "Yandex KZ"
  },
  {
-  "server": "51.250.110.236",
+  "server": "51.250.97.139",
+  "port": 443,
+  "secret": "ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275",
+  "country": "NL",
+  "provider": "Yandex"
+ },
+ {
+  "server": "51.250.105.14",
   "port": 443,
   "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
   "country": "NL",
@@ -28,9 +35,9 @@
   "provider": "Yandex"
  },
  {
-  "server": "89.169.135.252",
+  "server": "89.169.150.239",
   "port": 443,
-  "secret": "ee428556d05daa4a0b07760f3441189a97706574726f766963682e7275",
+  "secret": "ee1790ad0931b7149843b05376bcda0df1706574726f766963682e7275",
   "country": "GB",
   "provider": "Yandex"
  },
@@ -42,23 +49,16 @@
   "provider": "Yandex"
  },
  {
-  "server": "89.169.165.175",
+  "server": "103.76.54.70",
   "port": 443,
   "secret": "ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275",
   "country": "NL",
   "provider": "Yandex"
  },
  {
-  "server": "89.169.169.59",
+  "server": "158.160.203.106",
   "port": 443,
-  "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
-  "country": "PL",
-  "provider": "Yandex"
- },
- {
-  "server": "103.76.54.70",
-  "port": 443,
-  "secret": "ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275",
+  "secret": "eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275",
   "country": "NL",
   "provider": "Yandex"
  },
@@ -124,6 +124,12 @@
   "via": "https"
  },
  {
+  "server": "flare-tg.xyz",
+  "secret": "341b03f574bb516bee51a6c6aa68f212",
+  "country": "SE",
+  "via": "https"
+ },
+ {
   "server": "free.vnespiska.win",
   "secret": "9fc8d7d1aeee614bd5fa3b760da44dd3",
   "country": "DE",
@@ -162,7 +168,7 @@
  {
   "server": "kak.hotstbvs.ru",
   "secret": "19642a8b48eff48766d6f7f240209026",
-  "country": "LV",
+  "country": "US",
   "via": "https-lanes"
  },
  {
@@ -266,12 +272,6 @@
   "secret": "f43cfa0cb4b1d1124643927f09de3c7b",
   "country": "NL",
   "via": "https"
- },
- {
-  "server": "web.jumbleconnect.ru",
-  "secret": "89a5ca0dd451fbe51762d7cdcc13a5be",
-  "country": "RO",
-  "via": "https-lanes"
  },
  {
   "server": "web.labronim-a.space",
