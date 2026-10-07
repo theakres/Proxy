@@ -14,24 +14,38 @@
   "provider": "Yandex"
  },
  {
-  "server": "81.26.179.130",
+  "server": "51.250.94.221",
   "port": 443,
-  "secret": "eee85e0f743d3dafb1821e815c0690ad29706574726f766963682e7275",
-  "country": "FR",
+  "secret": "eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275",
+  "country": "NL",
   "provider": "Yandex"
  },
  {
-  "server": "158.160.197.96",
+  "server": "84.201.151.230",
   "port": 443,
   "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
   "country": "PL",
   "provider": "Yandex"
  },
  {
-  "server": "158.160.198.59",
+  "server": "89.169.129.100",
   "port": 443,
-  "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
-  "country": "PL",
+  "secret": "eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275",
+  "country": "NL",
+  "provider": "Yandex"
+ },
+ {
+  "server": "93.77.185.133",
+  "port": 443,
+  "secret": "ee428556d05daa4a0b07760f3441189a97706574726f766963682e7275",
+  "country": "GB",
+  "provider": "Yandex"
+ },
+ {
+  "server": "93.77.188.0",
+  "port": 443,
+  "secret": "eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275",
+  "country": "NL",
   "provider": "Yandex"
  },
  {
@@ -115,7 +129,7 @@
  {
   "server": "kak.hotstbvs.ru",
   "secret": "19642a8b48eff48766d6f7f240209026",
-  "country": "US",
+  "country": "LV",
   "via": "https-lanes"
  },
  {
@@ -123,12 +137,6 @@
   "secret": "84738086f0aa4f0c4f4b977e9d0b254e",
   "country": "DE",
   "via": "websocket"
- },
- {
-  "server": "naap1.cdnflow.store",
-  "secret": "2adba7744ab0b1ca88b609561c0334a1",
-  "country": "NL",
-  "via": "https"
  },
  {
   "server": "neomap.club",
@@ -173,6 +181,12 @@
   "via": "https"
  },
  {
+  "server": "tg.empty-space.org",
+  "secret": "7e2b68c52cacccad90eda282852e16ab",
+  "country": "FR",
+  "via": "https"
+ },
+ {
   "server": "thebirds.world",
   "secret": "bace78f2e29ada4137186fa8b7d14f1d",
   "country": "FI",
@@ -189,12 +203,6 @@
   "secret": "73a41a35f42a05667dc578a25d99868f",
   "country": "NL",
   "via": "websocket-lanes"
- },
- {
-  "server": "web.fi.nvrsk-not-news.ru",
-  "secret": "034499688122599a18a1ce8c8687e64f",
-  "country": "AE",
-  "via": "https"
  },
  {
   "server": "web.free-inet.ddnsfree.com",
