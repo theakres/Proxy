@@ -7,6 +7,34 @@
   "provider": "Yandex KZ"
  },
  {
+  "server": "93.77.165.63",
+  "port": 443,
+  "secret": "eee85e0f743d3dafb1821e815c0690ad29706574726f766963682e7275",
+  "country": "FR",
+  "provider": "Yandex"
+ },
+ {
+  "server": "111.88.246.35",
+  "port": 443,
+  "secret": "eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275",
+  "country": "NL",
+  "provider": "Yandex"
+ },
+ {
+  "server": "111.88.254.87",
+  "port": 443,
+  "secret": "ee1790ad0931b7149843b05376bcda0df1706574726f766963682e7275",
+  "country": "GB",
+  "provider": "Yandex"
+ },
+ {
+  "server": "158.160.63.75",
+  "port": 443,
+  "secret": "ee428556d05daa4a0b07760f3441189a97706574726f766963682e7275",
+  "country": "GB",
+  "provider": "Yandex"
+ },
+ {
   "server": "158.160.203.227",
   "port": 443,
   "secret": "dd6dc6c32df732ff33148c4217aa901c4d",
@@ -14,10 +42,11 @@
   "provider": "Yandex"
  },
  {
-  "server": "41play.live",
-  "secret": "b3bb7260db405b8ba98bcbc11d6daaf5",
-  "country": "US",
-  "via": "websocket-lanes"
+  "server": "158.160.207.211",
+  "port": 443,
+  "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
+  "country": "PL",
+  "provider": "Yandex"
  },
  {
   "server": "67.kfwl.lol",
@@ -36,6 +65,12 @@
   "secret": "628e7bc8ee9c0b7cd5b1971d1f39f998",
   "country": "DE",
   "via": "websocket"
+ },
+ {
+  "server": "connect.zan-go.online",
+  "secret": "ec0029777f1996b8105f360caee792d5",
+  "country": "EE",
+  "via": "https"
  },
  {
   "server": "deepsky.club",
@@ -60,12 +95,6 @@
   "secret": "9fc8d7d1aeee614bd5fa3b760da44dd3",
   "country": "DE",
   "via": "https"
- },
- {
-  "server": "freetg.mishutkin.click",
-  "secret": "87e5ee876fc0254eed830e8029a81964",
-  "country": "NL",
-  "via": "websocket"
  },
  {
   "server": "game.spacee.xyz",
@@ -94,7 +123,7 @@
  {
   "server": "kak.hotstbvs.ru",
   "secret": "19642a8b48eff48766d6f7f240209026",
-  "country": "LV",
+  "country": "CZ",
   "via": "https-lanes"
  },
  {
@@ -104,22 +133,16 @@
   "via": "websocket"
  },
  {
-  "server": "my.woyt.pro",
-  "secret": "8e0eb653b4a296e7d05c98371a277f8a",
-  "country": "US",
-  "via": "https"
- },
- {
-  "server": "naap1.cdnflow.store",
-  "secret": "2adba7744ab0b1ca88b609561c0334a1",
-  "country": "NL",
-  "via": "https"
- },
- {
   "server": "neomap.club",
   "secret": "3082e7f2e4ebb3abec0b8011fc493653",
   "country": "US",
   "via": "websocket"
+ },
+ {
+  "server": "netherlands.gamma-kvn.com",
+  "secret": "1f39305372faa27bf1abe2c0bdc6f08e",
+  "country": "NL",
+  "via": "https"
  },
  {
   "server": "newversion.my",
@@ -185,6 +208,12 @@
   "server": "web.labronim-a.space",
   "secret": "fe21e0dea7537d5dc6f6b334fc4a992f",
   "country": "US",
+  "via": "https"
+ },
+ {
+  "server": "web.willvpn.space",
+  "secret": "fb4224121e528a37200b09a99841e44e",
+  "country": "NL",
   "via": "https"
  },
  {
