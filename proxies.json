@@ -7,14 +7,14 @@
   "provider": "Yandex KZ"
  },
  {
-  "server": "46.243.210.98",
+  "server": "51.250.110.236",
   "port": 443,
   "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
   "country": "NL",
   "provider": "Yandex"
  },
  {
-  "server": "51.250.110.236",
+  "server": "62.84.114.201",
   "port": 443,
   "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
   "country": "NL",
@@ -28,23 +28,37 @@
   "provider": "Yandex"
  },
  {
-  "server": "84.201.179.53",
+  "server": "89.169.135.252",
   "port": 443,
-  "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
+  "secret": "ee428556d05daa4a0b07760f3441189a97706574726f766963682e7275",
+  "country": "GB",
+  "provider": "Yandex"
+ },
+ {
+  "server": "89.169.164.124",
+  "port": 443,
+  "secret": "ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275",
   "country": "NL",
   "provider": "Yandex"
  },
  {
-  "server": "158.160.40.204",
+  "server": "89.169.165.175",
   "port": 443,
-  "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
+  "secret": "ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275",
   "country": "NL",
   "provider": "Yandex"
  },
  {
-  "server": "158.160.241.66",
+  "server": "89.169.169.59",
   "port": 443,
-  "secret": "dd6dc6c32df732ff33148c4217aa901c4d",
+  "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
+  "country": "PL",
+  "provider": "Yandex"
+ },
+ {
+  "server": "103.76.54.70",
+  "port": 443,
+  "secret": "ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275",
   "country": "NL",
   "provider": "Yandex"
  },
@@ -78,6 +92,12 @@
   "secret": "ecc08dd28da74a8456365c5c3fb212eb",
   "country": "US",
   "via": "websocket"
+ },
+ {
+  "server": "connect.zan-go.online",
+  "secret": "ec0029777f1996b8105f360caee792d5",
+  "country": "EE",
+  "via": "https"
  },
  {
   "server": "deepsky.club",
@@ -264,12 +284,6 @@
   "secret": "fb4224121e528a37200b09a99841e44e",
   "country": "NL",
   "via": "https"
- },
- {
-  "server": "web.yard-tg-bot.online",
-  "secret": "07635470792163f3d4d6ef46d88b9cad",
-  "country": "RO",
-  "via": "websocket"
  },
  {
   "server": "web2.antenna-mzt.live",
