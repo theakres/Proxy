@@ -1,8 +1,10 @@
 tg://proxy?server=5.35.106.220&port=443&secret=ee59dde6ab8d9ecd79817c9f03c1ba2de168642e6b696e6f706f69736b2e7275
 tg://proxy?server=51.250.86.218&port=443&secret=ee1790ad0931b7149843b05376bcda0df1706574726f766963682e7275
-tg://proxy?server=81.26.179.130&port=443&secret=eee85e0f743d3dafb1821e815c0690ad29706574726f766963682e7275
-tg://proxy?server=158.160.197.96&port=443&secret=ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d
-tg://proxy?server=158.160.198.59&port=443&secret=ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d
+tg://proxy?server=51.250.94.221&port=443&secret=eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275
+tg://proxy?server=84.201.151.230&port=443&secret=ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d
+tg://proxy?server=89.169.129.100&port=443&secret=eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275
+tg://proxy?server=93.77.185.133&port=443&secret=ee428556d05daa4a0b07760f3441189a97706574726f766963682e7275
+tg://proxy?server=93.77.188.0&port=443&secret=eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275
 tg://webproxy?server=67.kfwl.lol&secret=b5df144e99add138994f80d91b351a43
 tg://webproxy?server=azir.moonvira.com&secret=db28729a2a2b81d558d2deb53e00233e
 tg://webproxy?server=azirproxy.tgstar.net&secret=628e7bc8ee9c0b7cd5b1971d1f39f998
@@ -18,7 +20,6 @@ tg://webproxy?server=internet-legal.site&secret=13d67b2f4163f5d8370a983b7e921fa6
 tg://webproxy?server=jxjxjo.lol&secret=865d8256f6769081944d727dc7954720
 tg://webproxy?server=kak.hotstbvs.ru&secret=19642a8b48eff48766d6f7f240209026
 tg://webproxy?server=max-speed.co.uk&secret=84738086f0aa4f0c4f4b977e9d0b254e
-tg://webproxy?server=naap1.cdnflow.store&secret=2adba7744ab0b1ca88b609561c0334a1
 tg://webproxy?server=neomap.club&secret=3082e7f2e4ebb3abec0b8011fc493653
 tg://webproxy?server=netherlands.gamma-kvn.com&secret=1f39305372faa27bf1abe2c0bdc6f08e
 tg://webproxy?server=newversion.my&secret=c60988954529faf7447b7ef83203a020
@@ -26,10 +27,10 @@ tg://webproxy?server=prox.khoreshtsabzi.ir&secret=554bd05e719802abbf512a311ad937
 tg://webproxy?server=rnd.tirel.top&secret=b0bfb76c2fa6afb7970c89607679f7a0
 tg://webproxy?server=russia.compono.online&secret=709f15df656614f711c26a797c656f54
 tg://webproxy?server=spacee.xyz&secret=14e5cb4be26efb4a1a4c3e34b59ba79f
+tg://webproxy?server=tg.empty-space.org&secret=7e2b68c52cacccad90eda282852e16ab
 tg://webproxy?server=thebirds.world&secret=bace78f2e29ada4137186fa8b7d14f1d
 tg://webproxy?server=ultrafast.blog&secret=35ed0d45ffb5299af435492606ca6717
 tg://webproxy?server=web.antenna-mzt.live&secret=73a41a35f42a05667dc578a25d99868f
-tg://webproxy?server=web.fi.nvrsk-not-news.ru&secret=034499688122599a18a1ce8c8687e64f
 tg://webproxy?server=web.free-inet.ddnsfree.com&secret=f43cfa0cb4b1d1124643927f09de3c7b
 tg://webproxy?server=web.labronim-a.space&secret=fe21e0dea7537d5dc6f6b334fc4a992f
 tg://webproxy?server=web.yard-tg-bot.online&secret=07635470792163f3d4d6ef46d88b9cad
