@@ -1,11 +1,12 @@
 tg://proxy?server=5.35.106.220&port=443&secret=ee59dde6ab8d9ecd79817c9f03c1ba2de168642e6b696e6f706f69736b2e7275
-tg://proxy?server=51.250.86.145&port=443&secret=ee1790ad0931b7149843b05376bcda0df1706574726f766963682e7275
-tg://proxy?server=89.169.190.163&port=443&secret=ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d
-tg://proxy?server=158.160.239.77&port=443&secret=eee85e0f743d3dafb1821e815c0690ad29706574726f766963682e7275
+tg://proxy?server=46.21.245.100&port=443&secret=ee1790ad0931b7149843b05376bcda0df1706574726f766963682e7275
+tg://proxy?server=51.250.102.49&port=443&secret=eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275
+tg://proxy?server=51.250.109.218&port=443&secret=eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275
+tg://proxy?server=84.252.136.72&port=443&secret=ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d
+tg://proxy?server=89.169.149.195&port=443&secret=ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275
 tg://proxy?server=161.104.105.176&port=443&secret=ee97d6de595caf1dcfa3f61042a864a56474322e6e6576636f64656672616d652e636f6d
 tg://webproxy?server=azir.moonvira.com&secret=db28729a2a2b81d558d2deb53e00233e
 tg://webproxy?server=azirproxy.tgstar.net&secret=628e7bc8ee9c0b7cd5b1971d1f39f998
-tg://webproxy?server=bazyepc.northcentralus.cloudapp.azure.com&secret=ecc08dd28da74a8456365c5c3fb212eb
 tg://webproxy?server=connect.zan-go.online&secret=ec0029777f1996b8105f360caee792d5
 tg://webproxy?server=deepsky.club&secret=1549de91e71978183354fa780ac7d53f
 tg://webproxy?server=dl.subkadeh.sbs&secret=d96c4c1c38252ea14339a47a73ba2f3a
