@@ -7,41 +7,6 @@
   "provider": "Yandex KZ"
  },
  {
-  "server": "51.250.15.250",
-  "port": 443,
-  "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
-  "country": "NL",
-  "provider": "Yandex"
- },
- {
-  "server": "84.201.179.213",
-  "port": 443,
-  "secret": "ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275",
-  "country": "NL",
-  "provider": "Yandex"
- },
- {
-  "server": "89.169.157.170",
-  "port": 443,
-  "secret": "eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275",
-  "country": "NL",
-  "provider": "Yandex"
- },
- {
-  "server": "93.77.162.56",
-  "port": 443,
-  "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
-  "country": "PL",
-  "provider": "Yandex"
- },
- {
-  "server": "111.88.253.203",
-  "port": 443,
-  "secret": "ee428556d05daa4a0b07760f3441189a97706574726f766963682e7275",
-  "country": "GB",
-  "provider": "Yandex"
- },
- {
   "server": "158.160.203.227",
   "port": 443,
   "secret": "dd6dc6c32df732ff33148c4217aa901c4d",
@@ -97,6 +62,12 @@
   "via": "https"
  },
  {
+  "server": "freetg.mishutkin.click",
+  "secret": "87e5ee876fc0254eed830e8029a81964",
+  "country": "NL",
+  "via": "websocket"
+ },
+ {
   "server": "game.spacee.xyz",
   "secret": "18adcc8527031c4f27eddcd437bd27e2",
   "country": "SE",
@@ -123,8 +94,14 @@
  {
   "server": "kak.hotstbvs.ru",
   "secret": "19642a8b48eff48766d6f7f240209026",
-  "country": "US",
+  "country": "LV",
   "via": "https-lanes"
+ },
+ {
+  "server": "max-speed.co.uk",
+  "secret": "84738086f0aa4f0c4f4b977e9d0b254e",
+  "country": "DE",
+  "via": "websocket"
  },
  {
   "server": "my.woyt.pro",
@@ -205,21 +182,9 @@
   "via": "https"
  },
  {
-  "server": "web.jumbleconnect.ru",
-  "secret": "89a5ca0dd451fbe51762d7cdcc13a5be",
-  "country": "RO",
-  "via": "https-lanes"
- },
- {
   "server": "web.labronim-a.space",
   "secret": "fe21e0dea7537d5dc6f6b334fc4a992f",
   "country": "US",
-  "via": "https"
- },
- {
-  "server": "web.willvpn.space",
-  "secret": "fb4224121e528a37200b09a99841e44e",
-  "country": "NL",
   "via": "https"
  },
  {
