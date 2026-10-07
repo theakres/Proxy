@@ -7,38 +7,17 @@
   "provider": "Yandex KZ"
  },
  {
-  "server": "46.21.245.100",
+  "server": "51.250.10.101",
   "port": 443,
   "secret": "ee1790ad0931b7149843b05376bcda0df1706574726f766963682e7275",
   "country": "GB",
   "provider": "Yandex"
  },
  {
-  "server": "51.250.102.49",
+  "server": "158.160.239.77",
   "port": 443,
-  "secret": "eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275",
-  "country": "NL",
-  "provider": "Yandex"
- },
- {
-  "server": "51.250.109.218",
-  "port": 443,
-  "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
-  "country": "NL",
-  "provider": "Yandex"
- },
- {
-  "server": "84.252.136.72",
-  "port": 443,
-  "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
-  "country": "PL",
-  "provider": "Yandex"
- },
- {
-  "server": "89.169.149.195",
-  "port": 443,
-  "secret": "ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275",
-  "country": "NL",
+  "secret": "eee85e0f743d3dafb1821e815c0690ad29706574726f766963682e7275",
+  "country": "FR",
   "provider": "Yandex"
  },
  {
@@ -94,12 +73,6 @@
   "server": "flare-tg.xyz",
   "secret": "341b03f574bb516bee51a6c6aa68f212",
   "country": "SE",
-  "via": "https"
- },
- {
-  "server": "free.vnespiska.win",
-  "secret": "9fc8d7d1aeee614bd5fa3b760da44dd3",
-  "country": "DE",
   "via": "https"
  },
  {
