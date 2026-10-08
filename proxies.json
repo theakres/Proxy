@@ -25,12 +25,6 @@
   "via": "websocket"
  },
  {
-  "server": "connect.zan-go.online",
-  "secret": "ec0029777f1996b8105f360caee792d5",
-  "country": "EE",
-  "via": "https"
- },
- {
   "server": "deepsky.club",
   "secret": "1549de91e71978183354fa780ac7d53f",
   "country": "PL",
@@ -51,12 +45,6 @@
  {
   "server": "flare-free.xyz",
   "secret": "ec101543b4d4b7f77045eca0d821a641",
-  "country": "SE",
-  "via": "https"
- },
- {
-  "server": "flare-tg.xyz",
-  "secret": "341b03f574bb516bee51a6c6aa68f212",
   "country": "SE",
   "via": "https"
  },
@@ -111,20 +99,20 @@
  {
   "server": "kak.hotstbvs.ru",
   "secret": "19642a8b48eff48766d6f7f240209026",
-  "country": "LV",
+  "country": "CZ",
   "via": "https-lanes"
- },
- {
-  "server": "max-messenger.annet.site",
-  "secret": "03c454786c012ecec1b80054117de6e7",
-  "country": "RU",
-  "via": "https"
  },
  {
   "server": "max-speed.co.uk",
   "secret": "84738086f0aa4f0c4f4b977e9d0b254e",
   "country": "DE",
   "via": "websocket"
+ },
+ {
+  "server": "my.woyt.pro",
+  "secret": "8e0eb653b4a296e7d05c98371a277f8a",
+  "country": "US",
+  "via": "https"
  },
  {
   "server": "naap1.cdnflow.store",
@@ -137,12 +125,6 @@
   "secret": "3082e7f2e4ebb3abec0b8011fc493653",
   "country": "US",
   "via": "websocket"
- },
- {
-  "server": "netherlands.gamma-kvn.com",
-  "secret": "1f39305372faa27bf1abe2c0bdc6f08e",
-  "country": "NL",
-  "via": "https"
  },
  {
   "server": "newversion.my",
@@ -214,12 +196,6 @@
   "server": "web.es.nvrsk-not-news.ru",
   "secret": "9f28808baf85ae93956b1dd3eb9ee0d0",
   "country": "ES",
-  "via": "https"
- },
- {
-  "server": "web.fi.nvrsk-not-news.ru",
-  "secret": "034499688122599a18a1ce8c8687e64f",
-  "country": "AE",
   "via": "https"
  },
  {
