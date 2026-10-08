@@ -6,7 +6,6 @@ tg://webproxy?server=deepsky.club&secret=1549de91e71978183354fa780ac7d53f
 tg://webproxy?server=dl.subkadeh.sbs&secret=d96c4c1c38252ea14339a47a73ba2f3a
 tg://webproxy?server=eu.compono.online&secret=0b03d5b08b5592096de09e41ebbfc137
 tg://webproxy?server=flare-free.xyz&secret=ec101543b4d4b7f77045eca0d821a641
-tg://webproxy?server=flare-tg.xyz&secret=341b03f574bb516bee51a6c6aa68f212
 tg://webproxy?server=free.vnespiska.win&secret=9fc8d7d1aeee614bd5fa3b760da44dd3
 tg://webproxy?server=freetg.mishutkin.click&secret=87e5ee876fc0254eed830e8029a81964
 tg://webproxy?server=game.spacee.xyz&secret=18adcc8527031c4f27eddcd437bd27e2
@@ -17,6 +16,7 @@ tg://webproxy?server=internet-legal.site&secret=13d67b2f4163f5d8370a983b7e921fa6
 tg://webproxy?server=jxjxjo.lol&secret=865d8256f6769081944d727dc7954720
 tg://webproxy?server=kak.hotstbvs.ru&secret=19642a8b48eff48766d6f7f240209026
 tg://webproxy?server=max-speed.co.uk&secret=84738086f0aa4f0c4f4b977e9d0b254e
+tg://webproxy?server=my.woyt.pro&secret=8e0eb653b4a296e7d05c98371a277f8a
 tg://webproxy?server=naap1.cdnflow.store&secret=2adba7744ab0b1ca88b609561c0334a1
 tg://webproxy?server=neomap.club&secret=3082e7f2e4ebb3abec0b8011fc493653
 tg://webproxy?server=netherlands.gamma-kvn.com&secret=1f39305372faa27bf1abe2c0bdc6f08e
