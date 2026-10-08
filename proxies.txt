@@ -1,5 +1,4 @@
 tg://proxy?server=5.35.106.220&port=443&secret=ee59dde6ab8d9ecd79817c9f03c1ba2de168642e6b696e6f706f69736b2e7275
-tg://proxy?server=51.250.83.61&port=443&secret=eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275
 tg://webproxy?server=67.kfwl.lol&secret=b5df144e99add138994f80d91b351a43
 tg://webproxy?server=azir.moonvira.com&secret=db28729a2a2b81d558d2deb53e00233e
 tg://webproxy?server=azirproxy.tgstar.net&secret=628e7bc8ee9c0b7cd5b1971d1f39f998
