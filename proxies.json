@@ -13,6 +13,12 @@
   "via": "https-lanes"
  },
  {
+  "server": "andrew.teslaa.ru",
+  "secret": "bf114d9b470c646dfc68c90b2d995cb6",
+  "country": "RU",
+  "via": "websocket"
+ },
+ {
   "server": "azir.moonvira.com",
   "secret": "db28729a2a2b81d558d2deb53e00233e",
   "country": "DE",
@@ -23,6 +29,12 @@
   "secret": "628e7bc8ee9c0b7cd5b1971d1f39f998",
   "country": "DE",
   "via": "websocket"
+ },
+ {
+  "server": "connect.zan-go.online",
+  "secret": "ec0029777f1996b8105f360caee792d5",
+  "country": "EE",
+  "via": "https"
  },
  {
   "server": "deepsky.club",
@@ -45,6 +57,12 @@
  {
   "server": "flare-free.xyz",
   "secret": "ec101543b4d4b7f77045eca0d821a641",
+  "country": "SE",
+  "via": "https"
+ },
+ {
+  "server": "flare-tg.xyz",
+  "secret": "341b03f574bb516bee51a6c6aa68f212",
   "country": "SE",
   "via": "https"
  },
@@ -109,6 +127,12 @@
   "via": "websocket"
  },
  {
+  "server": "my.woyt.pro",
+  "secret": "8e0eb653b4a296e7d05c98371a277f8a",
+  "country": "US",
+  "via": "https"
+ },
+ {
   "server": "naap1.cdnflow.store",
   "secret": "2adba7744ab0b1ca88b609561c0334a1",
   "country": "NL",
@@ -119,12 +143,6 @@
   "secret": "3082e7f2e4ebb3abec0b8011fc493653",
   "country": "US",
   "via": "websocket"
- },
- {
-  "server": "netherlands.gamma-kvn.com",
-  "secret": "1f39305372faa27bf1abe2c0bdc6f08e",
-  "country": "NL",
-  "via": "https"
  },
  {
   "server": "newversion.my",
@@ -149,6 +167,12 @@
   "secret": "b0bfb76c2fa6afb7970c89607679f7a0",
   "country": "NL",
   "via": "https"
+ },
+ {
+  "server": "ru.wlrus.cfd",
+  "secret": "dd90dc9fbe7ba2e904685fc931c98d8a",
+  "country": "RU",
+  "via": "websocket"
  },
  {
   "server": "russia.compono.online",
@@ -233,12 +257,6 @@
   "secret": "1014d05ddbb4c391fe7217cae7ad7be8",
   "country": "NL",
   "via": "websocket-lanes"
- },
- {
-  "server": "web2.zainet.tech",
-  "secret": "9ed08be15ce91986b2ddb754d84bfd76",
-  "country": "NL",
-  "via": "websocket"
  },
  {
   "server": "webproxy.yearnings.ru",
