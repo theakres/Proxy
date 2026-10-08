@@ -13,6 +13,12 @@
   "via": "https-lanes"
  },
  {
+  "server": "andrew.teslaa.ru",
+  "secret": "bf114d9b470c646dfc68c90b2d995cb6",
+  "country": "RU",
+  "via": "websocket"
+ },
+ {
   "server": "azir.moonvira.com",
   "secret": "db28729a2a2b81d558d2deb53e00233e",
   "country": "DE",
@@ -79,9 +85,21 @@
   "via": "https"
  },
  {
+  "server": "go.prx.mom",
+  "secret": "d847fda8eb24345f2dfc81cb2fdfbcdd",
+  "country": "RU",
+  "via": "https"
+ },
+ {
   "server": "hulkpros.online",
   "secret": "2241502ca43baef61ccdec6177ed166c",
   "country": "GB",
+  "via": "https"
+ },
+ {
+  "server": "independence.surf",
+  "secret": "0b9db4c03c176aac566b33d2328946bb",
+  "country": "RU",
   "via": "https"
  },
  {
@@ -101,6 +119,12 @@
   "secret": "19642a8b48eff48766d6f7f240209026",
   "country": "LV",
   "via": "https-lanes"
+ },
+ {
+  "server": "max-messenger.annet.site",
+  "secret": "03c454786c012ecec1b80054117de6e7",
+  "country": "RU",
+  "via": "https"
  },
  {
   "server": "max-speed.co.uk",
@@ -139,6 +163,12 @@
   "via": "https"
  },
  {
+  "server": "pro.prx.mom",
+  "secret": "60808165819b9da8de181dc6d6ed1853",
+  "country": "RU",
+  "via": "https"
+ },
+ {
   "server": "prox.khoreshtsabzi.ir",
   "secret": "554bd05e719802abbf512a311ad9377e",
   "country": "DE",
@@ -149,6 +179,12 @@
   "secret": "b0bfb76c2fa6afb7970c89607679f7a0",
   "country": "NL",
   "via": "https"
+ },
+ {
+  "server": "ru.wlrus.cfd",
+  "secret": "dd90dc9fbe7ba2e904685fc931c98d8a",
+  "country": "RU",
+  "via": "websocket"
  },
  {
   "server": "russia.compono.online",
@@ -217,6 +253,12 @@
   "via": "https"
  },
  {
+  "server": "web.nl2.nvrsk-not-news.ru",
+  "secret": "ee385fd03f5e233ffd3ec912b18cd30b",
+  "country": "RU",
+  "via": "https"
+ },
+ {
   "server": "web.willvpn.space",
   "secret": "fb4224121e528a37200b09a99841e44e",
   "country": "NL",
@@ -233,12 +275,6 @@
   "secret": "1014d05ddbb4c391fe7217cae7ad7be8",
   "country": "NL",
   "via": "websocket-lanes"
- },
- {
-  "server": "web2.zainet.tech",
-  "secret": "9ed08be15ce91986b2ddb754d84bfd76",
-  "country": "NL",
-  "via": "websocket"
  },
  {
   "server": "webproxy.yearnings.ru",
