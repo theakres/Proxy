@@ -7,13 +7,6 @@
   "provider": "Yandex KZ"
  },
  {
-  "server": "51.250.83.61",
-  "port": 443,
-  "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
-  "country": "NL",
-  "provider": "Yandex"
- },
- {
   "server": "67.kfwl.lol",
   "secret": "b5df144e99add138994f80d91b351a43",
   "country": "SE",
