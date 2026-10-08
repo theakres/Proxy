@@ -49,16 +49,16 @@
   "via": "https"
  },
  {
+  "server": "flare-tg.xyz",
+  "secret": "341b03f574bb516bee51a6c6aa68f212",
+  "country": "SE",
+  "via": "https"
+ },
+ {
   "server": "free.vnespiska.win",
   "secret": "9fc8d7d1aeee614bd5fa3b760da44dd3",
   "country": "DE",
   "via": "https"
- },
- {
-  "server": "freetg.mishutkin.click",
-  "secret": "87e5ee876fc0254eed830e8029a81964",
-  "country": "NL",
-  "via": "websocket"
  },
  {
   "server": "game.spacee.xyz",
@@ -99,8 +99,14 @@
  {
   "server": "kak.hotstbvs.ru",
   "secret": "19642a8b48eff48766d6f7f240209026",
-  "country": "CZ",
+  "country": "LV",
   "via": "https-lanes"
+ },
+ {
+  "server": "max-messenger.annet.site",
+  "secret": "03c454786c012ecec1b80054117de6e7",
+  "country": "RU",
+  "via": "https"
  },
  {
   "server": "max-speed.co.uk",
@@ -127,6 +133,12 @@
   "via": "websocket"
  },
  {
+  "server": "netherlands.gamma-kvn.com",
+  "secret": "1f39305372faa27bf1abe2c0bdc6f08e",
+  "country": "NL",
+  "via": "https"
+ },
+ {
   "server": "newversion.my",
   "secret": "c60988954529faf7447b7ef83203a020",
   "country": "DE",
@@ -137,12 +149,6 @@
   "secret": "60808165819b9da8de181dc6d6ed1853",
   "country": "RU",
   "via": "https"
- },
- {
-  "server": "prox.khoreshtsabzi.ir",
-  "secret": "554bd05e719802abbf512a311ad9377e",
-  "country": "DE",
-  "via": "websocket"
  },
  {
   "server": "rnd.tirel.top",
@@ -217,12 +223,6 @@
   "via": "https"
  },
  {
-  "server": "web.willvpn.space",
-  "secret": "fb4224121e528a37200b09a99841e44e",
-  "country": "NL",
-  "via": "https"
- },
- {
   "server": "web.yard-tg-bot.online",
   "secret": "07635470792163f3d4d6ef46d88b9cad",
   "country": "RO",
@@ -233,6 +233,12 @@
   "secret": "1014d05ddbb4c391fe7217cae7ad7be8",
   "country": "NL",
   "via": "websocket-lanes"
+ },
+ {
+  "server": "web2.zainet.tech",
+  "secret": "9ed08be15ce91986b2ddb754d84bfd76",
+  "country": "NL",
+  "via": "websocket"
  },
  {
   "server": "webproxy.yearnings.ru",
