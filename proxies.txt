@@ -1,7 +1,11 @@
 tg://proxy?server=5.35.106.220&port=443&secret=ee59dde6ab8d9ecd79817c9f03c1ba2de168642e6b696e6f706f69736b2e7275
-tg://proxy?server=51.250.10.101&port=443&secret=ee1790ad0931b7149843b05376bcda0df1706574726f766963682e7275
+tg://proxy?server=51.250.69.15&port=443&secret=ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275
+tg://proxy?server=51.250.95.208&port=443&secret=ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275
+tg://proxy?server=89.169.152.232&port=443&secret=eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275
+tg://proxy?server=158.160.170.132&port=443&secret=eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275
 tg://proxy?server=158.160.239.77&port=443&secret=eee85e0f743d3dafb1821e815c0690ad29706574726f766963682e7275
-tg://proxy?server=161.104.105.176&port=443&secret=ee97d6de595caf1dcfa3f61042a864a56474322e6e6576636f64656672616d652e636f6d
+tg://proxy?server=217.198.170.169&port=443&secret=eee85e0f743d3dafb1821e815c0690ad29706574726f766963682e7275
+tg://webproxy?server=67.kfwl.lol&secret=b5df144e99add138994f80d91b351a43
 tg://webproxy?server=azir.moonvira.com&secret=db28729a2a2b81d558d2deb53e00233e
 tg://webproxy?server=azirproxy.tgstar.net&secret=628e7bc8ee9c0b7cd5b1971d1f39f998
 tg://webproxy?server=connect.zan-go.online&secret=ec0029777f1996b8105f360caee792d5
@@ -10,6 +14,7 @@ tg://webproxy?server=dl.subkadeh.sbs&secret=d96c4c1c38252ea14339a47a73ba2f3a
 tg://webproxy?server=eu.compono.online&secret=0b03d5b08b5592096de09e41ebbfc137
 tg://webproxy?server=flare-free.xyz&secret=ec101543b4d4b7f77045eca0d821a641
 tg://webproxy?server=flare-tg.xyz&secret=341b03f574bb516bee51a6c6aa68f212
+tg://webproxy?server=free.vnespiska.win&secret=9fc8d7d1aeee614bd5fa3b760da44dd3
 tg://webproxy?server=freetg.mishutkin.click&secret=87e5ee876fc0254eed830e8029a81964
 tg://webproxy?server=game.spacee.xyz&secret=18adcc8527031c4f27eddcd437bd27e2
 tg://webproxy?server=hulkpros.online&secret=2241502ca43baef61ccdec6177ed166c
