@@ -13,12 +13,6 @@
   "via": "https-lanes"
  },
  {
-  "server": "andrew.teslaa.ru",
-  "secret": "bf114d9b470c646dfc68c90b2d995cb6",
-  "country": "RU",
-  "via": "websocket"
- },
- {
   "server": "azir.moonvira.com",
   "secret": "db28729a2a2b81d558d2deb53e00233e",
   "country": "DE",
@@ -29,6 +23,12 @@
   "secret": "628e7bc8ee9c0b7cd5b1971d1f39f998",
   "country": "DE",
   "via": "websocket"
+ },
+ {
+  "server": "connect.zan-go.online",
+  "secret": "ec0029777f1996b8105f360caee792d5",
+  "country": "EE",
+  "via": "https"
  },
  {
   "server": "deepsky.club",
@@ -115,6 +115,12 @@
   "via": "https-lanes"
  },
  {
+  "server": "max-messenger.annet.site",
+  "secret": "03c454786c012ecec1b80054117de6e7",
+  "country": "RU",
+  "via": "https"
+ },
+ {
   "server": "max-speed.co.uk",
   "secret": "84738086f0aa4f0c4f4b977e9d0b254e",
   "country": "DE",
@@ -136,6 +142,18 @@
   "server": "neomap.club",
   "secret": "3082e7f2e4ebb3abec0b8011fc493653",
   "country": "US",
+  "via": "websocket"
+ },
+ {
+  "server": "netherlands.gamma-kvn.com",
+  "secret": "1f39305372faa27bf1abe2c0bdc6f08e",
+  "country": "NL",
+  "via": "https"
+ },
+ {
+  "server": "newsoutlet247.shop",
+  "secret": "221e9f387d3a5b291a802805512e3661",
+  "country": "HU",
   "via": "websocket"
  },
  {
@@ -213,7 +231,7 @@
  {
   "server": "web.free-inet.ddnsfree.com",
   "secret": "f43cfa0cb4b1d1124643927f09de3c7b",
-  "country": "US",
+  "country": "NL",
   "via": "https"
  },
  {
@@ -241,10 +259,22 @@
   "via": "https"
  },
  {
+  "server": "web.yard-tg-bot.online",
+  "secret": "07635470792163f3d4d6ef46d88b9cad",
+  "country": "RO",
+  "via": "websocket"
+ },
+ {
   "server": "web2.antenna-mzt.live",
   "secret": "1014d05ddbb4c391fe7217cae7ad7be8",
   "country": "NL",
   "via": "websocket-lanes"
+ },
+ {
+  "server": "web2.zainet.tech",
+  "secret": "9ed08be15ce91986b2ddb754d84bfd76",
+  "country": "NL",
+  "via": "websocket"
  },
  {
   "server": "webproxy.yearnings.ru",
