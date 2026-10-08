@@ -7,10 +7,31 @@
   "provider": "Yandex KZ"
  },
  {
-  "server": "51.250.10.101",
+  "server": "51.250.69.15",
   "port": 443,
-  "secret": "ee1790ad0931b7149843b05376bcda0df1706574726f766963682e7275",
-  "country": "GB",
+  "secret": "ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275",
+  "country": "NL",
+  "provider": "Yandex"
+ },
+ {
+  "server": "51.250.95.208",
+  "port": 443,
+  "secret": "ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275",
+  "country": "NL",
+  "provider": "Yandex"
+ },
+ {
+  "server": "89.169.152.232",
+  "port": 443,
+  "secret": "eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275",
+  "country": "NL",
+  "provider": "Yandex"
+ },
+ {
+  "server": "158.160.170.132",
+  "port": 443,
+  "secret": "eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275",
+  "country": "NL",
   "provider": "Yandex"
  },
  {
@@ -21,11 +42,17 @@
   "provider": "Yandex"
  },
  {
-  "server": "161.104.105.176",
+  "server": "217.198.170.169",
   "port": 443,
-  "secret": "ee97d6de595caf1dcfa3f61042a864a56474322e6e6576636f64656672616d652e636f6d",
-  "country": "DE",
-  "provider": "VK"
+  "secret": "eee85e0f743d3dafb1821e815c0690ad29706574726f766963682e7275",
+  "country": "FR",
+  "provider": "Yandex"
+ },
+ {
+  "server": "67.kfwl.lol",
+  "secret": "b5df144e99add138994f80d91b351a43",
+  "country": "SE",
+  "via": "https-lanes"
  },
  {
   "server": "azir.moonvira.com",
@@ -76,6 +103,12 @@
   "via": "https"
  },
  {
+  "server": "free.vnespiska.win",
+  "secret": "9fc8d7d1aeee614bd5fa3b760da44dd3",
+  "country": "DE",
+  "via": "https"
+ },
+ {
   "server": "freetg.mishutkin.click",
   "secret": "87e5ee876fc0254eed830e8029a81964",
   "country": "NL",
@@ -108,7 +141,7 @@
  {
   "server": "kak.hotstbvs.ru",
   "secret": "19642a8b48eff48766d6f7f240209026",
-  "country": "CZ",
+  "country": "LV",
   "via": "https-lanes"
  },
  {
