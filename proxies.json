@@ -13,12 +13,6 @@
   "via": "https-lanes"
  },
  {
-  "server": "andrew.teslaa.ru",
-  "secret": "bf114d9b470c646dfc68c90b2d995cb6",
-  "country": "RU",
-  "via": "websocket"
- },
- {
   "server": "azir.moonvira.com",
   "secret": "db28729a2a2b81d558d2deb53e00233e",
   "country": "DE",
@@ -29,12 +23,6 @@
   "secret": "628e7bc8ee9c0b7cd5b1971d1f39f998",
   "country": "DE",
   "via": "websocket"
- },
- {
-  "server": "connect.zan-go.online",
-  "secret": "ec0029777f1996b8105f360caee792d5",
-  "country": "EE",
-  "via": "https"
  },
  {
   "server": "deepsky.club",
@@ -117,14 +105,8 @@
  {
   "server": "kak.hotstbvs.ru",
   "secret": "19642a8b48eff48766d6f7f240209026",
-  "country": "LV",
+  "country": "US",
   "via": "https-lanes"
- },
- {
-  "server": "max-messenger.annet.site",
-  "secret": "03c454786c012ecec1b80054117de6e7",
-  "country": "RU",
-  "via": "https"
  },
  {
   "server": "max-speed.co.uk",
@@ -160,12 +142,6 @@
   "server": "newversion.my",
   "secret": "c60988954529faf7447b7ef83203a020",
   "country": "DE",
-  "via": "https"
- },
- {
-  "server": "pro.prx.mom",
-  "secret": "60808165819b9da8de181dc6d6ed1853",
-  "country": "RU",
   "via": "https"
  },
  {
@@ -239,12 +215,6 @@
   "secret": "f43cfa0cb4b1d1124643927f09de3c7b",
   "country": "NL",
   "via": "https"
- },
- {
-  "server": "web.jumbleconnect.ru",
-  "secret": "89a5ca0dd451fbe51762d7cdcc13a5be",
-  "country": "RO",
-  "via": "https-lanes"
  },
  {
   "server": "web.labronim-a.space",
