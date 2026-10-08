@@ -16,12 +16,13 @@ tg://webproxy?server=independence.surf&secret=0b9db4c03c176aac566b33d2328946bb
 tg://webproxy?server=internet-legal.site&secret=13d67b2f4163f5d8370a983b7e921fa6
 tg://webproxy?server=jxjxjo.lol&secret=865d8256f6769081944d727dc7954720
 tg://webproxy?server=kak.hotstbvs.ru&secret=19642a8b48eff48766d6f7f240209026
+tg://webproxy?server=max-messenger.annet.site&secret=03c454786c012ecec1b80054117de6e7
 tg://webproxy?server=max-speed.co.uk&secret=84738086f0aa4f0c4f4b977e9d0b254e
 tg://webproxy?server=my.woyt.pro&secret=8e0eb653b4a296e7d05c98371a277f8a
 tg://webproxy?server=naap1.cdnflow.store&secret=2adba7744ab0b1ca88b609561c0334a1
 tg://webproxy?server=neomap.club&secret=3082e7f2e4ebb3abec0b8011fc493653
-tg://webproxy?server=netherlands.gamma-kvn.com&secret=1f39305372faa27bf1abe2c0bdc6f08e
 tg://webproxy?server=newversion.my&secret=c60988954529faf7447b7ef83203a020
+tg://webproxy?server=pro.prx.mom&secret=60808165819b9da8de181dc6d6ed1853
 tg://webproxy?server=prox.khoreshtsabzi.ir&secret=554bd05e719802abbf512a311ad9377e
 tg://webproxy?server=rnd.tirel.top&secret=b0bfb76c2fa6afb7970c89607679f7a0
 tg://webproxy?server=ru.wlrus.cfd&secret=dd90dc9fbe7ba2e904685fc931c98d8a
@@ -34,6 +35,7 @@ tg://webproxy?server=web.antenna-mzt.live&secret=73a41a35f42a05667dc578a25d99868
 tg://webproxy?server=web.es.nvrsk-not-news.ru&secret=9f28808baf85ae93956b1dd3eb9ee0d0
 tg://webproxy?server=web.fi.nvrsk-not-news.ru&secret=034499688122599a18a1ce8c8687e64f
 tg://webproxy?server=web.free-inet.ddnsfree.com&secret=f43cfa0cb4b1d1124643927f09de3c7b
+tg://webproxy?server=web.jumbleconnect.ru&secret=89a5ca0dd451fbe51762d7cdcc13a5be
 tg://webproxy?server=web.labronim-a.space&secret=fe21e0dea7537d5dc6f6b334fc4a992f
 tg://webproxy?server=web.nl2.nvrsk-not-news.ru&secret=ee385fd03f5e233ffd3ec912b18cd30b
 tg://webproxy?server=web.willvpn.space&secret=fb4224121e528a37200b09a99841e44e
