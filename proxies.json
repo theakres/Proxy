@@ -25,6 +25,12 @@
   "via": "websocket"
  },
  {
+  "server": "connect.zan-go.online",
+  "secret": "ec0029777f1996b8105f360caee792d5",
+  "country": "EE",
+  "via": "https"
+ },
+ {
   "server": "deepsky.club",
   "secret": "1549de91e71978183354fa780ac7d53f",
   "country": "PL",
@@ -121,12 +127,6 @@
   "via": "websocket"
  },
  {
-  "server": "my.woyt.pro",
-  "secret": "8e0eb653b4a296e7d05c98371a277f8a",
-  "country": "US",
-  "via": "https"
- },
- {
   "server": "naap1.cdnflow.store",
   "secret": "2adba7744ab0b1ca88b609561c0334a1",
   "country": "NL",
@@ -137,6 +137,12 @@
   "secret": "3082e7f2e4ebb3abec0b8011fc493653",
   "country": "US",
   "via": "websocket"
+ },
+ {
+  "server": "netherlands.gamma-kvn.com",
+  "secret": "1f39305372faa27bf1abe2c0bdc6f08e",
+  "country": "NL",
+  "via": "https"
  },
  {
   "server": "newversion.my",
@@ -221,12 +227,6 @@
   "secret": "f43cfa0cb4b1d1124643927f09de3c7b",
   "country": "NL",
   "via": "https"
- },
- {
-  "server": "web.jumbleconnect.ru",
-  "secret": "89a5ca0dd451fbe51762d7cdcc13a5be",
-  "country": "RO",
-  "via": "https-lanes"
  },
  {
   "server": "web.labronim-a.space",
