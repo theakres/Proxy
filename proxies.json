@@ -49,6 +49,12 @@
   "via": "https"
  },
  {
+  "server": "flare-tg.xyz",
+  "secret": "341b03f574bb516bee51a6c6aa68f212",
+  "country": "SE",
+  "via": "https"
+ },
+ {
   "server": "free.vnespiska.win",
   "secret": "9fc8d7d1aeee614bd5fa3b760da44dd3",
   "country": "DE",
@@ -99,8 +105,14 @@
  {
   "server": "kak.hotstbvs.ru",
   "secret": "19642a8b48eff48766d6f7f240209026",
-  "country": "CZ",
+  "country": "LV",
   "via": "https-lanes"
+ },
+ {
+  "server": "max-messenger.annet.site",
+  "secret": "03c454786c012ecec1b80054117de6e7",
+  "country": "RU",
+  "via": "https"
  },
  {
   "server": "max-speed.co.uk",
