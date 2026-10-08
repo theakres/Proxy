@@ -13,6 +13,12 @@
   "via": "https-lanes"
  },
  {
+  "server": "andrew.teslaa.ru",
+  "secret": "bf114d9b470c646dfc68c90b2d995cb6",
+  "country": "RU",
+  "via": "websocket"
+ },
+ {
   "server": "azir.moonvira.com",
   "secret": "db28729a2a2b81d558d2deb53e00233e",
   "country": "DE",
@@ -269,12 +275,6 @@
   "secret": "1014d05ddbb4c391fe7217cae7ad7be8",
   "country": "NL",
   "via": "websocket-lanes"
- },
- {
-  "server": "web2.zainet.tech",
-  "secret": "9ed08be15ce91986b2ddb754d84bfd76",
-  "country": "NL",
-  "via": "websocket"
  },
  {
   "server": "webproxy.yearnings.ru",
