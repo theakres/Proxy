@@ -49,12 +49,6 @@
   "via": "https"
  },
  {
-  "server": "flare-tg.xyz",
-  "secret": "341b03f574bb516bee51a6c6aa68f212",
-  "country": "SE",
-  "via": "https"
- },
- {
   "server": "free.vnespiska.win",
   "secret": "9fc8d7d1aeee614bd5fa3b760da44dd3",
   "country": "DE",
@@ -109,22 +103,10 @@
   "via": "https-lanes"
  },
  {
-  "server": "max-messenger.annet.site",
-  "secret": "03c454786c012ecec1b80054117de6e7",
-  "country": "RU",
-  "via": "https"
- },
- {
   "server": "max-speed.co.uk",
   "secret": "84738086f0aa4f0c4f4b977e9d0b254e",
   "country": "DE",
   "via": "websocket"
- },
- {
-  "server": "my.woyt.pro",
-  "secret": "8e0eb653b4a296e7d05c98371a277f8a",
-  "country": "US",
-  "via": "https"
  },
  {
   "server": "naap1.cdnflow.store",
@@ -167,12 +149,6 @@
   "secret": "b0bfb76c2fa6afb7970c89607679f7a0",
   "country": "NL",
   "via": "https"
- },
- {
-  "server": "ru.wlrus.cfd",
-  "secret": "dd90dc9fbe7ba2e904685fc931c98d8a",
-  "country": "RU",
-  "via": "websocket"
  },
  {
   "server": "russia.compono.online",
@@ -223,6 +199,12 @@
   "via": "https"
  },
  {
+  "server": "web.jumbleconnect.ru",
+  "secret": "89a5ca0dd451fbe51762d7cdcc13a5be",
+  "country": "RO",
+  "via": "https-lanes"
+ },
+ {
   "server": "web.labronim-a.space",
   "secret": "fe21e0dea7537d5dc6f6b334fc4a992f",
   "country": "US",
@@ -251,6 +233,12 @@
   "secret": "1014d05ddbb4c391fe7217cae7ad7be8",
   "country": "NL",
   "via": "websocket-lanes"
+ },
+ {
+  "server": "web2.zainet.tech",
+  "secret": "9ed08be15ce91986b2ddb754d84bfd76",
+  "country": "NL",
+  "via": "websocket"
  },
  {
   "server": "webproxy.yearnings.ru",
