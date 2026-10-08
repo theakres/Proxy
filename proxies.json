@@ -105,8 +105,14 @@
  {
   "server": "kak.hotstbvs.ru",
   "secret": "19642a8b48eff48766d6f7f240209026",
-  "country": "US",
+  "country": "LV",
   "via": "https-lanes"
+ },
+ {
+  "server": "max-messenger.annet.site",
+  "secret": "03c454786c012ecec1b80054117de6e7",
+  "country": "RU",
+  "via": "https"
  },
  {
   "server": "max-speed.co.uk",
@@ -133,15 +139,15 @@
   "via": "websocket"
  },
  {
-  "server": "netherlands.gamma-kvn.com",
-  "secret": "1f39305372faa27bf1abe2c0bdc6f08e",
-  "country": "NL",
-  "via": "https"
- },
- {
   "server": "newversion.my",
   "secret": "c60988954529faf7447b7ef83203a020",
   "country": "DE",
+  "via": "https"
+ },
+ {
+  "server": "pro.prx.mom",
+  "secret": "60808165819b9da8de181dc6d6ed1853",
+  "country": "RU",
   "via": "https"
  },
  {
@@ -215,6 +221,12 @@
   "secret": "f43cfa0cb4b1d1124643927f09de3c7b",
   "country": "NL",
   "via": "https"
+ },
+ {
+  "server": "web.jumbleconnect.ru",
+  "secret": "89a5ca0dd451fbe51762d7cdcc13a5be",
+  "country": "RO",
+  "via": "https-lanes"
  },
  {
   "server": "web.labronim-a.space",
