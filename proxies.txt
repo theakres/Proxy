@@ -3,7 +3,6 @@ tg://webproxy?server=67.kfwl.lol&secret=b5df144e99add138994f80d91b351a43
 tg://webproxy?server=andrew.teslaa.ru&secret=bf114d9b470c646dfc68c90b2d995cb6
 tg://webproxy?server=azir.moonvira.com&secret=db28729a2a2b81d558d2deb53e00233e
 tg://webproxy?server=azirproxy.tgstar.net&secret=628e7bc8ee9c0b7cd5b1971d1f39f998
-tg://webproxy?server=connect.zan-go.online&secret=ec0029777f1996b8105f360caee792d5
 tg://webproxy?server=deepsky.club&secret=1549de91e71978183354fa780ac7d53f
 tg://webproxy?server=dl.subkadeh.sbs&secret=d96c4c1c38252ea14339a47a73ba2f3a
 tg://webproxy?server=eu.compono.online&secret=0b03d5b08b5592096de09e41ebbfc137
@@ -39,7 +38,6 @@ tg://webproxy?server=web.jumbleconnect.ru&secret=89a5ca0dd451fbe51762d7cdcc13a5b
 tg://webproxy?server=web.labronim-a.space&secret=fe21e0dea7537d5dc6f6b334fc4a992f
 tg://webproxy?server=web.nl2.nvrsk-not-news.ru&secret=ee385fd03f5e233ffd3ec912b18cd30b
 tg://webproxy?server=web.willvpn.space&secret=fb4224121e528a37200b09a99841e44e
-tg://webproxy?server=web.yard-tg-bot.online&secret=07635470792163f3d4d6ef46d88b9cad
 tg://webproxy?server=web2.antenna-mzt.live&secret=1014d05ddbb4c391fe7217cae7ad7be8
 tg://webproxy?server=webproxy.yearnings.ru&secret=158380d7f43736a6c8bec9820226790d
 tg://webproxy?server=webrtp.prtw.ru&secret=27abca9f854cf8f6edf5944b1f2bf1c9
