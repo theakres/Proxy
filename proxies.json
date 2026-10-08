@@ -49,12 +49,6 @@
   "via": "https"
  },
  {
-  "server": "flare-tg.xyz",
-  "secret": "341b03f574bb516bee51a6c6aa68f212",
-  "country": "SE",
-  "via": "https"
- },
- {
   "server": "free.vnespiska.win",
   "secret": "9fc8d7d1aeee614bd5fa3b760da44dd3",
   "country": "DE",
@@ -105,7 +99,7 @@
  {
   "server": "kak.hotstbvs.ru",
   "secret": "19642a8b48eff48766d6f7f240209026",
-  "country": "US",
+  "country": "CZ",
   "via": "https-lanes"
  },
  {
@@ -113,6 +107,12 @@
   "secret": "84738086f0aa4f0c4f4b977e9d0b254e",
   "country": "DE",
   "via": "websocket"
+ },
+ {
+  "server": "my.woyt.pro",
+  "secret": "8e0eb653b4a296e7d05c98371a277f8a",
+  "country": "US",
+  "via": "https"
  },
  {
   "server": "naap1.cdnflow.store",
