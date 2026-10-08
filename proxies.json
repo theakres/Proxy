@@ -49,6 +49,12 @@
   "via": "https"
  },
  {
+  "server": "flare-tg.xyz",
+  "secret": "341b03f574bb516bee51a6c6aa68f212",
+  "country": "SE",
+  "via": "https"
+ },
+ {
   "server": "free.vnespiska.win",
   "secret": "9fc8d7d1aeee614bd5fa3b760da44dd3",
   "country": "DE",
@@ -99,7 +105,7 @@
  {
   "server": "kak.hotstbvs.ru",
   "secret": "19642a8b48eff48766d6f7f240209026",
-  "country": "LV",
+  "country": "US",
   "via": "https-lanes"
  },
  {
@@ -221,6 +227,12 @@
   "secret": "fb4224121e528a37200b09a99841e44e",
   "country": "NL",
   "via": "https"
+ },
+ {
+  "server": "web.yard-tg-bot.online",
+  "secret": "07635470792163f3d4d6ef46d88b9cad",
+  "country": "RO",
+  "via": "websocket"
  },
  {
   "server": "web2.antenna-mzt.live",
