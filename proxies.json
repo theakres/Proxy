@@ -7,6 +7,13 @@
   "provider": "Yandex KZ"
  },
  {
+  "server": "51.250.35.199",
+  "port": 443,
+  "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
+  "country": "NL",
+  "provider": "Yandex"
+ },
+ {
   "server": "83.166.249.75",
   "port": 443,
   "secret": "dd9e1dde0de02a2e7c22d10e2fff841013",
@@ -21,11 +28,17 @@
   "provider": "VK"
  },
  {
-  "server": "90.156.215.200",
-  "port": 8443,
-  "secret": "ee16f5823789de60257de738537a8d038b6e6c2e70726f70726f786965732e736273",
-  "country": "NL",
-  "provider": "VK"
+  "server": "111.88.248.48",
+  "port": 443,
+  "secret": "eee85e0f743d3dafb1821e815c0690ad29706574726f766963682e7275",
+  "country": "FR",
+  "provider": "Yandex"
+ },
+ {
+  "server": "154.85.19.193.sslip.io",
+  "secret": "55608b67a5b83c881a65b0e1cd8d4c90",
+  "country": "JP",
+  "via": "https"
  },
  {
   "server": "67.kfwl.lol",
@@ -34,16 +47,16 @@
   "via": "https-lanes"
  },
  {
+  "server": "82.153.135.219.sslip.io",
+  "secret": "55608b67a5b83c881a65b0e1cd8d4c90",
+  "country": "SG",
+  "via": "https"
+ },
+ {
   "server": "andrew.teslaa.ru",
   "secret": "bf114d9b470c646dfc68c90b2d995cb6",
   "country": "US",
   "via": "websocket"
- },
- {
-  "server": "ars-funs.online",
-  "secret": "e24d40b662e2502b451c70fa14167a08",
-  "country": "DE",
-  "via": "https"
  },
  {
   "server": "azir.moonvira.com",
@@ -202,6 +215,12 @@
   "via": "websocket"
  },
  {
+  "server": "ola.mishutkin.click",
+  "secret": "87e5ee876fc0254eed830e8029a81964",
+  "country": "NL",
+  "via": "websocket"
+ },
+ {
   "server": "pro.prx.mom",
   "secret": "60808165819b9da8de181dc6d6ed1853",
   "country": "RU",
@@ -238,6 +257,12 @@
   "via": "https"
  },
  {
+  "server": "telega.deepwoof.net",
+  "secret": "15719e50e6af385949d676ca3821eaf4",
+  "country": "EE",
+  "via": "https"
+ },
+ {
   "server": "tg.empty-space.org",
   "secret": "7e2b68c52cacccad90eda282852e16ab",
   "country": "FR",
@@ -250,9 +275,9 @@
   "via": "https"
  },
  {
-  "server": "tg2.rknmimo.cfd",
-  "secret": "ad4ac6036da69786375da4f58721ab70",
-  "country": "DE",
+  "server": "tgw.spacessupport.ru",
+  "secret": "d8e9847f695b235e9b68ee100a2dda81",
+  "country": "NL",
   "via": "https"
  },
  {
@@ -298,12 +323,6 @@
   "via": "https"
  },
  {
-  "server": "web.jumbleconnect.ru",
-  "secret": "89a5ca0dd451fbe51762d7cdcc13a5be",
-  "country": "RO",
-  "via": "https-lanes"
- },
- {
   "server": "web.labronim-a.space",
   "secret": "fe21e0dea7537d5dc6f6b334fc4a992f",
   "country": "US",
@@ -325,19 +344,13 @@
   "server": "web.yard-tg-bot.online",
   "secret": "07635470792163f3d4d6ef46d88b9cad",
   "country": "RO",
-  "via": "https"
+  "via": "websocket"
  },
  {
   "server": "web2.antenna-mzt.live",
   "secret": "1014d05ddbb4c391fe7217cae7ad7be8",
   "country": "NL",
   "via": "websocket-lanes"
- },
- {
-  "server": "web2.zainet.tech",
-  "secret": "9ed08be15ce91986b2ddb754d84bfd76",
-  "country": "NL",
-  "via": "websocket"
  },
  {
   "server": "webproxy.yearnings.ru",
