@@ -14,37 +14,16 @@
   "provider": "Yandex"
  },
  {
-  "server": "83.166.249.75",
-  "port": 443,
-  "secret": "dd9e1dde0de02a2e7c22d10e2fff841013",
-  "country": "RU",
-  "provider": "VK"
- },
- {
-  "server": "90.156.215.200",
-  "port": 443,
-  "secret": "eed3f622da32b6271f8a25cc743dde9a69616c7068612e6c696d61616c66616e6f76656d6265722e636c69636b",
-  "country": "DE",
-  "provider": "VK"
- },
- {
-  "server": "111.88.248.48",
-  "port": 443,
-  "secret": "eee85e0f743d3dafb1821e815c0690ad29706574726f766963682e7275",
-  "country": "FR",
-  "provider": "Yandex"
+  "server": "141.11.76.107.sslip.io",
+  "secret": "ca7ed14602382faf1cc0f2b176287681",
+  "country": "HK",
+  "via": "https"
  },
  {
   "server": "154.85.19.193.sslip.io",
   "secret": "55608b67a5b83c881a65b0e1cd8d4c90",
   "country": "JP",
   "via": "https"
- },
- {
-  "server": "67.kfwl.lol",
-  "secret": "b5df144e99add138994f80d91b351a43",
-  "country": "SE",
-  "via": "https-lanes"
  },
  {
   "server": "82.153.135.219.sslip.io",
@@ -59,6 +38,18 @@
   "via": "websocket"
  },
  {
+  "server": "apple.flare-free.xyz",
+  "secret": "aab65144eb3eea373eedf4febd7c5f41",
+  "country": "US",
+  "via": "https"
+ },
+ {
+  "server": "ars-funs.online",
+  "secret": "e24d40b662e2502b451c70fa14167a08",
+  "country": "DE",
+  "via": "https"
+ },
+ {
   "server": "azir.moonvira.com",
   "secret": "db28729a2a2b81d558d2deb53e00233e",
   "country": "DE",
@@ -71,9 +62,9 @@
   "via": "websocket"
  },
  {
-  "server": "connect.zan-go.online",
-  "secret": "ec0029777f1996b8105f360caee792d5",
-  "country": "EE",
+  "server": "burmalda.flare-tg.xyz",
+  "secret": "38be977eb335fc614673346006cf1473",
+  "country": "FI",
   "via": "https"
  },
  {
@@ -101,12 +92,6 @@
   "via": "https"
  },
  {
-  "server": "flare-tg.xyz",
-  "secret": "341b03f574bb516bee51a6c6aa68f212",
-  "country": "SE",
-  "via": "https"
- },
- {
   "server": "free.vnespiska.win",
   "secret": "9fc8d7d1aeee614bd5fa3b760da44dd3",
   "country": "DE",
@@ -122,18 +107,6 @@
   "server": "game.spacee.xyz",
   "secret": "18adcc8527031c4f27eddcd437bd27e2",
   "country": "SE",
-  "via": "https"
- },
- {
-  "server": "gamesurfers.online",
-  "secret": "42b62ee26aa1b3cc1160d1d6d9f08e7f",
-  "country": "DE",
-  "via": "https"
- },
- {
-  "server": "go.prx.mom",
-  "secret": "d847fda8eb24345f2dfc81cb2fdfbcdd",
-  "country": "RU",
   "via": "https"
  },
  {
@@ -169,7 +142,7 @@
  {
   "server": "kak.hotstbvs.ru",
   "secret": "19642a8b48eff48766d6f7f240209026",
-  "country": "CZ",
+  "country": "US",
   "via": "https-lanes"
  },
  {
@@ -177,12 +150,6 @@
   "secret": "03c454786c012ecec1b80054117de6e7",
   "country": "RU",
   "via": "https"
- },
- {
-  "server": "max-speed.co.uk",
-  "secret": "84738086f0aa4f0c4f4b977e9d0b254e",
-  "country": "DE",
-  "via": "websocket"
  },
  {
   "server": "my.woyt.pro",
@@ -215,22 +182,70 @@
   "via": "websocket"
  },
  {
+  "server": "nov.webvirt.cloud",
+  "secret": "2cb152167b45c9a010c8109fef2d8fd6",
+  "country": "PL",
+  "via": "websocket"
+ },
+ {
   "server": "ola.mishutkin.click",
   "secret": "87e5ee876fc0254eed830e8029a81964",
   "country": "NL",
   "via": "websocket"
  },
  {
-  "server": "pro.prx.mom",
-  "secret": "60808165819b9da8de181dc6d6ed1853",
-  "country": "RU",
-  "via": "https"
- },
- {
   "server": "prox.khoreshtsabzi.ir",
   "secret": "554bd05e719802abbf512a311ad9377e",
   "country": "DE",
   "via": "websocket"
+ },
+ {
+  "server": "quietlinen.top",
+  "secret": "2b6eb790d613a1725557ce33b9a87b30",
+  "country": "DE",
+  "via": "https"
+ },
+ {
+  "server": "quietlinen.top",
+  "secret": "35da0cec253ea50b5414cf71d56ea9ef",
+  "country": "DE",
+  "via": "https"
+ },
+ {
+  "server": "quietlinen.top",
+  "secret": "3af44f54fb6bb24e664d38ffb1a78119",
+  "country": "DE",
+  "via": "https"
+ },
+ {
+  "server": "quietlinen.top",
+  "secret": "845ff639d9f01634c9f1c4dfb079b292",
+  "country": "DE",
+  "via": "https"
+ },
+ {
+  "server": "quietlinen.top",
+  "secret": "92d27acb475a3d8ac5cb58cdcae32092",
+  "country": "DE",
+  "via": "https"
+ },
+ {
+  "server": "quietlinen.top",
+  "secret": "b68b66e59328f050485be0f96193ef26",
+  "country": "DE",
+  "via": "https"
+ },
+ {
+  "server": "quietlinen.top",
+  "secret": "cb0a865fc8ad867218577c385baba8cb",
+  "country": "DE",
+  "via": "https"
+ },
+ {
+  "server": "quietlinen.top",
+  "secret": "e37d2ac00492bf7c77672c84a4a00c43",
+  "country": "DE",
+  "via": "https"
  },
  {
   "server": "rnd.tirel.top",
@@ -241,7 +256,7 @@
  {
   "server": "russia.compono.online",
   "secret": "709f15df656614f711c26a797c656f54",
-  "country": "FI",
+  "country": "DE",
   "via": "websocket"
  },
  {
@@ -273,18 +288,6 @@
   "secret": "2af7b2d6033352d284348a0fd154c2fe",
   "country": "NL",
   "via": "https"
- },
- {
-  "server": "tgw.spacessupport.ru",
-  "secret": "d8e9847f695b235e9b68ee100a2dda81",
-  "country": "NL",
-  "via": "https"
- },
- {
-  "server": "tpr.webvirt.cloud",
-  "secret": "2cb152167b45c9a010c8109fef2d8fd6",
-  "country": "US",
-  "via": "websocket"
  },
  {
   "server": "ultrafast.blog",
@@ -323,6 +326,12 @@
   "via": "https"
  },
  {
+  "server": "web.jumbleconnect.ru",
+  "secret": "89a5ca0dd451fbe51762d7cdcc13a5be",
+  "country": "RO",
+  "via": "https-lanes"
+ },
+ {
   "server": "web.labronim-a.space",
   "secret": "fe21e0dea7537d5dc6f6b334fc4a992f",
   "country": "US",
@@ -331,13 +340,7 @@
  {
   "server": "web.nl2.nvrsk-not-news.ru",
   "secret": "ee385fd03f5e233ffd3ec912b18cd30b",
-  "country": "RU",
-  "via": "https"
- },
- {
-  "server": "web.willvpn.space",
-  "secret": "fb4224121e528a37200b09a99841e44e",
-  "country": "NL",
+  "country": "UA",
   "via": "https"
  },
  {
@@ -353,9 +356,9 @@
   "via": "websocket-lanes"
  },
  {
-  "server": "webproxy.yearnings.ru",
-  "secret": "158380d7f43736a6c8bec9820226790d",
-  "country": "DE",
+  "server": "web7.telehelp.top",
+  "secret": "24430c60a9afedddcbea6fa3f8be3a84",
+  "country": "NL",
   "via": "websocket"
  },
  {
