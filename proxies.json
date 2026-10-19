@@ -10,6 +10,13 @@
   "server": "51.250.35.199",
   "port": 443,
   "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
+  "country": "DE",
+  "provider": "Yandex"
+ },
+ {
+  "server": "81.26.186.64",
+  "port": 443,
+  "secret": "ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275",
   "country": "NL",
   "provider": "Yandex"
  },
@@ -17,6 +24,13 @@
   "server": "81.26.188.60",
   "port": 443,
   "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
+  "country": "DE",
+  "provider": "Yandex"
+ },
+ {
+  "server": "153.51.113.222",
+  "port": 443,
+  "secret": "ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275",
   "country": "NL",
   "provider": "Yandex"
  },
@@ -28,6 +42,20 @@
   "provider": "Yandex"
  },
  {
+  "server": "158.160.132.207",
+  "port": 443,
+  "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
+  "country": "NL",
+  "provider": "Yandex"
+ },
+ {
+  "server": "158.160.158.20",
+  "port": 443,
+  "secret": "eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275",
+  "country": "NL",
+  "provider": "Yandex"
+ },
+ {
   "server": "158.160.171.34",
   "port": 443,
   "secret": "eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275",
@@ -35,9 +63,9 @@
   "provider": "Yandex"
  },
  {
-  "server": "158.160.201.26",
+  "server": "158.160.203.216",
   "port": 443,
-  "secret": "eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275",
+  "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
   "country": "NL",
   "provider": "Yandex"
  },
@@ -45,6 +73,13 @@
   "server": "158.160.206.155",
   "port": 443,
   "secret": "eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275",
+  "country": "NL",
+  "provider": "Yandex"
+ },
+ {
+  "server": "158.160.212.168",
+  "port": 443,
+  "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
   "country": "NL",
   "provider": "Yandex"
  },
@@ -70,6 +105,13 @@
   "provider": "Yandex"
  },
  {
+  "server": "158.160.250.127",
+  "port": 443,
+  "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
+  "country": "NL",
+  "provider": "Yandex"
+ },
+ {
   "server": "158.160.251.26",
   "port": 443,
   "secret": "ee1111222233334444555566667777888874342e6d79726b612e6469676974616c",
@@ -84,23 +126,30 @@
   "provider": "Yandex"
  },
  {
+  "server": "158.160.251.254",
+  "port": 443,
+  "secret": "eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275",
+  "country": "NL",
+  "provider": "Yandex"
+ },
+ {
   "server": "158.160.253.214",
   "port": 443,
   "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
+  "country": "US",
+  "provider": "Yandex"
+ },
+ {
+  "server": "158.160.253.232",
+  "port": 443,
+  "secret": "ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275",
   "country": "NL",
   "provider": "Yandex"
  },
  {
-  "server": "178.154.208.189",
+  "server": "158.160.254.123",
   "port": 443,
-  "secret": "ee5f9fd0676c72decacd4a3187daa722f8706170616f6d6567612e776869736b657974616e676f666f7874726f742e6c6f6c",
-  "country": "NL",
-  "provider": "Yandex"
- },
- {
-  "server": "178.154.208.189",
-  "port": 443,
-  "secret": "eefdb3d4e176736e98173509e71d35e682706170616f6d6567612e776869736b657974616e676f666f7874726f742e6c6f6c",
+  "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
   "country": "NL",
   "provider": "Yandex"
  },
@@ -114,20 +163,74 @@
  {
   "server": "178.154.208.189",
   "port": 443,
+  "secret": "ee5f9fd0676c72decacd4a3187daa722f8706170616f6d6567612e776869736b657974616e676f666f7874726f742e6c6f6c",
+  "country": "NL",
+  "provider": "Yandex"
+ },
+ {
+  "server": "178.154.208.189",
+  "port": 443,
   "secret": "ee87a671a2c173f59fa0c36e342fef18e0706170616f6d6567612e776869736b657974616e676f666f7874726f742e6c6f6c",
   "country": "NL",
   "provider": "Yandex"
  },
  {
-  "server": "178.154.214.35",
+  "server": "178.154.208.189",
+  "port": 443,
+  "secret": "eefdb3d4e176736e98173509e71d35e682706170616f6d6567612e776869736b657974616e676f666f7874726f742e6c6f6c",
+  "country": "NL",
+  "provider": "Yandex"
+ },
+ {
+  "server": "178.154.208.189",
+  "port": 443,
+  "secret": "ee9902a916e700ce3d6030655cd1fd7f33706170616f6d6567612e776869736b657974616e676f666f7874726f742e6c6f6c",
+  "country": "NL",
+  "provider": "Yandex"
+ },
+ {
+  "server": "178.154.209.19",
   "port": 443,
   "secret": "ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275",
   "country": "NL",
   "provider": "Yandex"
  },
  {
+  "server": "178.154.211.47",
+  "port": 443,
+  "secret": "ee54701e1686de96a44721501a7bee9e4c6c796e657474652e6d79726b612e6469676974616c",
+  "country": "US",
+  "provider": "Yandex"
+ },
+ {
+  "server": "178.154.211.101",
+  "port": 443,
+  "secret": "eecf0f3fdb7ba38892af4dece6af837750636c6f7564666c6172652e636f6d",
+  "country": "US",
+  "provider": "Yandex"
+ },
+ {
+  "server": "178.154.211.101",
+  "port": 443,
+  "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
+  "country": "US",
+  "provider": "Yandex"
+ },
+ {
   "server": "154.85.19.193.sslip.io",
   "secret": "55608b67a5b83c881a65b0e1cd8d4c90",
+  "country": "JP",
+  "via": "https"
+ },
+ {
+  "server": "45.192.201.29.sslip.io",
+  "secret": "fbbb522c8f1291f1a3d86d422e3affd4",
+  "country": "JP",
+  "via": "https"
+ },
+ {
+  "server": "45.192.203.61.sslip.io",
+  "secret": "57615e31da1424569f1941f709e4264e",
   "country": "JP",
   "via": "https"
  },
@@ -174,27 +277,21 @@
   "via": "https"
  },
  {
+  "server": "capybarium.anondns.net",
+  "secret": "0bf07e1342aea554b2cba10381606c6b",
+  "country": "DE",
+  "via": "https"
+ },
+ {
   "server": "connect.zan-go.online",
   "secret": "ec0029777f1996b8105f360caee792d5",
   "country": "EE",
   "via": "https"
  },
  {
-  "server": "deepsky.club",
-  "secret": "1549de91e71978183354fa780ac7d53f",
-  "country": "PL",
-  "via": "https"
- },
- {
   "server": "dl.subkadeh.sbs",
   "secret": "d96c4c1c38252ea14339a47a73ba2f3a",
   "country": "TR",
-  "via": "websocket"
- },
- {
-  "server": "dr-efremov.ru",
-  "secret": "65e531c418c50d7cdf3e17f5393b1753",
-  "country": "DE",
   "via": "websocket"
  },
  {
@@ -219,12 +316,6 @@
   "server": "free.vnespiska.win",
   "secret": "9fc8d7d1aeee614bd5fa3b760da44dd3",
   "country": "DE",
-  "via": "https"
- },
- {
-  "server": "freetg.mishutkin.click",
-  "secret": "87e5ee876fc0254eed830e8029a81964",
-  "country": "NL",
   "via": "websocket"
  },
  {
@@ -282,6 +373,12 @@
   "via": "https-lanes"
  },
  {
+  "server": "lith1.lockdwn.com",
+  "secret": "0044dca395c408d7e48e0163822a2447",
+  "country": "LT",
+  "via": "https"
+ },
+ {
   "server": "max-messenger.annet.site",
   "secret": "03c454786c012ecec1b80054117de6e7",
   "country": "RU",
@@ -294,22 +391,16 @@
   "via": "websocket"
  },
  {
+  "server": "med-help-org.duckdns.org",
+  "secret": "77c1c3c07443157cfdd7cc026c405316",
+  "country": "FI",
+  "via": "https"
+ },
+ {
   "server": "moscow-owl.hi-l.im",
   "secret": "9fd84ffe082284dfe8b28d44c510387f",
   "country": "DE",
   "via": "https"
- },
- {
-  "server": "msk1.compono.online",
-  "secret": "709f15df656614f711c26a797c656f54",
-  "country": "DE",
-  "via": "websocket"
- },
- {
-  "server": "msk2.compono.online",
-  "secret": "709f15df656614f711c26a797c656f54",
-  "country": "DE",
-  "via": "websocket"
  },
  {
   "server": "my.woyt.pro",
@@ -324,33 +415,21 @@
   "via": "https"
  },
  {
-  "server": "neomap.club",
-  "secret": "3082e7f2e4ebb3abec0b8011fc493653",
-  "country": "US",
-  "via": "websocket"
- },
- {
-  "server": "netherlands.gamma-kvn.com",
-  "secret": "1f39305372faa27bf1abe2c0bdc6f08e",
-  "country": "NL",
-  "via": "https"
- },
- {
   "server": "newsoutlet247.shop",
   "secret": "221e9f387d3a5b291a802805512e3661",
   "country": "HU",
   "via": "websocket"
  },
  {
+  "server": "nltw2.lockdwn.com",
+  "secret": "83bfc8870eb757c48279ff1fb402ba66",
+  "country": "NL",
+  "via": "https"
+ },
+ {
   "server": "nov.webvirt.cloud",
   "secret": "2cb152167b45c9a010c8109fef2d8fd6",
   "country": "PL",
-  "via": "websocket"
- },
- {
-  "server": "ola.mishutkin.click",
-  "secret": "87e5ee876fc0254eed830e8029a81964",
-  "country": "NL",
   "via": "websocket"
  },
  {
@@ -360,99 +439,15 @@
   "via": "https"
  },
  {
-  "server": "prox.khoreshtsabzi.ir",
-  "secret": "554bd05e719802abbf512a311ad9377e",
-  "country": "DE",
-  "via": "websocket"
- },
- {
-  "server": "quietlinen.top",
-  "secret": "2b6eb790d613a1725557ce33b9a87b30",
-  "country": "DE",
+  "server": "ozon.casa",
+  "secret": "168bd8fd77cf7bb87507f0c90351f244",
+  "country": "BY",
   "via": "https"
- },
- {
-  "server": "quietlinen.top",
-  "secret": "358a4e6db52920dd395eae3be4374323",
-  "country": "DE",
-  "via": "https"
- },
- {
-  "server": "quietlinen.top",
-  "secret": "35da0cec253ea50b5414cf71d56ea9ef",
-  "country": "DE",
-  "via": "https"
- },
- {
-  "server": "quietlinen.top",
-  "secret": "3af44f54fb6bb24e664d38ffb1a78119",
-  "country": "DE",
-  "via": "https"
- },
- {
-  "server": "quietlinen.top",
-  "secret": "845ff639d9f01634c9f1c4dfb079b292",
-  "country": "DE",
-  "via": "https"
- },
- {
-  "server": "quietlinen.top",
-  "secret": "9001a1214b039fa95d5a42fb204e49e4",
-  "country": "DE",
-  "via": "https"
- },
- {
-  "server": "quietlinen.top",
-  "secret": "92d27acb475a3d8ac5cb58cdcae32092",
-  "country": "DE",
-  "via": "https"
- },
- {
-  "server": "quietlinen.top",
-  "secret": "93dbf4f61475b020557387825144a6ec",
-  "country": "DE",
-  "via": "https"
- },
- {
-  "server": "quietlinen.top",
-  "secret": "a6c6c67fcc1a7d81ae11d054077add62",
-  "country": "DE",
-  "via": "https"
- },
- {
-  "server": "quietlinen.top",
-  "secret": "af79f88a2c8bfcb73bf8ddde9d68c37f",
-  "country": "DE",
-  "via": "https"
- },
- {
-  "server": "quietlinen.top",
-  "secret": "b68b66e59328f050485be0f96193ef26",
-  "country": "DE",
-  "via": "https"
- },
- {
-  "server": "quietlinen.top",
-  "secret": "cb0a865fc8ad867218577c385baba8cb",
-  "country": "DE",
-  "via": "https"
- },
- {
-  "server": "quietlinen.top",
-  "secret": "e37d2ac00492bf7c77672c84a4a00c43",
-  "country": "DE",
-  "via": "https"
- },
- {
-  "server": "russia.compono.online",
-  "secret": "709f15df656614f711c26a797c656f54",
-  "country": "DE",
-  "via": "websocket"
  },
  {
   "server": "sktne.top",
   "secret": "849efe17d70898a4166e39860da204e9",
-  "country": "FI",
+  "country": "DE",
   "via": "websocket-lanes"
  },
  {
@@ -516,21 +511,15 @@
   "via": "https"
  },
  {
-  "server": "w.mishutkin.click",
-  "secret": "87e5ee876fc0254eed830e8029a81964",
-  "country": "NL",
-  "via": "websocket"
- },
- {
   "server": "web.antenna-mzt.live",
   "secret": "73a41a35f42a05667dc578a25d99868f",
   "country": "NL",
   "via": "websocket-lanes"
  },
  {
-  "server": "web.es.nvrsk-not-news.ru",
-  "secret": "9f28808baf85ae93956b1dd3eb9ee0d0",
-  "country": "ES",
+  "server": "web.arixo.shop",
+  "secret": "27e57f496bbf279605f0198ea6d26067",
+  "country": "NL",
   "via": "https"
  },
  {
@@ -552,6 +541,18 @@
   "via": "https"
  },
  {
+  "server": "web.sinlx.ir",
+  "secret": "d818f0462d1b275b8854f85c35e64108",
+  "country": "GB",
+  "via": "websocket"
+ },
+ {
+  "server": "web.solasmp.ru",
+  "secret": "187ca529eae717212e041d4739156b09",
+  "country": "DE",
+  "via": "websocket"
+ },
+ {
   "server": "web.willvpn.space",
   "secret": "fb4224121e528a37200b09a99841e44e",
   "country": "NL",
@@ -570,63 +571,45 @@
   "via": "websocket-lanes"
  },
  {
-  "server": "web7.telehelp.top",
-  "secret": "24430c60a9afedddcbea6fa3f8be3a84",
-  "country": "NL",
-  "via": "websocket"
- },
- {
-  "server": "webai.telehelp.top",
-  "secret": "24430c60a9afedddcbea6fa3f8be3a84",
-  "country": "NL",
-  "via": "websocket"
- },
- {
-  "server": "webfree.telehelp.top",
-  "secret": "24430c60a9afedddcbea6fa3f8be3a84",
-  "country": "NL",
-  "via": "websocket"
- },
- {
   "server": "webproxy.31-56-184-37.sslip.io",
   "secret": "50ab3537717e352a713e7e7e56c1df87",
   "country": "NL",
   "via": "https-lanes"
  },
  {
+  "server": "webproxy.stream",
+  "secret": "9fc8d7d1aeee614bd5fa3b760da44dd3",
+  "country": "DE",
+  "via": "websocket"
+ },
+ {
   "server": "webproxy1.mooo.com",
   "secret": "8b5c23ca90d8c0b165b844a94644729f",
-  "country": "RU",
+  "country": "SC",
   "via": "https"
  },
  {
-  "server": "webrtp.prtw.ru",
-  "secret": "27abca9f854cf8f6edf5944b1f2bf1c9",
-  "country": "NL",
-  "via": "https"
- },
- {
-  "server": "webrtp.prtw.ru",
-  "secret": "ac893cee4c37ad1097b525b91cf00131",
-  "country": "NL",
-  "via": "websocket"
- },
- {
-  "server": "webrtp.prtw.ru",
-  "secret": "c86eee0a0873b12d40fa6ea959caa5f0",
-  "country": "NL",
-  "via": "https-lanes"
- },
- {
-  "server": "wfree.mishutkin.click",
-  "secret": "87e5ee876fc0254eed830e8029a81964",
-  "country": "NL",
-  "via": "websocket"
+  "server": "webv2.prtw.ru",
+  "secret": "a4a55e3d2b48df365f8ad5ba0b8544b2",
+  "country": "FI",
+  "via": "websocket-lanes"
  },
  {
   "server": "whatsab.online",
   "secret": "c8476e743533ef253aacd7319729168a",
   "country": "DE",
+  "via": "https"
+ },
+ {
+  "server": "wildberries.casa",
+  "secret": "168bd8fd77cf7bb87507f0c90351f244",
+  "country": "BY",
+  "via": "https"
+ },
+ {
+  "server": "ws.youanyn.online",
+  "secret": "168bd8fd77cf7bb87507f0c90351f244",
+  "country": "BY",
   "via": "https"
  }
 ]
