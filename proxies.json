@@ -1,22 +1,8 @@
 [
  {
-  "server": "51.250.35.199",
-  "port": 443,
-  "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
-  "country": "NL",
-  "provider": "Yandex"
- },
- {
   "server": "81.26.186.64",
   "port": 443,
   "secret": "ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275",
-  "country": "NL",
-  "provider": "Yandex"
- },
- {
-  "server": "81.26.188.60",
-  "port": 443,
-  "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
   "country": "NL",
   "provider": "Yandex"
  },
@@ -38,13 +24,6 @@
   "server": "153.51.113.222",
   "port": 443,
   "secret": "ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275",
-  "country": "NL",
-  "provider": "Yandex"
- },
- {
-  "server": "153.51.114.108",
-  "port": 443,
-  "secret": "eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275",
   "country": "NL",
   "provider": "Yandex"
  },
@@ -91,16 +70,16 @@
   "provider": "Yandex"
  },
  {
-  "server": "158.160.203.216",
+  "server": "158.160.196.17",
   "port": 443,
-  "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
-  "country": "NL",
+  "secret": "eee8ec1c1d2fa616b175c8d463a663a0dd6d2e6c756d656e706f73742e746f70",
+  "country": "FI",
   "provider": "Yandex"
  },
  {
-  "server": "158.160.206.155",
+  "server": "158.160.203.216",
   "port": 443,
-  "secret": "eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275",
+  "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
   "country": "NL",
   "provider": "Yandex"
  },
@@ -140,13 +119,6 @@
   "provider": "Yandex"
  },
  {
-  "server": "158.160.250.127",
-  "port": 443,
-  "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
-  "country": "NL",
-  "provider": "Yandex"
- },
- {
   "server": "158.160.251.26",
   "port": 443,
   "secret": "ee1111222233334444555566667777888874342e6d79726b612e6469676974616c",
@@ -171,13 +143,6 @@
   "server": "158.160.251.254",
   "port": 443,
   "secret": "eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275",
-  "country": "NL",
-  "provider": "Yandex"
- },
- {
-  "server": "158.160.253.94",
-  "port": 443,
-  "secret": "ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275",
   "country": "NL",
   "provider": "Yandex"
  },
@@ -221,13 +186,6 @@
   "port": 443,
   "secret": "ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275",
   "country": "NL",
-  "provider": "Yandex"
- },
- {
-  "server": "178.154.215.216",
-  "port": 443,
-  "secret": "eee8ec1c1d2fa616b175c8d463a663a0dd6d2e6c756d656e706f73742e746f70",
-  "country": "FI",
   "provider": "Yandex"
  },
  {
@@ -391,7 +349,7 @@
  {
   "server": "kak.hotstbvs.ru",
   "secret": "19642a8b48eff48766d6f7f240209026",
-  "country": "LV",
+  "country": "CZ",
   "via": "https-lanes"
  },
  {
@@ -525,12 +483,6 @@
   "secret": "73a41a35f42a05667dc578a25d99868f",
   "country": "NL",
   "via": "websocket-lanes"
- },
- {
-  "server": "web.arixo.shop",
-  "secret": "27e57f496bbf279605f0198ea6d26067",
-  "country": "NL",
-  "via": "https"
  },
  {
   "server": "web.es.nvrsk-not-news.ru",
