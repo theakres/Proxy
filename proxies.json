@@ -1,44 +1,16 @@
 [
  {
-  "server": "81.26.179.133",
-  "port": 443,
-  "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
-  "country": "NL",
-  "provider": "Yandex"
- },
- {
-  "server": "84.201.149.78",
-  "port": 443,
-  "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
-  "country": "NL",
-  "provider": "Yandex"
- },
- {
-  "server": "158.160.172.146",
+  "server": "158.160.209.168",
   "port": 443,
   "secret": "ee54701e1686de96a44721501a7bee9e4c6c796e657474652e6d79726b612e6469676974616c",
   "country": "US",
   "provider": "Yandex"
  },
  {
-  "server": "158.160.223.187",
-  "port": 443,
-  "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
-  "country": "NL",
-  "provider": "Yandex"
- },
- {
-  "server": "178.154.208.25",
+  "server": "178.154.250.146",
   "port": 443,
   "secret": "eee8ec1c1d2fa616b175c8d463a663a0dd6d2e6c756d656e706f73742e746f70",
   "country": "FI",
-  "provider": "Yandex"
- },
- {
-  "server": "178.154.251.87",
-  "port": 443,
-  "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
-  "country": "NL",
   "provider": "Yandex"
  },
  {
@@ -70,12 +42,6 @@
   "server": "apple.flare-free.xyz",
   "secret": "aab65144eb3eea373eedf4febd7c5f41",
   "country": "US",
-  "via": "https"
- },
- {
-  "server": "ars-funs.online",
-  "secret": "e24d40b662e2502b451c70fa14167a08",
-  "country": "DE",
   "via": "https"
  },
  {
@@ -163,12 +129,6 @@
   "via": "https"
  },
  {
-  "server": "gamesurfers.online",
-  "secret": "42b62ee26aa1b3cc1160d1d6d9f08e7f",
-  "country": "DE",
-  "via": "https"
- },
- {
   "server": "giga.annet.website",
   "secret": "03c454786c012ecec1b80054117de6e7",
   "country": "RU",
@@ -184,12 +144,6 @@
   "server": "hulkpros.online",
   "secret": "2241502ca43baef61ccdec6177ed166c",
   "country": "GB",
-  "via": "https"
- },
- {
-  "server": "incy-enjoyers.online",
-  "secret": "c1f818d8147c4635721e8a3a38e3053b",
-  "country": "DE",
   "via": "https"
  },
  {
@@ -232,12 +186,6 @@
   "server": "med-help-org.duckdns.org",
   "secret": "77c1c3c07443157cfdd7cc026c405316",
   "country": "FI",
-  "via": "https"
- },
- {
-  "server": "moscow-owl.hi-l.im",
-  "secret": "9fd84ffe082284dfe8b28d44c510387f",
-  "country": "DE",
   "via": "https"
  },
  {
@@ -337,12 +285,6 @@
   "via": "https-lanes"
  },
  {
-  "server": "vlesso4ka.monster",
-  "secret": "3157b224c9a69b9d1ba04f1229514b22",
-  "country": "DE",
-  "via": "https"
- },
- {
   "server": "web.antenna-mzt.live",
   "secret": "73a41a35f42a05667dc578a25d99868f",
   "country": "NL",
@@ -401,12 +343,6 @@
   "secret": "c86eee0a0873b12d40fa6ea959caa5f0",
   "country": "FI",
   "via": "https-lanes"
- },
- {
-  "server": "whatsab.online",
-  "secret": "c8476e743533ef253aacd7319729168a",
-  "country": "DE",
-  "via": "https"
  },
  {
   "server": "yard-yaystal-menyat.yard-tg-bot.ru",
