@@ -1,6 +1,6 @@
 [
  {
-  "server": "81.26.182.41",
+  "server": "158.160.208.186",
   "port": 443,
   "secret": "eee8ec1c1d2fa616b175c8d463a663a0dd6d2e6c756d656e706f73742e746f70",
   "country": "FI",
@@ -240,6 +240,12 @@
   "secret": "0c8fbf6f8a898594a43855202abda1a7",
   "country": "AE",
   "via": "websocket"
+ },
+ {
+  "server": "pr.zainetpro.online",
+  "secret": "37a12317dfb93a51773d0302a1e5e383",
+  "country": "US",
+  "via": "https"
  },
  {
   "server": "propuskone.letsconnectpoint.org",
