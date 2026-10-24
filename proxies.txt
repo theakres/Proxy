@@ -1,11 +1,7 @@
-tg://proxy?server=51.250.38.224&port=443&secret=ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d
-tg://proxy?server=153.51.114.36&port=443&secret=eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275
-tg://proxy?server=153.51.117.74&port=443&secret=eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275
-tg://proxy?server=158.160.227.17&port=443&secret=ee54701e1686de96a44721501a7bee9e4c6c796e657474652e6d79726b612e6469676974616c
-tg://proxy?server=158.160.231.151&port=443&secret=eee8ec1c1d2fa616b175c8d463a663a0dd6d2e6c756d656e706f73742e746f70
-tg://proxy?server=158.160.251.89&port=443&secret=ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d
-tg://proxy?server=178.154.211.173&port=443&secret=ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d
-tg://proxy?server=178.154.233.100&port=443&secret=ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d
+tg://proxy?server=158.160.128.62&port=443&secret=ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d
+tg://proxy?server=158.160.232.33&port=443&secret=ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d
+tg://proxy?server=178.154.235.157&port=443&secret=ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d
+tg://proxy?server=178.154.248.108&port=443&secret=ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d
 tg://proxy?server=212.111.87.78&port=443&secret=eef5bebd8c1216ec967d5db704343340bb66352e6e6e676f2e6363
 tg://webproxy?server=154.85.19.193.sslip.io&secret=55608b67a5b83c881a65b0e1cd8d4c90
 tg://webproxy?server=45.192.201.29.sslip.io&secret=fbbb522c8f1291f1a3d86d422e3affd4
@@ -60,4 +56,5 @@ tg://webproxy?server=web2.antenna-mzt.live&secret=1014d05ddbb4c391fe7217cae7ad7b
 tg://webproxy?server=webproxy.31-56-184-37.sslip.io&secret=50ab3537717e352a713e7e7e56c1df87
 tg://webproxy?server=webproxy1.mooo.com&secret=8b5c23ca90d8c0b165b844a94644729f
 tg://webproxy?server=webrtp.prtw.ru&secret=ac893cee4c37ad1097b525b91cf00131
+tg://webproxy?server=webrtp.prtw.ru&secret=c86eee0a0873b12d40fa6ea959caa5f0
 tg://webproxy?server=yard-yaystal-menyat.yard-tg-bot.ru&secret=9d6f25d551124b1042b9ab3fdb66f887
