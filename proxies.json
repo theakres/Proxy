@@ -1,13 +1,69 @@
 [
  {
-  "server": "158.160.209.168",
+  "server": "93.77.162.139",
+  "port": 443,
+  "secret": "ee9668df3cd1b650e52d0fe624fe4b30146f6d65676130312e776869736b657974616e676f666f7874726f742e6c6f6c",
+  "country": "NL",
+  "provider": "Yandex"
+ },
+ {
+  "server": "93.77.162.139",
+  "port": 443,
+  "secret": "ee32f657d43db4f423d6ade8927751d9b76f6d65676130312e776869736b657974616e676f666f7874726f742e6c6f6c",
+  "country": "NL",
+  "provider": "Yandex"
+ },
+ {
+  "server": "153.51.114.36",
+  "port": 443,
+  "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
+  "country": "NL",
+  "provider": "Yandex"
+ },
+ {
+  "server": "153.51.115.142",
+  "port": 443,
+  "secret": "eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275",
+  "country": "NL",
+  "provider": "Yandex"
+ },
+ {
+  "server": "153.51.119.112",
+  "port": 443,
+  "secret": "ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275",
+  "country": "NL",
+  "provider": "Yandex"
+ },
+ {
+  "server": "153.51.119.175",
+  "port": 443,
+  "secret": "ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275",
+  "country": "NL",
+  "provider": "Yandex"
+ },
+ {
+  "server": "158.160.189.177",
+  "port": 443,
+  "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
+  "country": "NL",
+  "provider": "Yandex"
+ },
+ {
+  "server": "158.160.225.124",
+  "port": 443,
+  "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
+  "country": "NL",
+  "provider": "Yandex"
+ },
+ {
+  "server": "158.160.227.17",
   "port": 443,
   "secret": "ee54701e1686de96a44721501a7bee9e4c6c796e657474652e6d79726b612e6469676974616c",
   "country": "US",
   "provider": "Yandex"
  },
  {
-  "server": "178.154.250.146",
+  "server": "178.154.235.141",
   "port": 443,
   "secret": "eee8ec1c1d2fa616b175c8d463a663a0dd6d2e6c756d656e706f73742e746f70",
   "country": "FI",
@@ -186,6 +242,12 @@
   "server": "med-help-org.duckdns.org",
   "secret": "77c1c3c07443157cfdd7cc026c405316",
   "country": "FI",
+  "via": "https"
+ },
+ {
+  "server": "moscow-owl.hi-l.im",
+  "secret": "9fd84ffe082284dfe8b28d44c510387f",
+  "country": "DE",
   "via": "https"
  },
  {
