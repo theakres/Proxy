@@ -1,9 +1,30 @@
 [
  {
-  "server": "84.201.180.187",
+  "server": "84.201.144.40",
   "port": 443,
   "secret": "eee8ec1c1d2fa616b175c8d463a663a0dd6d2e6c756d656e706f73742e746f70",
   "country": "FI",
+  "provider": "Yandex"
+ },
+ {
+  "server": "158.160.153.45",
+  "port": 443,
+  "secret": "ee1111222233334444555566667777888874342e6d79726b612e6469676974616c",
+  "country": "AE",
+  "provider": "Yandex"
+ },
+ {
+  "server": "158.160.153.45",
+  "port": 8443,
+  "secret": "ee888877776666555544443333222211117474322e6d79726b612e6469676974616c",
+  "country": "AE",
+  "provider": "Yandex"
+ },
+ {
+  "server": "158.160.172.146",
+  "port": 443,
+  "secret": "ee54701e1686de96a44721501a7bee9e4c6c796e657474652e6d79726b612e6469676974616c",
+  "country": "US",
   "provider": "Yandex"
  },
  {
@@ -281,12 +302,6 @@
   "server": "spacee.xyz",
   "secret": "14e5cb4be26efb4a1a4c3e34b59ba79f",
   "country": "DE",
-  "via": "https"
- },
- {
-  "server": "super-site.letsconnectpoint.org",
-  "secret": "948e7d87ce9bd3ab77971b000912a736",
-  "country": "IN",
   "via": "https"
  },
  {
