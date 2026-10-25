@@ -1,30 +1,37 @@
 [
  {
-  "server": "84.201.147.144",
+  "server": "84.201.181.239",
   "port": 443,
-  "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
-  "country": "NL",
+  "secret": "ee54701e1686de96a44721501a7bee9e4c6c796e657474652e6d79726b612e6469676974616c",
+  "country": "US",
   "provider": "Yandex"
  },
  {
-  "server": "84.201.148.217",
+  "server": "158.160.200.203",
   "port": 443,
   "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
   "country": "NL",
   "provider": "Yandex"
  },
  {
-  "server": "158.160.186.203",
+  "server": "158.160.247.144",
   "port": 443,
   "secret": "eee8ec1c1d2fa616b175c8d463a663a0dd6d2e6c756d656e706f73742e746f70",
   "country": "FI",
   "provider": "Yandex"
  },
  {
-  "server": "158.160.186.203",
+  "server": "158.160.247.144",
   "port": 443,
   "secret": "eee47c550d74b034470a626d17bd687c6a6d2e6c756d656e706f73742e746f70",
   "country": "FI",
+  "provider": "Yandex"
+ },
+ {
+  "server": "158.160.253.39",
+  "port": 443,
+  "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
+  "country": "NL",
   "provider": "Yandex"
  },
  {
@@ -35,24 +42,10 @@
   "provider": "VK"
  },
  {
-  "server": "213.130.80.186",
-  "port": 443,
-  "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
-  "country": "NL",
-  "provider": "Yandex"
- },
- {
-  "server": "213.130.81.119",
-  "port": 443,
-  "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
-  "country": "NL",
-  "provider": "Yandex"
- },
- {
   "server": "154.85.19.193.sslip.io",
   "secret": "55608b67a5b83c881a65b0e1cd8d4c90",
   "country": "JP",
-  "via": "https"
+  "via": "websocket"
  },
  {
   "server": "45.192.201.29.sslip.io",
@@ -123,12 +116,6 @@
  {
   "server": "eu.compono.online",
   "secret": "0b03d5b08b5592096de09e41ebbfc137",
-  "country": "FI",
-  "via": "websocket"
- },
- {
-  "server": "fin.hikarivpn.ru",
-  "secret": "a7a2dfd7928c9be51ae7a9d4093a7547",
   "country": "FI",
   "via": "websocket"
  },
@@ -207,7 +194,7 @@
  {
   "server": "kak.hotstbvs.ru",
   "secret": "19642a8b48eff48766d6f7f240209026",
-  "country": "CZ",
+  "country": "AE",
   "via": "https-lanes"
  },
  {
@@ -226,12 +213,6 @@
   "server": "med-help-org.duckdns.org",
   "secret": "77c1c3c07443157cfdd7cc026c405316",
   "country": "FI",
-  "via": "https"
- },
- {
-  "server": "moscow-owl.hi-l.im",
-  "secret": "9fd84ffe082284dfe8b28d44c510387f",
-  "country": "DE",
   "via": "https"
  },
  {
@@ -340,6 +321,12 @@
   "server": "web.arixo.shop",
   "secret": "27e57f496bbf279605f0198ea6d26067",
   "country": "NL",
+  "via": "https"
+ },
+ {
+  "server": "web.es.nvrsk-not-news.ru",
+  "secret": "9f28808baf85ae93956b1dd3eb9ee0d0",
+  "country": "AM",
   "via": "https"
  },
  {
