@@ -1,9 +1,16 @@
 [
  {
-  "server": "81.26.176.91",
+  "server": "51.250.39.67",
   "port": 443,
   "secret": "eee8ec1c1d2fa616b175c8d463a663a0dd6d2e6c756d656e706f73742e746f70",
   "country": "FI",
+  "provider": "Yandex"
+ },
+ {
+  "server": "178.154.251.188",
+  "port": 443,
+  "secret": "ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275",
+  "country": "NL",
   "provider": "Yandex"
  },
  {
@@ -282,6 +289,12 @@
   "secret": "09ccb9cc6313d403db5fca98fe780114",
   "country": "US",
   "via": "https-lanes"
+ },
+ {
+  "server": "web.arixo.shop",
+  "secret": "27e57f496bbf279605f0198ea6d26067",
+  "country": "NL",
+  "via": "https"
  },
  {
   "server": "web.es.nvrsk-not-news.ru",
