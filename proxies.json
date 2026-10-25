@@ -1,20 +1,27 @@
 [
  {
-  "server": "81.26.185.133",
+  "server": "158.160.221.35",
+  "port": 443,
+  "secret": "ee54701e1686de96a44721501a7bee9e4c6c796e657474652e6d79726b612e6469676974616c",
+  "country": "US",
+  "provider": "Yandex"
+ },
+ {
+  "server": "178.154.214.108",
   "port": 443,
   "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
   "country": "NL",
   "provider": "Yandex"
  },
  {
-  "server": "158.160.225.78",
+  "server": "178.154.234.191",
   "port": 443,
-  "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
-  "country": "NL",
+  "secret": "eee8ec1c1d2fa616b175c8d463a663a0dd6d2e6c756d656e706f73742e746f70",
+  "country": "FI",
   "provider": "Yandex"
  },
  {
-  "server": "158.160.243.54",
+  "server": "178.154.251.16",
   "port": 443,
   "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
   "country": "NL",
@@ -26,20 +33,6 @@
   "secret": "eef5bebd8c1216ec967d5db704343340bb66352e6e6e676f2e6363",
   "country": "KZ",
   "provider": "VK"
- },
- {
-  "server": "213.130.81.116",
-  "port": 443,
-  "secret": "eee8ec1c1d2fa616b175c8d463a663a0dd6d2e6c756d656e706f73742e746f70",
-  "country": "FI",
-  "provider": "Yandex"
- },
- {
-  "server": "213.130.83.203",
-  "port": 443,
-  "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
-  "country": "NL",
-  "provider": "Yandex"
  },
  {
   "server": "154.85.19.193.sslip.io",
@@ -100,6 +93,12 @@
   "secret": "1549de91e71978183354fa780ac7d53f",
   "country": "PL",
   "via": "https"
+ },
+ {
+  "server": "dl.subkadeh.sbs",
+  "secret": "d96c4c1c38252ea14339a47a73ba2f3a",
+  "country": "TR",
+  "via": "websocket"
  },
  {
   "server": "eu.compono.online",
@@ -240,12 +239,6 @@
   "via": "websocket"
  },
  {
-  "server": "nt.hikarivpn.ru",
-  "secret": "6395e4b402b8a6ffd3d9bf280394093e",
-  "country": "US",
-  "via": "websocket"
- },
- {
   "server": "orbitweb.duckdns.org",
   "secret": "14ae6fa05091edc383c2a4dc139ead18",
   "country": "DE",
@@ -358,12 +351,6 @@
   "secret": "ac893cee4c37ad1097b525b91cf00131",
   "country": "FI",
   "via": "websocket"
- },
- {
-  "server": "webrtp.prtw.ru",
-  "secret": "c86eee0a0873b12d40fa6ea959caa5f0",
-  "country": "FI",
-  "via": "https-lanes"
  },
  {
   "server": "yard-yaystal-menyat.yard-tg-bot.ru",
