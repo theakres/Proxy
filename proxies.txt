@@ -2,10 +2,9 @@ tg://proxy?server=81.26.179.196&port=443&secret=eebbb00c5d6d8a742b1a762499eb7d49
 tg://proxy?server=158.160.130.103&port=443&secret=eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275
 tg://proxy?server=158.160.147.26&port=443&secret=ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275
 tg://proxy?server=158.160.200.216&port=443&secret=ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275
-tg://proxy?server=158.160.237.118&port=443&secret=eee8ec1c1d2fa616b175c8d463a663a0dd6d2e6c756d656e706f73742e746f70
-tg://proxy?server=158.160.237.118&port=443&secret=eee47c550d74b034470a626d17bd687c6a6d2e6c756d656e706f73742e746f70
 tg://proxy?server=158.160.246.99&port=443&secret=ee54701e1686de96a44721501a7bee9e4c6c796e657474652e6d79726b612e6469676974616c
-tg://proxy?server=158.160.248.247&port=443&secret=ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d
+tg://proxy?server=158.160.247.175&port=443&secret=eee8ec1c1d2fa616b175c8d463a663a0dd6d2e6c756d656e706f73742e746f70
+tg://proxy?server=158.160.247.175&port=443&secret=eee47c550d74b034470a626d17bd687c6a6d2e6c756d656e706f73742e746f70
 tg://proxy?server=178.154.208.15&port=443&secret=eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275
 tg://proxy?server=178.154.235.92&port=443&secret=eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275
 tg://proxy?server=212.111.87.78&port=443&secret=eef5bebd8c1216ec967d5db704343340bb66352e6e6e676f2e6363
@@ -13,6 +12,7 @@ tg://webproxy?server=154.29.158.157.sslip.io&secret=c51ae6d3fd928e1dd7e81f341dfa
 tg://webproxy?server=154.85.19.193.sslip.io&secret=55608b67a5b83c881a65b0e1cd8d4c90
 tg://webproxy?server=45.192.201.29.sslip.io&secret=fbbb522c8f1291f1a3d86d422e3affd4
 tg://webproxy?server=45.192.203.61.sslip.io&secret=57615e31da1424569f1941f709e4264e
+tg://webproxy?server=apple.flare-free.xyz&secret=aab65144eb3eea373eedf4febd7c5f41
 tg://webproxy?server=ars-funs.online&secret=e24d40b662e2502b451c70fa14167a08
 tg://webproxy?server=azir.moonvira.com&secret=db28729a2a2b81d558d2deb53e00233e
 tg://webproxy?server=azirproxy.tgstar.net&secret=628e7bc8ee9c0b7cd5b1971d1f39f998
@@ -54,8 +54,8 @@ tg://webproxy?server=tg.empty-space.org&secret=7e2b68c52cacccad90eda282852e16ab
 tg://webproxy?server=tgw.spacessupport.ru&secret=d8e9847f695b235e9b68ee100a2dda81
 tg://webproxy?server=usa-1.mtproto.vip&secret=09ccb9cc6313d403db5fca98fe780114
 tg://webproxy?server=vlesso4ka.monster&secret=3157b224c9a69b9d1ba04f1229514b22
+tg://webproxy?server=web.arixo.shop&secret=27e57f496bbf279605f0198ea6d26067
 tg://webproxy?server=web.es.nvrsk-not-news.ru&secret=9f28808baf85ae93956b1dd3eb9ee0d0
-tg://webproxy?server=web.just-cloud.org&secret=2bd59b9f7279f46f255166333b429972
 tg://webproxy?server=web.solasmp.ru&secret=187ca529eae717212e041d4739156b09
 tg://webproxy?server=web.sosalproxy.lol&secret=f08aacc789648a4a69ec9e1271816a87
 tg://webproxy?server=web.willvpn.space&secret=fb4224121e528a37200b09a99841e44e

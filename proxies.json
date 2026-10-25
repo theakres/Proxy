@@ -28,20 +28,6 @@
   "provider": "Yandex"
  },
  {
-  "server": "158.160.237.118",
-  "port": 443,
-  "secret": "eee8ec1c1d2fa616b175c8d463a663a0dd6d2e6c756d656e706f73742e746f70",
-  "country": "FI",
-  "provider": "Yandex"
- },
- {
-  "server": "158.160.237.118",
-  "port": 443,
-  "secret": "eee47c550d74b034470a626d17bd687c6a6d2e6c756d656e706f73742e746f70",
-  "country": "FI",
-  "provider": "Yandex"
- },
- {
   "server": "158.160.246.99",
   "port": 443,
   "secret": "ee54701e1686de96a44721501a7bee9e4c6c796e657474652e6d79726b612e6469676974616c",
@@ -49,10 +35,17 @@
   "provider": "Yandex"
  },
  {
-  "server": "158.160.248.247",
+  "server": "158.160.247.175",
   "port": 443,
-  "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
-  "country": "NL",
+  "secret": "eee8ec1c1d2fa616b175c8d463a663a0dd6d2e6c756d656e706f73742e746f70",
+  "country": "FI",
+  "provider": "Yandex"
+ },
+ {
+  "server": "158.160.247.175",
+  "port": 443,
+  "secret": "eee47c550d74b034470a626d17bd687c6a6d2e6c756d656e706f73742e746f70",
+  "country": "FI",
   "provider": "Yandex"
  },
  {
@@ -98,6 +91,12 @@
   "server": "45.192.203.61.sslip.io",
   "secret": "57615e31da1424569f1941f709e4264e",
   "country": "JP",
+  "via": "https"
+ },
+ {
+  "server": "apple.flare-free.xyz",
+  "secret": "aab65144eb3eea373eedf4febd7c5f41",
+  "country": "US",
   "via": "https"
  },
  {
@@ -347,15 +346,15 @@
   "via": "https"
  },
  {
-  "server": "web.es.nvrsk-not-news.ru",
-  "secret": "9f28808baf85ae93956b1dd3eb9ee0d0",
-  "country": "AM",
+  "server": "web.arixo.shop",
+  "secret": "27e57f496bbf279605f0198ea6d26067",
+  "country": "NL",
   "via": "https"
  },
  {
-  "server": "web.just-cloud.org",
-  "secret": "2bd59b9f7279f46f255166333b429972",
-  "country": "AE",
+  "server": "web.es.nvrsk-not-news.ru",
+  "secret": "9f28808baf85ae93956b1dd3eb9ee0d0",
+  "country": "AM",
   "via": "https"
  },
  {
@@ -367,7 +366,7 @@
  {
   "server": "web.sosalproxy.lol",
   "secret": "f08aacc789648a4a69ec9e1271816a87",
-  "country": "US",
+  "country": "NL",
   "via": "https"
  },
  {
