@@ -1,6 +1,13 @@
+tg://proxy?server=51.250.38.82&port=443&secret=eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275
+tg://proxy?server=51.250.43.236&port=443&secret=eee8ec1c1d2fa616b175c8d463a663a0dd6d2e6c756d656e706f73742e746f70
+tg://proxy?server=51.250.43.236&port=443&secret=eee47c550d74b034470a626d17bd687c6a6d2e6c756d656e706f73742e746f70
+tg://proxy?server=81.26.179.196&port=443&secret=eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275
 tg://proxy?server=158.160.130.103&port=443&secret=eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275
-tg://proxy?server=158.160.179.102&port=443&secret=eee8ec1c1d2fa616b175c8d463a663a0dd6d2e6c756d656e706f73742e746f70
-tg://proxy?server=158.160.179.102&port=443&secret=eee47c550d74b034470a626d17bd687c6a6d2e6c756d656e706f73742e746f70
+tg://proxy?server=158.160.147.26&port=443&secret=ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275
+tg://proxy?server=158.160.200.216&port=443&secret=ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275
+tg://proxy?server=158.160.246.99&port=443&secret=ee54701e1686de96a44721501a7bee9e4c6c796e657474652e6d79726b612e6469676974616c
+tg://proxy?server=158.160.253.154&port=443&secret=ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d
+tg://proxy?server=178.154.235.92&port=443&secret=eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275
 tg://proxy?server=212.111.87.78&port=443&secret=eef5bebd8c1216ec967d5db704343340bb66352e6e6e676f2e6363
 tg://webproxy?server=154.29.158.157.sslip.io&secret=c51ae6d3fd928e1dd7e81f341dfa8833
 tg://webproxy?server=154.85.19.193.sslip.io&secret=55608b67a5b83c881a65b0e1cd8d4c90
@@ -19,7 +26,6 @@ tg://webproxy?server=dl.subkadeh.sbs&secret=d96c4c1c38252ea14339a47a73ba2f3a
 tg://webproxy?server=eu.compono.online&secret=0b03d5b08b5592096de09e41ebbfc137
 tg://webproxy?server=flare-free.xyz&secret=ec101543b4d4b7f77045eca0d821a641
 tg://webproxy?server=flare-tg.xyz&secret=341b03f574bb516bee51a6c6aa68f212
-tg://webproxy?server=gads1.cdnflow.store&secret=177c469cc1537ab96a5dcdd40240a12e
 tg://webproxy?server=game.spacee.xyz&secret=18adcc8527031c4f27eddcd437bd27e2
 tg://webproxy?server=gamesurfers.online&secret=42b62ee26aa1b3cc1160d1d6d9f08e7f
 tg://webproxy?server=giga.annet.website&secret=03c454786c012ecec1b80054117de6e7
@@ -35,7 +41,6 @@ tg://webproxy?server=max-messenger.annet.site&secret=03c454786c012ecec1b80054117
 tg://webproxy?server=med-help-org.duckdns.org&secret=77c1c3c07443157cfdd7cc026c405316
 tg://webproxy?server=moscow-owl.hi-l.im&secret=9fd84ffe082284dfe8b28d44c510387f
 tg://webproxy?server=my.woyt.pro&secret=8e0eb653b4a296e7d05c98371a277f8a
-tg://webproxy?server=naap1.cdnflow.store&secret=2adba7744ab0b1ca88b609561c0334a1
 tg://webproxy?server=neomap.club&secret=3082e7f2e4ebb3abec0b8011fc493653
 tg://webproxy?server=newsoutlet247.shop&secret=221e9f387d3a5b291a802805512e3661
 tg://webproxy?server=nltw2.lockdwn.com&secret=83bfc8870eb757c48279ff1fb402ba66
@@ -60,6 +65,5 @@ tg://webproxy?server=web.yard-tg-bot.online&secret=07635470792163f3d4d6ef46d88b9
 tg://webproxy?server=webproxy.31-56-184-37.sslip.io&secret=50ab3537717e352a713e7e7e56c1df87
 tg://webproxy?server=webproxy1.mooo.com&secret=8b5c23ca90d8c0b165b844a94644729f
 tg://webproxy?server=webrtp.prtw.ru&secret=ac893cee4c37ad1097b525b91cf00131
-tg://webproxy?server=webrtp.prtw.ru&secret=c86eee0a0873b12d40fa6ea959caa5f0
 tg://webproxy?server=whatsab.online&secret=c8476e743533ef253aacd7319729168a
 tg://webproxy?server=yard-yaystal-menyat.yard-tg-bot.ru&secret=9d6f25d551124b1042b9ab3fdb66f887
