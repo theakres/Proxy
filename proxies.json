@@ -1,16 +1,30 @@
 [
  {
-  "server": "158.160.210.237",
+  "server": "81.26.177.255",
   "port": 443,
-  "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
+  "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
   "country": "NL",
   "provider": "Yandex"
  },
  {
-  "server": "158.160.234.17",
+  "server": "84.201.170.9",
   "port": 443,
-  "secret": "ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275",
+  "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
   "country": "NL",
+  "provider": "Yandex"
+ },
+ {
+  "server": "158.160.227.195",
+  "port": 443,
+  "secret": "eee8ec1c1d2fa616b175c8d463a663a0dd6d2e6c756d656e706f73742e746f70",
+  "country": "FI",
+  "provider": "Yandex"
+ },
+ {
+  "server": "158.160.227.195",
+  "port": 443,
+  "secret": "eee47c550d74b034470a626d17bd687c6a6d2e6c756d656e706f73742e746f70",
+  "country": "FI",
   "provider": "Yandex"
  },
  {
@@ -21,24 +35,10 @@
   "provider": "Yandex"
  },
  {
-  "server": "178.154.209.168",
+  "server": "178.154.209.232",
   "port": 443,
-  "secret": "eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275",
+  "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
   "country": "NL",
-  "provider": "Yandex"
- },
- {
-  "server": "178.154.233.237",
-  "port": 443,
-  "secret": "eee8ec1c1d2fa616b175c8d463a663a0dd6d2e6c756d656e706f73742e746f70",
-  "country": "FI",
-  "provider": "Yandex"
- },
- {
-  "server": "178.154.233.237",
-  "port": 443,
-  "secret": "eee47c550d74b034470a626d17bd687c6a6d2e6c756d656e706f73742e746f70",
-  "country": "FI",
   "provider": "Yandex"
  },
  {
@@ -47,13 +47,6 @@
   "secret": "eef5bebd8c1216ec967d5db704343340bb66352e6e6e676f2e6363",
   "country": "KZ",
   "provider": "VK"
- },
- {
-  "server": "213.130.83.124",
-  "port": 443,
-  "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
-  "country": "NL",
-  "provider": "Yandex"
  },
  {
   "server": "154.29.158.157.sslip.io",
@@ -164,6 +157,12 @@
   "via": "websocket"
  },
  {
+  "server": "game.spacee.xyz",
+  "secret": "18adcc8527031c4f27eddcd437bd27e2",
+  "country": "SE",
+  "via": "https"
+ },
+ {
   "server": "gamesurfers.online",
   "secret": "42b62ee26aa1b3cc1160d1d6d9f08e7f",
   "country": "DE",
@@ -214,7 +213,7 @@
  {
   "server": "kak.hotstbvs.ru",
   "secret": "19642a8b48eff48766d6f7f240209026",
-  "country": "LV",
+  "country": "AE",
   "via": "https-lanes"
  },
  {
