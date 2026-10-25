@@ -1,6 +1,27 @@
 [
  {
-  "server": "51.250.38.95",
+  "server": "84.201.169.20",
+  "port": 443,
+  "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
+  "country": "NL",
+  "provider": "Yandex"
+ },
+ {
+  "server": "158.160.144.134",
+  "port": 443,
+  "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
+  "country": "NL",
+  "provider": "Yandex"
+ },
+ {
+  "server": "158.160.196.85",
+  "port": 443,
+  "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
+  "country": "NL",
+  "provider": "Yandex"
+ },
+ {
+  "server": "158.160.218.86",
   "port": 443,
   "secret": "eee8ec1c1d2fa616b175c8d463a663a0dd6d2e6c756d656e706f73742e746f70",
   "country": "FI",
@@ -11,6 +32,13 @@
   "port": 443,
   "secret": "ee54701e1686de96a44721501a7bee9e4c6c796e657474652e6d79726b612e6469676974616c",
   "country": "US",
+  "provider": "Yandex"
+ },
+ {
+  "server": "178.154.210.28",
+  "port": 443,
+  "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
+  "country": "NL",
   "provider": "Yandex"
  },
  {
@@ -309,6 +337,12 @@
   "via": "websocket"
  },
  {
+  "server": "web.sosalproxy.lol",
+  "secret": "f08aacc789648a4a69ec9e1271816a87",
+  "country": "US",
+  "via": "https"
+ },
+ {
   "server": "web.willvpn.space",
   "secret": "fb4224121e528a37200b09a99841e44e",
   "country": "NL",
@@ -337,12 +371,6 @@
   "secret": "ac893cee4c37ad1097b525b91cf00131",
   "country": "FI",
   "via": "websocket"
- },
- {
-  "server": "webrtp.prtw.ru",
-  "secret": "c86eee0a0873b12d40fa6ea959caa5f0",
-  "country": "FI",
-  "via": "https-lanes"
  },
  {
   "server": "yard-yaystal-menyat.yard-tg-bot.ru",
