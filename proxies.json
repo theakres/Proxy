@@ -1,6 +1,6 @@
 [
  {
-  "server": "178.154.234.9",
+  "server": "178.154.250.205",
   "port": 443,
   "secret": "eee8ec1c1d2fa616b175c8d463a663a0dd6d2e6c756d656e706f73742e746f70",
   "country": "FI",
@@ -154,7 +154,7 @@
  {
   "server": "kak.hotstbvs.ru",
   "secret": "19642a8b48eff48766d6f7f240209026",
-  "country": "HK",
+  "country": "LV",
   "via": "https-lanes"
  },
  {
@@ -284,12 +284,6 @@
   "via": "https-lanes"
  },
  {
-  "server": "web.arixo.shop",
-  "secret": "27e57f496bbf279605f0198ea6d26067",
-  "country": "NL",
-  "via": "https"
- },
- {
   "server": "web.es.nvrsk-not-news.ru",
   "secret": "9f28808baf85ae93956b1dd3eb9ee0d0",
   "country": "AM",
@@ -330,12 +324,6 @@
   "secret": "ac893cee4c37ad1097b525b91cf00131",
   "country": "FI",
   "via": "websocket"
- },
- {
-  "server": "webrtp.prtw.ru",
-  "secret": "c86eee0a0873b12d40fa6ea959caa5f0",
-  "country": "FI",
-  "via": "https-lanes"
  },
  {
   "server": "yard-yaystal-menyat.yard-tg-bot.ru",
