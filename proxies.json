@@ -1,29 +1,36 @@
 [
  {
-  "server": "158.160.221.35",
-  "port": 443,
-  "secret": "ee54701e1686de96a44721501a7bee9e4c6c796e657474652e6d79726b612e6469676974616c",
-  "country": "US",
-  "provider": "Yandex"
- },
- {
-  "server": "178.154.214.108",
+  "server": "158.160.187.121",
   "port": 443,
   "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
   "country": "NL",
   "provider": "Yandex"
  },
  {
-  "server": "178.154.234.191",
+  "server": "158.160.217.155",
+  "port": 443,
+  "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
+  "country": "NL",
+  "provider": "Yandex"
+ },
+ {
+  "server": "158.160.249.113",
   "port": 443,
   "secret": "eee8ec1c1d2fa616b175c8d463a663a0dd6d2e6c756d656e706f73742e746f70",
   "country": "FI",
   "provider": "Yandex"
  },
  {
-  "server": "178.154.251.16",
+  "server": "158.160.249.113",
   "port": 443,
-  "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
+  "secret": "eee47c550d74b034470a626d17bd687c6a6d2e6c756d656e706f73742e746f70",
+  "country": "FI",
+  "provider": "Yandex"
+ },
+ {
+  "server": "158.160.250.47",
+  "port": 443,
+  "secret": "ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275",
   "country": "NL",
   "provider": "Yandex"
  },
@@ -33,6 +40,27 @@
   "secret": "eef5bebd8c1216ec967d5db704343340bb66352e6e6e676f2e6363",
   "country": "KZ",
   "provider": "VK"
+ },
+ {
+  "server": "213.130.80.102",
+  "port": 443,
+  "secret": "ee54701e1686de96a44721501a7bee9e4c6c796e657474652e6d79726b612e6469676974616c",
+  "country": "US",
+  "provider": "Yandex"
+ },
+ {
+  "server": "217.198.170.253",
+  "port": 443,
+  "secret": "ee9668df3cd1b650e52d0fe624fe4b30146f6d65676130312e776869736b657974616e676f666f7874726f742e6c6f6c",
+  "country": "NL",
+  "provider": "Yandex"
+ },
+ {
+  "server": "217.198.170.253",
+  "port": 443,
+  "secret": "ee32f657d43db4f423d6ade8927751d9b76f6d65676130312e776869736b657974616e676f666f7874726f742e6c6f6c",
+  "country": "NL",
+  "provider": "Yandex"
  },
  {
   "server": "154.85.19.193.sslip.io",
@@ -93,12 +121,6 @@
   "secret": "1549de91e71978183354fa780ac7d53f",
   "country": "PL",
   "via": "https"
- },
- {
-  "server": "dl.subkadeh.sbs",
-  "secret": "d96c4c1c38252ea14339a47a73ba2f3a",
-  "country": "TR",
-  "via": "websocket"
  },
  {
   "server": "eu.compono.online",
@@ -299,9 +321,9 @@
   "via": "https-lanes"
  },
  {
-  "server": "web.es.nvrsk-not-news.ru",
-  "secret": "9f28808baf85ae93956b1dd3eb9ee0d0",
-  "country": "AM",
+  "server": "web.arixo.shop",
+  "secret": "27e57f496bbf279605f0198ea6d26067",
+  "country": "NL",
   "via": "https"
  },
  {
@@ -351,6 +373,12 @@
   "secret": "ac893cee4c37ad1097b525b91cf00131",
   "country": "FI",
   "via": "websocket"
+ },
+ {
+  "server": "webrtp.prtw.ru",
+  "secret": "c86eee0a0873b12d40fa6ea959caa5f0",
+  "country": "FI",
+  "via": "https-lanes"
  },
  {
   "server": "yard-yaystal-menyat.yard-tg-bot.ru",
