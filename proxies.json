@@ -1,57 +1,22 @@
 [
  {
-  "server": "81.26.179.38",
+  "server": "51.250.41.43",
   "port": 443,
   "secret": "eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275",
   "country": "NL",
   "provider": "Yandex"
  },
  {
-  "server": "158.160.130.103",
-  "port": 443,
-  "secret": "ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275",
-  "country": "NL",
-  "provider": "Yandex"
- },
- {
-  "server": "158.160.147.48",
+  "server": "158.160.254.12",
   "port": 443,
   "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
   "country": "NL",
   "provider": "Yandex"
  },
  {
-  "server": "158.160.192.88",
+  "server": "178.154.212.185",
   "port": 443,
   "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
-  "country": "NL",
-  "provider": "Yandex"
- },
- {
-  "server": "158.160.200.216",
-  "port": 443,
-  "secret": "ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275",
-  "country": "NL",
-  "provider": "Yandex"
- },
- {
-  "server": "178.154.213.214",
-  "port": 443,
-  "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
-  "country": "NL",
-  "provider": "Yandex"
- },
- {
-  "server": "178.154.235.172",
-  "port": 443,
-  "secret": "eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275",
-  "country": "NL",
-  "provider": "Yandex"
- },
- {
-  "server": "178.154.250.18",
-  "port": 443,
-  "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
   "country": "NL",
   "provider": "Yandex"
  },
@@ -63,17 +28,24 @@
   "provider": "VK"
  },
  {
-  "server": "213.130.80.151",
+  "server": "213.130.80.31",
   "port": 443,
   "secret": "eee8ec1c1d2fa616b175c8d463a663a0dd6d2e6c756d656e706f73742e746f70",
   "country": "FI",
   "provider": "Yandex"
  },
  {
-  "server": "213.130.80.151",
+  "server": "213.130.80.31",
   "port": 443,
   "secret": "eee47c550d74b034470a626d17bd687c6a6d2e6c756d656e706f73742e746f70",
   "country": "FI",
+  "provider": "Yandex"
+ },
+ {
+  "server": "213.130.80.63",
+  "port": 443,
+  "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
+  "country": "NL",
   "provider": "Yandex"
  },
  {
@@ -229,7 +201,7 @@
  {
   "server": "kak.hotstbvs.ru",
   "secret": "19642a8b48eff48766d6f7f240209026",
-  "country": "LV",
+  "country": "HK",
   "via": "https-lanes"
  },
  {
