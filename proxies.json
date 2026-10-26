@@ -1,36 +1,50 @@
 [
  {
-  "server": "158.160.129.6",
+  "server": "51.250.32.72",
   "port": 443,
-  "secret": "eee8ec1c1d2fa616b175c8d463a663a0dd6d2e6c756d656e706f73742e746f70",
-  "country": "FI",
+  "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
+  "country": "NL",
   "provider": "Yandex"
  },
  {
-  "server": "158.160.129.6",
+  "server": "51.250.41.177",
   "port": 443,
-  "secret": "eee47c550d74b034470a626d17bd687c6a6d2e6c756d656e706f73742e746f70",
-  "country": "FI",
+  "secret": "ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275",
+  "country": "NL",
   "provider": "Yandex"
  },
  {
-  "server": "158.160.129.6",
+  "server": "158.160.160.69",
   "port": 443,
-  "secret": "eefde85020595e2e16c6bf3035dab9d3d96d2e6c756d656e706f73742e746f70",
-  "country": "FI",
-  "provider": "Yandex"
- },
- {
-  "server": "158.160.145.233",
-  "port": 443,
-  "secret": "ee54701e1686de96a44721501a7bee9e4c6c796e657474652e6d79726b612e6469676974616c",
-  "country": "US",
+  "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
+  "country": "NL",
   "provider": "Yandex"
  },
  {
   "server": "158.160.182.246",
   "port": 443,
   "secret": "ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275",
+  "country": "NL",
+  "provider": "Yandex"
+ },
+ {
+  "server": "158.160.203.78",
+  "port": 443,
+  "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
+  "country": "NL",
+  "provider": "Yandex"
+ },
+ {
+  "server": "158.160.214.99",
+  "port": 443,
+  "secret": "ee54701e1686de96a44721501a7bee9e4c6c796e657474652e6d79726b612e6469676974616c",
+  "country": "US",
+  "provider": "Yandex"
+ },
+ {
+  "server": "178.154.248.41",
+  "port": 443,
+  "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
   "country": "NL",
   "provider": "Yandex"
  },
@@ -49,11 +63,46 @@
   "provider": "Yandex"
  },
  {
+  "server": "178.154.250.159",
+  "port": 443,
+  "secret": "eee8ec1c1d2fa616b175c8d463a663a0dd6d2e6c756d656e706f73742e746f70",
+  "country": "FI",
+  "provider": "Yandex"
+ },
+ {
+  "server": "178.154.250.159",
+  "port": 443,
+  "secret": "eee47c550d74b034470a626d17bd687c6a6d2e6c756d656e706f73742e746f70",
+  "country": "FI",
+  "provider": "Yandex"
+ },
+ {
+  "server": "178.154.250.159",
+  "port": 443,
+  "secret": "eefde85020595e2e16c6bf3035dab9d3d96d2e6c756d656e706f73742e746f70",
+  "country": "FI",
+  "provider": "Yandex"
+ },
+ {
   "server": "212.111.87.78",
   "port": 443,
   "secret": "eef5bebd8c1216ec967d5db704343340bb66352e6e6e676f2e6363",
   "country": "KZ",
   "provider": "VK"
+ },
+ {
+  "server": "213.130.82.111",
+  "port": 443,
+  "secret": "eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275",
+  "country": "NL",
+  "provider": "Yandex"
+ },
+ {
+  "server": "213.130.82.114",
+  "port": 443,
+  "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
+  "country": "NL",
+  "provider": "Yandex"
  },
  {
   "server": "154.29.158.157.sslip.io",
@@ -280,12 +329,6 @@
  {
   "server": "pr.zainetpro.online",
   "secret": "37a12317dfb93a51773d0302a1e5e383",
-  "country": "US",
-  "via": "https"
- },
- {
-  "server": "propuskone.letsconnectpoint.org",
-  "secret": "948e7d87ce9bd3ab77971b000912a736",
   "country": "US",
   "via": "https"
  },
