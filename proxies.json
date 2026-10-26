@@ -1,58 +1,9 @@
 [
  {
-  "server": "84.201.170.128",
-  "port": 443,
-  "secret": "eee8ec1c1d2fa616b175c8d463a663a0dd6d2e6c756d656e706f73742e746f70",
-  "country": "FI",
-  "provider": "Yandex"
- },
- {
-  "server": "84.201.170.128",
-  "port": 443,
-  "secret": "eee47c550d74b034470a626d17bd687c6a6d2e6c756d656e706f73742e746f70",
-  "country": "FI",
-  "provider": "Yandex"
- },
- {
-  "server": "84.201.170.128",
-  "port": 443,
-  "secret": "eefde85020595e2e16c6bf3035dab9d3d96d2e6c756d656e706f73742e746f70",
-  "country": "FI",
-  "provider": "Yandex"
- },
- {
-  "server": "130.193.56.130",
-  "port": 443,
-  "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
-  "country": "NL",
-  "provider": "Yandex"
- },
- {
-  "server": "130.193.58.205",
-  "port": 443,
-  "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
-  "country": "NL",
-  "provider": "Yandex"
- },
- {
   "server": "153.51.115.69",
   "port": 853,
   "secret": "eefa945f5b3ab915949e388a90b521d72c7467312d7275362e6368616476706e2e73686f70",
-  "country": "DE",
-  "provider": "Yandex"
- },
- {
-  "server": "153.51.119.111",
-  "port": 443,
-  "secret": "eee8d0e2bef6fc4c2f39382397e40c55db7a65726f30322e776869736b657974616e676f666f7874726f742e6c6f6c",
-  "country": "NL",
-  "provider": "Yandex"
- },
- {
-  "server": "158.160.142.109",
-  "port": 443,
-  "secret": "eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275",
-  "country": "NL",
+  "country": "FI",
   "provider": "Yandex"
  },
  {
@@ -63,9 +14,9 @@
   "provider": "Yandex"
  },
  {
-  "server": "158.160.189.193",
+  "server": "158.160.180.240",
   "port": 443,
-  "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
+  "secret": "ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275",
   "country": "NL",
   "provider": "Yandex"
  },
@@ -91,10 +42,24 @@
   "provider": "Yandex"
  },
  {
-  "server": "158.160.248.4",
+  "server": "158.160.240.58",
   "port": 443,
-  "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
-  "country": "NL",
+  "secret": "eee8ec1c1d2fa616b175c8d463a663a0dd6d2e6c756d656e706f73742e746f70",
+  "country": "FI",
+  "provider": "Yandex"
+ },
+ {
+  "server": "158.160.240.58",
+  "port": 443,
+  "secret": "eee47c550d74b034470a626d17bd687c6a6d2e6c756d656e706f73742e746f70",
+  "country": "FI",
+  "provider": "Yandex"
+ },
+ {
+  "server": "158.160.240.58",
+  "port": 443,
+  "secret": "eefde85020595e2e16c6bf3035dab9d3d96d2e6c756d656e706f73742e746f70",
+  "country": "FI",
   "provider": "Yandex"
  },
  {
@@ -102,20 +67,6 @@
   "port": 443,
   "secret": "ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275",
   "country": "NL",
-  "provider": "Yandex"
- },
- {
-  "server": "178.154.208.59",
-  "port": 443,
-  "secret": "eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275",
-  "country": "NL",
-  "provider": "Yandex"
- },
- {
-  "server": "178.154.209.203",
-  "port": 443,
-  "secret": "ee54701e1686de96a44721501a7bee9e4c6c796e657474652e6d79726b612e6469676974616c",
-  "country": "US",
   "provider": "Yandex"
  },
  {
@@ -313,12 +264,6 @@
   "via": "https"
  },
  {
-  "server": "neomap.club",
-  "secret": "3082e7f2e4ebb3abec0b8011fc493653",
-  "country": "US",
-  "via": "websocket"
- },
- {
   "server": "newsoutlet247.shop",
   "secret": "221e9f387d3a5b291a802805512e3661",
   "country": "HU",
@@ -455,12 +400,6 @@
   "secret": "ac893cee4c37ad1097b525b91cf00131",
   "country": "FI",
   "via": "websocket"
- },
- {
-  "server": "webrtp.prtw.ru",
-  "secret": "c86eee0a0873b12d40fa6ea959caa5f0",
-  "country": "FI",
-  "via": "https-lanes"
  },
  {
   "server": "whatsab.online",
