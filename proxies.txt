@@ -1,3 +1,5 @@
+tg://proxy?server=51.250.47.6&port=443&secret=ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d
+tg://proxy?server=178.154.213.209&port=443&secret=ee54701e1686de96a44721501a7bee9e4c6c796e657474652e6d79726b612e6469676974616c
 tg://proxy?server=212.111.87.78&port=443&secret=eef5bebd8c1216ec967d5db704343340bb66352e6e6e676f2e6363
 tg://webproxy?server=154.29.158.157.sslip.io&secret=c51ae6d3fd928e1dd7e81f341dfa8833
 tg://webproxy?server=154.85.19.193.sslip.io&secret=55608b67a5b83c881a65b0e1cd8d4c90
