@@ -1,30 +1,58 @@
 [
  {
-  "server": "158.160.153.175",
+  "server": "51.250.116.9",
+  "port": 853,
+  "secret": "ee01298cb2ddd631b1f5f7de3dce151c8b7467312d7275352e6368616476706e2e73686f70",
+  "country": "DE",
+  "provider": "Yandex"
+ },
+ {
+  "server": "153.51.113.152",
+  "port": 853,
+  "secret": "eefa945f5b3ab915949e388a90b521d72c7467312d7275362e6368616476706e2e73686f70",
+  "country": "FI",
+  "provider": "Yandex"
+ },
+ {
+  "server": "158.160.176.184",
   "port": 443,
   "secret": "eee8ec1c1d2fa616b175c8d463a663a0dd6d2e6c756d656e706f73742e746f70",
   "country": "FI",
   "provider": "Yandex"
  },
  {
-  "server": "158.160.153.175",
+  "server": "158.160.176.184",
   "port": 443,
   "secret": "eee47c550d74b034470a626d17bd687c6a6d2e6c756d656e706f73742e746f70",
   "country": "FI",
   "provider": "Yandex"
  },
  {
-  "server": "158.160.153.175",
+  "server": "158.160.176.184",
   "port": 443,
   "secret": "eefde85020595e2e16c6bf3035dab9d3d96d2e6c756d656e706f73742e746f70",
   "country": "FI",
   "provider": "Yandex"
  },
  {
-  "server": "158.160.153.175",
+  "server": "158.160.176.184",
   "port": 443,
   "secret": "eeadb7cfebd78712e71db745c9da7281b16d2e6c756d656e706f73742e746f70",
   "country": "FI",
+  "provider": "Yandex"
+ },
+ {
+  "server": "158.160.190.177",
+  "port": 443,
+  "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
+  "country": "NL",
+  "provider": "Yandex"
+ },
+ {
+  "server": "158.160.218.74",
+  "port": 443,
+  "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
+  "country": "NL",
   "provider": "Yandex"
  },
  {
@@ -295,12 +323,6 @@
  {
   "server": "vlesso4ka.monster",
   "secret": "3157b224c9a69b9d1ba04f1229514b22",
-  "country": "DE",
-  "via": "https"
- },
- {
-  "server": "web.arixo.shop",
-  "secret": "27e57f496bbf279605f0198ea6d26067",
   "country": "DE",
   "via": "https"
  },
