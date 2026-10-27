@@ -1,72 +1,30 @@
 [
  {
-  "server": "84.201.146.86",
-  "port": 443,
-  "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
-  "country": "NL",
-  "provider": "Yandex"
- },
- {
-  "server": "130.193.45.208",
-  "port": 443,
-  "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
-  "country": "NL",
-  "provider": "Yandex"
- },
- {
-  "server": "158.160.139.166",
-  "port": 443,
-  "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
-  "country": "NL",
-  "provider": "Yandex"
- },
- {
-  "server": "158.160.149.1",
+  "server": "158.160.153.175",
   "port": 443,
   "secret": "eee8ec1c1d2fa616b175c8d463a663a0dd6d2e6c756d656e706f73742e746f70",
   "country": "FI",
   "provider": "Yandex"
  },
  {
-  "server": "158.160.149.1",
+  "server": "158.160.153.175",
   "port": 443,
   "secret": "eee47c550d74b034470a626d17bd687c6a6d2e6c756d656e706f73742e746f70",
   "country": "FI",
   "provider": "Yandex"
  },
  {
-  "server": "158.160.149.1",
+  "server": "158.160.153.175",
   "port": 443,
   "secret": "eefde85020595e2e16c6bf3035dab9d3d96d2e6c756d656e706f73742e746f70",
   "country": "FI",
   "provider": "Yandex"
  },
  {
-  "server": "158.160.149.1",
+  "server": "158.160.153.175",
   "port": 443,
   "secret": "eeadb7cfebd78712e71db745c9da7281b16d2e6c756d656e706f73742e746f70",
   "country": "FI",
-  "provider": "Yandex"
- },
- {
-  "server": "158.160.204.253",
-  "port": 443,
-  "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
-  "country": "NL",
-  "provider": "Yandex"
- },
- {
-  "server": "158.160.211.156",
-  "port": 443,
-  "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
-  "country": "NL",
-  "provider": "Yandex"
- },
- {
-  "server": "158.160.254.84",
-  "port": 443,
-  "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
-  "country": "NL",
   "provider": "Yandex"
  },
  {
@@ -140,12 +98,6 @@
   "server": "capybarium.anondns.net",
   "secret": "0bf07e1342aea554b2cba10381606c6b",
   "country": "DE",
-  "via": "https"
- },
- {
-  "server": "clients-5.drive.klukva.online",
-  "secret": "c38ccd14b20d296330a4a0df66d24344",
-  "country": "US",
   "via": "https"
  },
  {
@@ -343,6 +295,12 @@
  {
   "server": "vlesso4ka.monster",
   "secret": "3157b224c9a69b9d1ba04f1229514b22",
+  "country": "DE",
+  "via": "https"
+ },
+ {
+  "server": "web.arixo.shop",
+  "secret": "27e57f496bbf279605f0198ea6d26067",
   "country": "DE",
   "via": "https"
  },
