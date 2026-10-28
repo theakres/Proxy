@@ -1,40 +1,5 @@
 [
  {
-  "server": "51.250.34.138",
-  "port": 443,
-  "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
-  "country": "NL",
-  "provider": "Yandex"
- },
- {
-  "server": "81.26.180.202",
-  "port": 443,
-  "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
-  "country": "NL",
-  "provider": "Yandex"
- },
- {
-  "server": "81.26.186.60",
-  "port": 443,
-  "secret": "ee54701e1686de96a44721501a7bee9e4c6c796e657474652e6d79726b612e6469676974616c",
-  "country": "AE",
-  "provider": "Yandex"
- },
- {
-  "server": "81.26.188.187",
-  "port": 443,
-  "secret": "ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275",
-  "country": "NL",
-  "provider": "Yandex"
- },
- {
-  "server": "130.193.56.60",
-  "port": 443,
-  "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
-  "country": "NL",
-  "provider": "Yandex"
- },
- {
   "server": "138.16.200.27",
   "port": 443,
   "secret": "eef5bebd8c1216ec967d5db704343340bb66352e6e6e676f2e6363",
@@ -42,45 +7,45 @@
   "provider": "VK"
  },
  {
-  "server": "158.160.208.28",
+  "server": "153.51.112.6",
   "port": 443,
-  "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
-  "country": "NL",
+  "secret": "ee4c15861636db167e8a958b371ce499f9636c6f75642e6e6f63746f2e6363",
+  "country": "DE",
   "provider": "Yandex"
  },
  {
-  "server": "178.154.232.43",
+  "server": "153.51.119.204",
+  "port": 443,
+  "secret": "ee54701e1686de96a44721501a7bee9e4c6c796e657474652e6d79726b612e6469676974616c",
+  "country": "AE",
+  "provider": "Yandex"
+ },
+ {
+  "server": "178.154.233.222",
   "port": 443,
   "secret": "eee8ec1c1d2fa616b175c8d463a663a0dd6d2e6c756d656e706f73742e746f70",
   "country": "FI",
   "provider": "Yandex"
  },
  {
-  "server": "178.154.232.43",
+  "server": "178.154.233.222",
   "port": 443,
   "secret": "eee47c550d74b034470a626d17bd687c6a6d2e6c756d656e706f73742e746f70",
   "country": "FI",
   "provider": "Yandex"
  },
  {
-  "server": "178.154.232.43",
+  "server": "178.154.233.222",
   "port": 443,
   "secret": "eefde85020595e2e16c6bf3035dab9d3d96d2e6c756d656e706f73742e746f70",
   "country": "FI",
   "provider": "Yandex"
  },
  {
-  "server": "178.154.232.43",
+  "server": "178.154.233.222",
   "port": 443,
   "secret": "eeadb7cfebd78712e71db745c9da7281b16d2e6c756d656e706f73742e746f70",
   "country": "FI",
-  "provider": "Yandex"
- },
- {
-  "server": "213.130.82.89",
-  "port": 443,
-  "secret": "ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275",
-  "country": "NL",
   "provider": "Yandex"
  },
  {
@@ -123,6 +88,12 @@
   "server": "capybarium.anondns.net",
   "secret": "0bf07e1342aea554b2cba10381606c6b",
   "country": "DE",
+  "via": "https"
+ },
+ {
+  "server": "clients-5.drive.klukva.online",
+  "secret": "c38ccd14b20d296330a4a0df66d24344",
+  "country": "US",
   "via": "https"
  },
  {
@@ -188,7 +159,7 @@
  {
   "server": "kak.hotstbvs.ru",
   "secret": "19642a8b48eff48766d6f7f240209026",
-  "country": "FR",
+  "country": "CZ",
   "via": "https-lanes"
  },
  {
