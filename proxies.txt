@@ -1,10 +1,12 @@
+tg://proxy?server=81.26.187.69&port=443&secret=ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d
 tg://proxy?server=138.16.200.27&port=443&secret=eef5bebd8c1216ec967d5db704343340bb66352e6e6e676f2e6363
-tg://proxy?server=158.160.234.65&port=443&secret=eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275
-tg://proxy?server=158.160.242.255&port=443&secret=eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275
-tg://proxy?server=158.160.249.199&port=443&secret=eee8ec1c1d2fa616b175c8d463a663a0dd6d2e6c756d656e706f73742e746f70
-tg://proxy?server=158.160.249.199&port=443&secret=eee47c550d74b034470a626d17bd687c6a6d2e6c756d656e706f73742e746f70
-tg://proxy?server=158.160.249.199&port=443&secret=eefde85020595e2e16c6bf3035dab9d3d96d2e6c756d656e706f73742e746f70
-tg://proxy?server=158.160.249.199&port=443&secret=eeadb7cfebd78712e71db745c9da7281b16d2e6c756d656e706f73742e746f70
+tg://proxy?server=158.160.159.9&port=443&secret=ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d
+tg://proxy?server=178.154.212.211&port=443&secret=ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d
+tg://proxy?server=178.154.235.63&port=443&secret=ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d
+tg://proxy?server=213.130.80.119&port=443&secret=eee8ec1c1d2fa616b175c8d463a663a0dd6d2e6c756d656e706f73742e746f70
+tg://proxy?server=213.130.80.119&port=443&secret=eee47c550d74b034470a626d17bd687c6a6d2e6c756d656e706f73742e746f70
+tg://proxy?server=213.130.80.119&port=443&secret=eefde85020595e2e16c6bf3035dab9d3d96d2e6c756d656e706f73742e746f70
+tg://proxy?server=213.130.80.119&port=443&secret=eeadb7cfebd78712e71db745c9da7281b16d2e6c756d656e706f73742e746f70
 tg://webproxy?server=154.29.158.157.sslip.io&secret=c51ae6d3fd928e1dd7e81f341dfa8833
 tg://webproxy?server=apple.flare-free.xyz&secret=aab65144eb3eea373eedf4febd7c5f41
 tg://webproxy?server=azir.moonvira.com&secret=db28729a2a2b81d558d2deb53e00233e
@@ -13,7 +15,6 @@ tg://webproxy?server=burmalda.flare-tg.xyz&secret=38be977eb335fc614673346006cf14
 tg://webproxy?server=cacaoware.com&secret=caca0caca0caca0caca0caca0caca000
 tg://webproxy?server=capybarium.anondns.net&secret=0bf07e1342aea554b2cba10381606c6b
 tg://webproxy?server=deepsky.club&secret=1549de91e71978183354fa780ac7d53f
-tg://webproxy?server=dl.subkadeh.sbs&secret=d96c4c1c38252ea14339a47a73ba2f3a
 tg://webproxy?server=eu.compono.online&secret=0b03d5b08b5592096de09e41ebbfc137
 tg://webproxy?server=flare-tg.xyz&secret=341b03f574bb516bee51a6c6aa68f212
 tg://webproxy?server=game.spacee.xyz&secret=18adcc8527031c4f27eddcd437bd27e2
@@ -36,6 +37,7 @@ tg://webproxy?server=pine31.photo-frame.com&secret=9fc8d7d1aeee614bd5fa3b760da44
 tg://webproxy?server=pl.hikarivpn.ru&secret=0c8fbf6f8a898594a43855202abda1a7
 tg://webproxy?server=pr.zainetpro.online&secret=37a12317dfb93a51773d0302a1e5e383
 tg://webproxy?server=proxy.hikarivpn.ru&secret=6e438f9a6404cd3a22912ab830f56d88
+tg://webproxy?server=ru04app.freesurfer.club&secret=1be056afced79ce6ed81327e79b69151
 tg://webproxy?server=sktne.top&secret=849efe17d70898a4166e39860da204e9
 tg://webproxy?server=spacee.xyz&secret=14e5cb4be26efb4a1a4c3e34b59ba79f
 tg://webproxy?server=tg.empty-space.org&secret=7e2b68c52cacccad90eda282852e16ab
