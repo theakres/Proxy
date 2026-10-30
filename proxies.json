@@ -1,33 +1,5 @@
 [
  {
-  "server": "158.160.234.127",
-  "port": 443,
-  "secret": "eeadb7cfebd78712e71db745c9da7281b16d2e6c756d656e706f73742e746f70",
-  "country": "FI",
-  "provider": "Yandex"
- },
- {
-  "server": "158.160.234.127",
-  "port": 443,
-  "secret": "eefde85020595e2e16c6bf3035dab9d3d96d2e6c756d656e706f73742e746f70",
-  "country": "FI",
-  "provider": "Yandex"
- },
- {
-  "server": "158.160.234.127",
-  "port": 443,
-  "secret": "eee8ec1c1d2fa616b175c8d463a663a0dd6d2e6c756d656e706f73742e746f70",
-  "country": "FI",
-  "provider": "Yandex"
- },
- {
-  "server": "158.160.234.127",
-  "port": 443,
-  "secret": "eee47c550d74b034470a626d17bd687c6a6d2e6c756d656e706f73742e746f70",
-  "country": "FI",
-  "provider": "Yandex"
- },
- {
   "server": "154.29.158.157.sslip.io",
   "secret": "c51ae6d3fd928e1dd7e81f341dfa8833",
   "country": "US",
@@ -82,12 +54,6 @@
   "via": "https"
  },
  {
-  "server": "dl.subkadeh.sbs",
-  "secret": "d96c4c1c38252ea14339a47a73ba2f3a",
-  "country": "TR",
-  "via": "websocket"
- },
- {
   "server": "free.vnespiska.win",
   "secret": "9fc8d7d1aeee614bd5fa3b760da44dd3",
   "country": "DE",
@@ -118,6 +84,12 @@
   "via": "https"
  },
  {
+  "server": "into.thedawnmist.ir",
+  "secret": "886c5123e0cc1c4f02a71465f3eb7d46",
+  "country": "DE",
+  "via": "https"
+ },
+ {
   "server": "k1.dlpd.cc",
   "secret": "dd9bf46ec57803c09def701a3844858c",
   "country": "SG",
@@ -126,7 +98,7 @@
  {
   "server": "kak.hotstbvs.ru",
   "secret": "19642a8b48eff48766d6f7f240209026",
-  "country": "FR",
+  "country": "LV",
   "via": "https-lanes"
  },
  {
@@ -254,12 +226,6 @@
   "secret": "187ca529eae717212e041d4739156b09",
   "country": "DE",
   "via": "websocket"
- },
- {
-  "server": "web.sosalproxy.lol",
-  "secret": "f08aacc789648a4a69ec9e1271816a87",
-  "country": "NL",
-  "via": "https"
  },
  {
   "server": "web.willvpn.space",
