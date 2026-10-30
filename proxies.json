@@ -1,62 +1,27 @@
 [
  {
-  "server": "51.250.32.34",
+  "server": "51.250.33.56",
   "port": 443,
-  "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
+  "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
   "country": "NL",
   "provider": "Yandex"
  },
  {
-  "server": "51.250.47.79",
+  "server": "130.193.57.93",
   "port": 443,
   "secret": "ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275",
   "country": "NL",
   "provider": "Yandex"
  },
  {
-  "server": "84.201.131.152",
-  "port": 443,
-  "secret": "eefc70a04a835a56b21c2066278bf71aa9616c7068616e6f76656d62657230312e776869736b657974616e676f666f7874726f742e6c6f6c",
-  "country": "FI",
-  "provider": "Yandex"
- },
- {
-  "server": "84.201.131.152",
-  "port": 443,
-  "secret": "ee6ed85a4985e09770a47f400f3d385815616c7068616e6f76656d62657230312e776869736b657974616e676f666f7874726f742e6c6f6c",
-  "country": "FI",
-  "provider": "Yandex"
- },
- {
-  "server": "84.201.168.244",
-  "port": 443,
-  "secret": "ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275",
-  "country": "NL",
-  "provider": "Yandex"
- },
- {
-  "server": "130.193.59.58",
+  "server": "158.160.148.62",
   "port": 443,
   "secret": "eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275",
   "country": "NL",
   "provider": "Yandex"
  },
  {
-  "server": "158.160.149.198",
-  "port": 443,
-  "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
-  "country": "NL",
-  "provider": "Yandex"
- },
- {
-  "server": "158.160.186.251",
-  "port": 443,
-  "secret": "eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275",
-  "country": "NL",
-  "provider": "Yandex"
- },
- {
-  "server": "158.160.214.225",
+  "server": "158.160.166.135",
   "port": 443,
   "secret": "eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275",
   "country": "NL",
@@ -84,7 +49,7 @@
   "provider": "Yandex"
  },
  {
-  "server": "158.160.254.251",
+  "server": "178.154.209.164",
   "port": 443,
   "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
   "country": "NL",
@@ -316,12 +281,6 @@
   "server": "web.es.nvrsk-not-news.ru",
   "secret": "9f28808baf85ae93956b1dd3eb9ee0d0",
   "country": "AM",
-  "via": "https"
- },
- {
-  "server": "web.maybexiaomi.ru",
-  "secret": "d4201d0fc585e66232746ccca306d896",
-  "country": "NL",
   "via": "https"
  },
  {
