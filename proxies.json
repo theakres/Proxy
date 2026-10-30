@@ -1,44 +1,37 @@
 [
  {
-  "server": "81.26.187.16",
+  "server": "51.250.39.137",
   "port": 443,
-  "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
-  "country": "PL",
+  "secret": "ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275",
+  "country": "NL",
   "provider": "Yandex"
  },
  {
-  "server": "81.26.188.248",
+  "server": "81.26.176.226",
   "port": 443,
   "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
   "country": "NL",
   "provider": "Yandex"
  },
  {
-  "server": "84.252.133.248",
+  "server": "81.26.186.238",
   "port": 443,
   "secret": "eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275",
   "country": "NL",
   "provider": "Yandex"
  },
  {
-  "server": "158.160.142.170",
+  "server": "84.201.131.152",
   "port": 443,
-  "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
-  "country": "NL",
+  "secret": "ee6ed85a4985e09770a47f400f3d385815616c7068616e6f76656d62657230312e776869736b657974616e676f666f7874726f742e6c6f6c",
+  "country": "FI",
   "provider": "Yandex"
  },
  {
-  "server": "158.160.165.188",
+  "server": "153.51.119.236",
   "port": 443,
-  "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
-  "country": "NL",
-  "provider": "Yandex"
- },
- {
-  "server": "158.160.211.25",
-  "port": 443,
-  "secret": "eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275",
-  "country": "NL",
+  "secret": "ee54701e1686de96a44721501a7bee9e4c6c796e657474652e6d79726b612e6469676974616c",
+  "country": "AE",
   "provider": "Yandex"
  },
  {
@@ -49,10 +42,17 @@
   "provider": "Yandex"
  },
  {
-  "server": "158.160.220.64",
+  "server": "158.160.221.140",
   "port": 443,
-  "secret": "ee54701e1686de96a44721501a7bee9e4c6c796e657474652e6d79726b612e6469676974616c",
-  "country": "AE",
+  "secret": "ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275",
+  "country": "NL",
+  "provider": "Yandex"
+ },
+ {
+  "server": "178.154.232.159",
+  "port": 853,
+  "secret": "eeb238721218eebd6f1d571990af3c4d9b7467312d7275342e6368616476706e2e73686f70",
+  "country": "DE",
   "provider": "Yandex"
  },
  {
@@ -160,7 +160,7 @@
  {
   "server": "kak.hotstbvs.ru",
   "secret": "19642a8b48eff48766d6f7f240209026",
-  "country": "AE",
+  "country": "FR",
   "via": "https-lanes"
  },
  {
@@ -286,7 +286,7 @@
  {
   "server": "web.maybexiaomi.ru",
   "secret": "d4201d0fc585e66232746ccca306d896",
-  "country": "NL",
+  "country": "US",
   "via": "https"
  },
  {
@@ -318,11 +318,5 @@
   "secret": "8b5c23ca90d8c0b165b844a94644729f",
   "country": "SC",
   "via": "https"
- },
- {
-  "server": "webrtp.prtw.ru",
-  "secret": "ac893cee4c37ad1097b525b91cf00131",
-  "country": "FI",
-  "via": "websocket"
  }
 ]
