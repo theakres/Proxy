@@ -1,3 +1,9 @@
+tg://proxy?server=51.250.40.146&port=443&secret=ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d
+tg://proxy?server=153.51.118.9&port=443&secret=ee54701e1686de96a44721501a7bee9e4c6c796e657474652e6d79726b612e6469676974616c
+tg://proxy?server=158.160.139.66&port=443&secret=ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d
+tg://proxy?server=158.160.218.206&port=443&secret=eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275
+tg://proxy?server=178.154.208.244&port=443&secret=ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d
+tg://proxy?server=178.154.209.164&port=443&secret=eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275
 tg://webproxy?server=154.29.158.157.sslip.io&secret=c51ae6d3fd928e1dd7e81f341dfa8833
 tg://webproxy?server=apple.flare-free.xyz&secret=aab65144eb3eea373eedf4febd7c5f41
 tg://webproxy?server=azir.moonvira.com&secret=db28729a2a2b81d558d2deb53e00233e
@@ -7,6 +13,7 @@ tg://webproxy?server=cacaoware.com&secret=caca0caca0caca0caca0caca0caca000
 tg://webproxy?server=capybarium.anondns.net&secret=0bf07e1342aea554b2cba10381606c6b
 tg://webproxy?server=clients-5.drive.klukva.online&secret=c38ccd14b20d296330a4a0df66d24344
 tg://webproxy?server=deepsky.club&secret=1549de91e71978183354fa780ac7d53f
+tg://webproxy?server=dl.subkadeh.sbs&secret=d96c4c1c38252ea14339a47a73ba2f3a
 tg://webproxy?server=free.vnespiska.win&secret=9fc8d7d1aeee614bd5fa3b760da44dd3
 tg://webproxy?server=game.spacee.xyz&secret=18adcc8527031c4f27eddcd437bd27e2
 tg://webproxy?server=giga.annet.website&secret=03c454786c012ecec1b80054117de6e7
