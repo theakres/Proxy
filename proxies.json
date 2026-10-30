@@ -1,43 +1,36 @@
 [
  {
-  "server": "51.250.40.146",
-  "port": 443,
-  "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
-  "country": "NL",
-  "provider": "Yandex"
- },
- {
-  "server": "153.51.118.9",
+  "server": "153.51.117.33",
   "port": 443,
   "secret": "ee54701e1686de96a44721501a7bee9e4c6c796e657474652e6d79726b612e6469676974616c",
   "country": "AE",
   "provider": "Yandex"
  },
  {
-  "server": "158.160.139.66",
-  "port": 443,
-  "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
-  "country": "NL",
-  "provider": "Yandex"
- },
- {
-  "server": "158.160.218.206",
+  "server": "158.160.218.112",
   "port": 443,
   "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
   "country": "NL",
   "provider": "Yandex"
  },
  {
-  "server": "178.154.208.244",
+  "server": "158.160.245.211",
   "port": 443,
   "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
   "country": "NL",
   "provider": "Yandex"
  },
  {
-  "server": "178.154.209.164",
+  "server": "158.160.251.198",
   "port": 443,
   "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
+  "country": "NL",
+  "provider": "Yandex"
+ },
+ {
+  "server": "158.160.255.166",
+  "port": 443,
+  "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
   "country": "NL",
   "provider": "Yandex"
  },
@@ -88,18 +81,6 @@
   "secret": "c38ccd14b20d296330a4a0df66d24344",
   "country": "PL",
   "via": "https"
- },
- {
-  "server": "deepsky.club",
-  "secret": "1549de91e71978183354fa780ac7d53f",
-  "country": "PL",
-  "via": "https"
- },
- {
-  "server": "dl.subkadeh.sbs",
-  "secret": "d96c4c1c38252ea14339a47a73ba2f3a",
-  "country": "TR",
-  "via": "websocket"
  },
  {
   "server": "free.vnespiska.win",
@@ -154,6 +135,12 @@
   "secret": "0044dca395c408d7e48e0163822a2447",
   "country": "LT",
   "via": "https"
+ },
+ {
+  "server": "mamajan.lolzgram.ru",
+  "secret": "64465540fa3539914fe5a8cc8a3929a8",
+  "country": "FI",
+  "via": "websocket"
  },
  {
   "server": "max-messenger.annet.site",
