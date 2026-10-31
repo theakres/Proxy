@@ -1,5 +1,12 @@
 [
  {
+  "server": "51.250.37.53",
+  "port": 443,
+  "secret": "ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275",
+  "country": "NL",
+  "provider": "Yandex"
+ },
+ {
   "server": "81.26.176.49",
   "port": 443,
   "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
@@ -7,16 +14,23 @@
   "provider": "Yandex"
  },
  {
-  "server": "81.26.181.52",
+  "server": "84.201.168.234",
+  "port": 443,
+  "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
+  "country": "NL",
+  "provider": "Yandex"
+ },
+ {
+  "server": "158.160.146.103",
   "port": 443,
   "secret": "ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275",
   "country": "NL",
   "provider": "Yandex"
  },
  {
-  "server": "84.201.170.51",
+  "server": "158.160.154.107",
   "port": 443,
-  "secret": "ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275",
+  "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
   "country": "NL",
   "provider": "Yandex"
  },
@@ -63,16 +77,16 @@
   "via": "https"
  },
  {
-  "server": "clients-5.drive.klukva.online",
-  "secret": "c38ccd14b20d296330a4a0df66d24344",
-  "country": "PL",
-  "via": "https"
- },
- {
   "server": "deepsky.club",
   "secret": "1549de91e71978183354fa780ac7d53f",
   "country": "PL",
   "via": "https"
+ },
+ {
+  "server": "dl.subkadeh.sbs",
+  "secret": "d96c4c1c38252ea14339a47a73ba2f3a",
+  "country": "TR",
+  "via": "websocket"
  },
  {
   "server": "free.vnespiska.win",
