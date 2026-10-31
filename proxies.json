@@ -1,16 +1,23 @@
 [
  {
-  "server": "153.51.115.220",
-  "port": 443,
-  "secret": "ee54701e1686de96a44721501a7bee9e4c6c796e657474652e6d79726b612e6469676974616c",
-  "country": "AE",
-  "provider": "Yandex"
- },
- {
   "server": "158.160.133.104",
   "port": 443,
   "secret": "ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275",
   "country": "NL",
+  "provider": "Yandex"
+ },
+ {
+  "server": "158.160.141.76",
+  "port": 443,
+  "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
+  "country": "NL",
+  "provider": "Yandex"
+ },
+ {
+  "server": "158.160.190.187",
+  "port": 443,
+  "secret": "ee54701e1686de96a44721501a7bee9e4c6c796e657474652e6d79726b612e6469676974616c",
+  "country": "AE",
   "provider": "Yandex"
  },
  {
@@ -140,6 +147,12 @@
   "via": "https"
  },
  {
+  "server": "moscow-owl.hi-l.im",
+  "secret": "9fd84ffe082284dfe8b28d44c510387f",
+  "country": "DE",
+  "via": "https"
+ },
+ {
   "server": "my.woyt.pro",
   "secret": "8e0eb653b4a296e7d05c98371a277f8a",
   "country": "US",
@@ -240,12 +253,6 @@
   "secret": "187ca529eae717212e041d4739156b09",
   "country": "DE",
   "via": "websocket"
- },
- {
-  "server": "web.sosalproxy.lol",
-  "secret": "f08aacc789648a4a69ec9e1271816a87",
-  "country": "PL",
-  "via": "https"
  },
  {
   "server": "web.willvpn.space",
