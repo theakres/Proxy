@@ -1,36 +1,50 @@
 [
  {
-  "server": "51.250.43.231",
+  "server": "81.26.181.185",
+  "port": 443,
+  "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
+  "country": "NL",
+  "provider": "Yandex"
+ },
+ {
+  "server": "81.26.189.183",
   "port": 443,
   "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
   "country": "NL",
   "provider": "Yandex"
  },
  {
-  "server": "81.26.178.222",
+  "server": "84.201.149.248",
   "port": 443,
-  "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
+  "secret": "eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275",
   "country": "NL",
   "provider": "Yandex"
  },
  {
-  "server": "84.201.149.35",
+  "server": "130.193.35.181",
   "port": 443,
-  "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
+  "secret": "ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275",
   "country": "NL",
   "provider": "Yandex"
  },
  {
-  "server": "153.51.118.168",
+  "server": "153.51.113.181",
   "port": 443,
   "secret": "ee54701e1686de96a44721501a7bee9e4c6c796e657474652e6d79726b612e6469676974616c",
   "country": "AE",
   "provider": "Yandex"
  },
  {
-  "server": "158.160.134.136",
+  "server": "158.160.142.134",
   "port": 443,
   "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
+  "country": "NL",
+  "provider": "Yandex"
+ },
+ {
+  "server": "158.160.150.98",
+  "port": 443,
+  "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
   "country": "NL",
   "provider": "Yandex"
  },
@@ -38,13 +52,6 @@
   "server": "158.160.182.106",
   "port": 443,
   "secret": "eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275",
-  "country": "NL",
-  "provider": "Yandex"
- },
- {
-  "server": "158.160.182.253",
-  "port": 443,
-  "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
   "country": "NL",
   "provider": "Yandex"
  },
@@ -223,12 +230,6 @@
   "via": "https"
  },
  {
-  "server": "proxy.hikarivpn.ru",
-  "secret": "6e438f9a6404cd3a22912ab830f56d88",
-  "country": "DE",
-  "via": "websocket"
- },
- {
   "server": "ru04app.freesurfer.club",
   "secret": "1be056afced79ce6ed81327e79b69151",
   "country": "NL",
@@ -310,6 +311,12 @@
   "server": "webproxy1.mooo.com",
   "secret": "8b5c23ca90d8c0b165b844a94644729f",
   "country": "SC",
+  "via": "https"
+ },
+ {
+  "server": "webproxy3.quietmedadow.site",
+  "secret": "e62d71db14739437614248d0bb01c804",
+  "country": "NL",
   "via": "https"
  }
 ]
