@@ -7,14 +7,7 @@
   "provider": "Yandex"
  },
  {
-  "server": "81.26.180.21",
-  "port": 443,
-  "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
-  "country": "NL",
-  "provider": "Yandex"
- },
- {
-  "server": "81.26.183.110",
+  "server": "81.26.178.48",
   "port": 443,
   "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
   "country": "NL",
@@ -28,7 +21,7 @@
   "provider": "Yandex"
  },
  {
-  "server": "81.26.190.56",
+  "server": "84.201.148.211",
   "port": 443,
   "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
   "country": "NL",
@@ -42,14 +35,7 @@
   "provider": "Yandex"
  },
  {
-  "server": "93.77.160.72",
-  "port": 443,
-  "secret": "ee54701e1686de96a44721501a7bee9e4c6c796e657474652e6d79726b612e6469676974616c",
-  "country": "AE",
-  "provider": "Yandex"
- },
- {
-  "server": "158.160.140.207",
+  "server": "158.160.135.242",
   "port": 443,
   "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
   "country": "NL",
@@ -59,6 +45,13 @@
   "server": "158.160.149.181",
   "port": 443,
   "secret": "eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275",
+  "country": "NL",
+  "provider": "Yandex"
+ },
+ {
+  "server": "158.160.156.167",
+  "port": 443,
+  "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
   "country": "NL",
   "provider": "Yandex"
  },
@@ -111,6 +104,12 @@
   "via": "https"
  },
  {
+  "server": "dl.subkadeh.sbs",
+  "secret": "d96c4c1c38252ea14339a47a73ba2f3a",
+  "country": "TR",
+  "via": "websocket"
+ },
+ {
   "server": "free.vnespiska.win",
   "secret": "9fc8d7d1aeee614bd5fa3b760da44dd3",
   "country": "DE",
@@ -155,7 +154,7 @@
  {
   "server": "kak.hotstbvs.ru",
   "secret": "19642a8b48eff48766d6f7f240209026",
-  "country": "FR",
+  "country": "LV",
   "via": "https-lanes"
  },
  {
