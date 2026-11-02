@@ -1,5 +1,33 @@
 [
  {
+  "server": "158.160.129.125",
+  "port": 443,
+  "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
+  "country": "NL",
+  "provider": "Yandex"
+ },
+ {
+  "server": "158.160.130.176",
+  "port": 443,
+  "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
+  "country": "NL",
+  "provider": "Yandex"
+ },
+ {
+  "server": "158.160.139.13",
+  "port": 443,
+  "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
+  "country": "NL",
+  "provider": "Yandex"
+ },
+ {
+  "server": "158.160.139.72",
+  "port": 443,
+  "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
+  "country": "NL",
+  "provider": "Yandex"
+ },
+ {
   "server": "154.29.158.157.sslip.io",
   "secret": "c51ae6d3fd928e1dd7e81f341dfa8833",
   "country": "US",
@@ -180,16 +208,16 @@
   "via": "websocket-lanes"
  },
  {
-  "server": "spacee.xyz",
-  "secret": "14e5cb4be26efb4a1a4c3e34b59ba79f",
-  "country": "DE",
-  "via": "https"
- },
- {
   "server": "stone27.home.kg",
   "secret": "9fc8d7d1aeee614bd5fa3b760da44dd3",
   "country": "DE",
   "via": "websocket"
+ },
+ {
+  "server": "telega.deepwoof.net",
+  "secret": "15719e50e6af385949d676ca3821eaf4",
+  "country": "EE",
+  "via": "https"
  },
  {
   "server": "tg.empty-space.org",
