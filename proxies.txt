@@ -1,3 +1,4 @@
+tg://proxy?server=62.84.116.140&port=443&secret=ee6c3767e0e3ad38c5752beefe2335881467616d6d6130312e776869736b657974616e676f666f7874726f742e6c6f6c
 tg://webproxy?server=154.29.158.157.sslip.io&secret=c51ae6d3fd928e1dd7e81f341dfa8833
 tg://webproxy?server=apple.flare-free.xyz&secret=aab65144eb3eea373eedf4febd7c5f41
 tg://webproxy?server=azir.moonvira.com&secret=db28729a2a2b81d558d2deb53e00233e

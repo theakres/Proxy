@@ -1,5 +1,12 @@
 [
  {
+  "server": "62.84.116.140",
+  "port": 443,
+  "secret": "ee6c3767e0e3ad38c5752beefe2335881467616d6d6130312e776869736b657974616e676f666f7874726f742e6c6f6c",
+  "country": "NL",
+  "provider": "Yandex"
+ },
+ {
   "server": "154.29.158.157.sslip.io",
   "secret": "c51ae6d3fd928e1dd7e81f341dfa8833",
   "country": "US",
@@ -92,7 +99,7 @@
  {
   "server": "kak.hotstbvs.ru",
   "secret": "19642a8b48eff48766d6f7f240209026",
-  "country": "CZ",
+  "country": "LV",
   "via": "https-lanes"
  },
  {
