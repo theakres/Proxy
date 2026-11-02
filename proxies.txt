@@ -1,4 +1,5 @@
 tg://proxy?server=51.250.42.249&port=443&secret=ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275
+tg://proxy?server=81.26.180.32&port=443&secret=eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275
 tg://proxy?server=81.26.189.40&port=443&secret=ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275
 tg://proxy?server=84.252.135.242&port=443&secret=ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275
 tg://webproxy?server=154.29.158.157.sslip.io&secret=c51ae6d3fd928e1dd7e81f341dfa8833
@@ -38,6 +39,7 @@ tg://webproxy?server=usa-1.mtproto.vip&secret=09ccb9cc6313d403db5fca98fe780114
 tg://webproxy?server=web.es.nvrsk-not-news.ru&secret=9f28808baf85ae93956b1dd3eb9ee0d0
 tg://webproxy?server=web.maybexiaomi.ru&secret=d4201d0fc585e66232746ccca306d896
 tg://webproxy?server=web.solasmp.ru&secret=187ca529eae717212e041d4739156b09
+tg://webproxy?server=web.sosalproxy.lol&secret=f08aacc789648a4a69ec9e1271816a87
 tg://webproxy?server=web.willvpn.space&secret=fb4224121e528a37200b09a99841e44e
 tg://webproxy?server=web.yard-tg-bot.online&secret=07635470792163f3d4d6ef46d88b9cad
 tg://webproxy?server=webproxy.31-56-184-37.sslip.io&secret=50ab3537717e352a713e7e7e56c1df87

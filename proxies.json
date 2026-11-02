@@ -7,6 +7,13 @@
   "provider": "Yandex"
  },
  {
+  "server": "81.26.180.32",
+  "port": 443,
+  "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
+  "country": "NL",
+  "provider": "Yandex"
+ },
+ {
   "server": "81.26.189.40",
   "port": 443,
   "secret": "ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275",
@@ -241,6 +248,12 @@
   "secret": "187ca529eae717212e041d4739156b09",
   "country": "DE",
   "via": "websocket"
+ },
+ {
+  "server": "web.sosalproxy.lol",
+  "secret": "f08aacc789648a4a69ec9e1271816a87",
+  "country": "PL",
+  "via": "https"
  },
  {
   "server": "web.willvpn.space",
