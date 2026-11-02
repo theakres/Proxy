@@ -1,20 +1,27 @@
 [
  {
-  "server": "158.160.153.214",
+  "server": "81.26.185.130",
   "port": 443,
   "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
   "country": "NL",
   "provider": "Yandex"
  },
  {
-  "server": "158.160.155.31",
+  "server": "158.160.131.174",
   "port": 443,
   "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
   "country": "NL",
   "provider": "Yandex"
  },
  {
-  "server": "158.160.162.200",
+  "server": "158.160.135.239",
+  "port": 443,
+  "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
+  "country": "NL",
+  "provider": "Yandex"
+ },
+ {
+  "server": "158.160.140.84",
   "port": 443,
   "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
   "country": "NL",
@@ -145,12 +152,6 @@
   "server": "med-help-org.duckdns.org",
   "secret": "77c1c3c07443157cfdd7cc026c405316",
   "country": "FI",
-  "via": "https"
- },
- {
-  "server": "moscow-owl.hi-l.im",
-  "secret": "9fd84ffe082284dfe8b28d44c510387f",
-  "country": "DE",
   "via": "https"
  },
  {
