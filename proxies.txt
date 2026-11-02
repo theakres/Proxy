@@ -20,7 +20,6 @@ tg://webproxy?server=max-messenger.annet.site&secret=03c454786c012ecec1b80054117
 tg://webproxy?server=med-help-org.duckdns.org&secret=77c1c3c07443157cfdd7cc026c405316
 tg://webproxy?server=my.woyt.pro&secret=8e0eb653b4a296e7d05c98371a277f8a
 tg://webproxy?server=neomap.club&secret=3082e7f2e4ebb3abec0b8011fc493653
-tg://webproxy?server=newsoutlet247.shop&secret=221e9f387d3a5b291a802805512e3661
 tg://webproxy?server=nltw2.lockdwn.com&secret=83bfc8870eb757c48279ff1fb402ba66
 tg://webproxy?server=nov.webvirt.cloud&secret=2cb152167b45c9a010c8109fef2d8fd6
 tg://webproxy?server=orbitweb.duckdns.org&secret=14ae6fa05091edc383c2a4dc139ead18

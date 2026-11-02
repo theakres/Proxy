@@ -132,12 +132,6 @@
   "via": "websocket"
  },
  {
-  "server": "newsoutlet247.shop",
-  "secret": "221e9f387d3a5b291a802805512e3661",
-  "country": "HU",
-  "via": "websocket"
- },
- {
   "server": "nltw2.lockdwn.com",
   "secret": "83bfc8870eb757c48279ff1fb402ba66",
   "country": "NL",
