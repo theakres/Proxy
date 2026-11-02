@@ -1,6 +1,13 @@
 [
  {
-  "server": "51.250.33.241",
+  "server": "81.26.186.94",
+  "port": 443,
+  "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
+  "country": "NL",
+  "provider": "Yandex"
+ },
+ {
+  "server": "84.201.149.29",
   "port": 443,
   "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
   "country": "NL",
@@ -95,6 +102,12 @@
   "secret": "dd9bf46ec57803c09def701a3844858c",
   "country": "SG",
   "via": "https"
+ },
+ {
+  "server": "kak.hotstbvs.ru",
+  "secret": "19642a8b48eff48766d6f7f240209026",
+  "country": "LV",
+  "via": "https-lanes"
  },
  {
   "server": "lith1.lockdwn.com",
