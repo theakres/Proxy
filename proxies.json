@@ -1,8 +1,22 @@
 [
  {
-  "server": "84.201.170.123",
+  "server": "51.250.32.50",
+  "port": 443,
+  "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
+  "country": "NL",
+  "provider": "Yandex"
+ },
+ {
+  "server": "81.26.181.234",
   "port": 443,
   "secret": "ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275",
+  "country": "NL",
+  "provider": "Yandex"
+ },
+ {
+  "server": "81.26.188.60",
+  "port": 443,
+  "secret": "eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275",
   "country": "NL",
   "provider": "Yandex"
  },
@@ -126,12 +140,6 @@
   "server": "max-messenger.annet.site",
   "secret": "03c454786c012ecec1b80054117de6e7",
   "country": "RU",
-  "via": "https"
- },
- {
-  "server": "moscow-owl.hi-l.im",
-  "secret": "9fd84ffe082284dfe8b28d44c510387f",
-  "country": "DE",
   "via": "https"
  },
  {
