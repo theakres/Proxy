@@ -1,6 +1,13 @@
 [
  {
-  "server": "158.160.155.215",
+  "server": "158.160.139.126",
+  "port": 443,
+  "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
+  "country": "NL",
+  "provider": "Yandex"
+ },
+ {
+  "server": "158.160.157.79",
   "port": 443,
   "secret": "eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275",
   "country": "NL",
@@ -215,6 +222,12 @@
   "secret": "d4201d0fc585e66232746ccca306d896",
   "country": "US",
   "via": "https"
+ },
+ {
+  "server": "web.solasmp.ru",
+  "secret": "187ca529eae717212e041d4739156b09",
+  "country": "DE",
+  "via": "websocket"
  },
  {
   "server": "web.sosalproxy.lol",
