@@ -7,9 +7,16 @@
   "provider": "Yandex"
  },
  {
-  "server": "81.26.186.64",
+  "server": "81.26.181.234",
   "port": 443,
   "secret": "ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275",
+  "country": "NL",
+  "provider": "Yandex"
+ },
+ {
+  "server": "81.26.188.60",
+  "port": 443,
+  "secret": "eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275",
   "country": "NL",
   "provider": "Yandex"
  },
@@ -95,12 +102,6 @@
  {
   "server": "internet-legal.site",
   "secret": "13d67b2f4163f5d8370a983b7e921fa6",
-  "country": "DE",
-  "via": "https"
- },
- {
-  "server": "into.thedawnmist.ir",
-  "secret": "886c5123e0cc1c4f02a71465f3eb7d46",
   "country": "DE",
   "via": "https"
  },

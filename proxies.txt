@@ -1,5 +1,6 @@
 tg://proxy?server=81.26.176.152&port=443&secret=eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275
-tg://proxy?server=81.26.186.64&port=443&secret=ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275
+tg://proxy?server=81.26.181.234&port=443&secret=ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275
+tg://proxy?server=81.26.188.60&port=443&secret=eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275
 tg://proxy?server=84.201.170.123&port=443&secret=ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275
 tg://webproxy?server=154.29.158.157.sslip.io&secret=c51ae6d3fd928e1dd7e81f341dfa8833
 tg://webproxy?server=apple.flare-free.xyz&secret=aab65144eb3eea373eedf4febd7c5f41
@@ -14,7 +15,6 @@ tg://webproxy?server=game.spacee.xyz&secret=18adcc8527031c4f27eddcd437bd27e2
 tg://webproxy?server=giga.annet.website&secret=03c454786c012ecec1b80054117de6e7
 tg://webproxy?server=host.softplodabc.co.uk&secret=dea62db6b5217e5679e0a74b8a061840
 tg://webproxy?server=internet-legal.site&secret=13d67b2f4163f5d8370a983b7e921fa6
-tg://webproxy?server=into.thedawnmist.ir&secret=886c5123e0cc1c4f02a71465f3eb7d46
 tg://webproxy?server=k1.dlpd.cc&secret=dd9bf46ec57803c09def701a3844858c
 tg://webproxy?server=kak.hotstbvs.ru&secret=19642a8b48eff48766d6f7f240209026
 tg://webproxy?server=lith1.lockdwn.com&secret=0044dca395c408d7e48e0163822a2447
