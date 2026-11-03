@@ -7,13 +7,6 @@
   "provider": "Yandex"
  },
  {
-  "server": "81.26.188.60",
-  "port": 443,
-  "secret": "eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275",
-  "country": "NL",
-  "provider": "Yandex"
- },
- {
   "server": "84.201.144.162",
   "port": 443,
   "secret": "eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275",
@@ -25,6 +18,12 @@
   "secret": "c51ae6d3fd928e1dd7e81f341dfa8833",
   "country": "US",
   "via": "websocket"
+ },
+ {
+  "server": "alpha-y1.whiskeytangofoxtrot.lol",
+  "secret": "388fcc160f252155ec5ce3bf6e864e3d",
+  "country": "NL",
+  "via": "https"
  },
  {
   "server": "azir.moonvira.com",
