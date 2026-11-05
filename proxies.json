@@ -174,12 +174,6 @@
   "via": "https"
  },
  {
-  "server": "tgweb1.mooo.com",
-  "secret": "35bb65af1caa3d9ed28e369c884df3a0",
-  "country": "NL",
-  "via": "https"
- },
- {
   "server": "usa-1.mtproto.vip",
   "secret": "09ccb9cc6313d403db5fca98fe780114",
   "country": "US",
