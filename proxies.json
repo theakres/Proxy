@@ -3,7 +3,7 @@
   "server": "95.163.181.216",
   "port": 443,
   "secret": "dd9e1dde0de02a2e7c22d10e2fff841013",
-  "country": "FI",
+  "country": "AM",
   "provider": "VK"
  },
  {
@@ -55,6 +55,12 @@
   "via": "https"
  },
  {
+  "server": "free.vnespiska.win",
+  "secret": "9fc8d7d1aeee614bd5fa3b760da44dd3",
+  "country": "DE",
+  "via": "websocket"
+ },
+ {
   "server": "giga.annet.website",
   "secret": "03c454786c012ecec1b80054117de6e7",
   "country": "RU",
@@ -75,7 +81,7 @@
  {
   "server": "kak.hotstbvs.ru",
   "secret": "19642a8b48eff48766d6f7f240209026",
-  "country": "LV",
+  "country": "FR",
   "via": "https-lanes"
  },
  {
