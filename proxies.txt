@@ -7,7 +7,6 @@ tg://webproxy?server=burmalda.flare-tg.xyz&secret=38be977eb335fc614673346006cf14
 tg://webproxy?server=cacaoware.com&secret=caca0caca0caca0caca0caca0caca000
 tg://webproxy?server=capybarium.anondns.net&secret=0bf07e1342aea554b2cba10381606c6b
 tg://webproxy?server=deepsky.club&secret=1549de91e71978183354fa780ac7d53f
-tg://webproxy?server=free.vnespiska.win&secret=9fc8d7d1aeee614bd5fa3b760da44dd3
 tg://webproxy?server=giga.annet.website&secret=03c454786c012ecec1b80054117de6e7
 tg://webproxy?server=host.softplodabc.co.uk&secret=dea62db6b5217e5679e0a74b8a061840
 tg://webproxy?server=k1.dlpd.cc&secret=dd9bf46ec57803c09def701a3844858c
@@ -29,6 +28,7 @@ tg://webproxy?server=telega.deepwoof.net&secret=15719e50e6af385949d676ca3821eaf4
 tg://webproxy?server=tg.empty-space.org&secret=7e2b68c52cacccad90eda282852e16ab
 tg://webproxy?server=tgw.spacessupport.ru&secret=d8e9847f695b235e9b68ee100a2dda81
 tg://webproxy?server=tgweb1.mooo.com&secret=35bb65af1caa3d9ed28e369c884df3a0
+tg://webproxy?server=upyachka.bid&secret=e6e22259be2e49be662189ee3b5ab606
 tg://webproxy?server=usa-1.mtproto.vip&secret=09ccb9cc6313d403db5fca98fe780114
 tg://webproxy?server=web.es.nvrsk-not-news.ru&secret=9f28808baf85ae93956b1dd3eb9ee0d0
 tg://webproxy?server=web.maybexiaomi.ru&secret=d4201d0fc585e66232746ccca306d896

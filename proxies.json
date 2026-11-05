@@ -55,12 +55,6 @@
   "via": "https"
  },
  {
-  "server": "free.vnespiska.win",
-  "secret": "9fc8d7d1aeee614bd5fa3b760da44dd3",
-  "country": "DE",
-  "via": "websocket"
- },
- {
   "server": "giga.annet.website",
   "secret": "03c454786c012ecec1b80054117de6e7",
   "country": "RU",
@@ -184,6 +178,12 @@
   "server": "tgweb1.mooo.com",
   "secret": "35bb65af1caa3d9ed28e369c884df3a0",
   "country": "NL",
+  "via": "https"
+ },
+ {
+  "server": "upyachka.bid",
+  "secret": "e6e22259be2e49be662189ee3b5ab606",
+  "country": "SE",
   "via": "https"
  },
  {
