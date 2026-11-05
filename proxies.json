@@ -68,7 +68,7 @@
  {
   "server": "kak.hotstbvs.ru",
   "secret": "19642a8b48eff48766d6f7f240209026",
-  "country": "LV",
+  "country": "FR",
   "via": "https-lanes"
  },
  {
@@ -93,12 +93,6 @@
   "server": "med-help-org.duckdns.org",
   "secret": "77c1c3c07443157cfdd7cc026c405316",
   "country": "FI",
-  "via": "https"
- },
- {
-  "server": "moscow-owl.hi-l.im",
-  "secret": "9fd84ffe082284dfe8b28d44c510387f",
-  "country": "DE",
   "via": "https"
  },
  {
