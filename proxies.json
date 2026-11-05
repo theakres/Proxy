@@ -1,5 +1,12 @@
 [
  {
+  "server": "109.120.183.165",
+  "port": 2302,
+  "secret": "dd2084c7e58d8213296a3206da70356c81",
+  "country": "US",
+  "provider": "VK"
+ },
+ {
   "server": "154.29.158.157.sslip.io",
   "secret": "c51ae6d3fd928e1dd7e81f341dfa8833",
   "country": "US",
@@ -22,6 +29,12 @@
   "secret": "628e7bc8ee9c0b7cd5b1971d1f39f998",
   "country": "DE",
   "via": "websocket"
+ },
+ {
+  "server": "burmalda.flare-tg.xyz",
+  "secret": "38be977eb335fc614673346006cf1473",
+  "country": "FI",
+  "via": "https"
  },
  {
   "server": "cacaoware.com",
@@ -68,7 +81,7 @@
  {
   "server": "kak.hotstbvs.ru",
   "secret": "19642a8b48eff48766d6f7f240209026",
-  "country": "FR",
+  "country": "LV",
   "via": "https-lanes"
  },
  {
