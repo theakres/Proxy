@@ -1,5 +1,12 @@
 [
  {
+  "server": "95.163.181.216",
+  "port": 443,
+  "secret": "dd9e1dde0de02a2e7c22d10e2fff841013",
+  "country": "FI",
+  "provider": "VK"
+ },
+ {
   "server": "154.29.158.157.sslip.io",
   "secret": "c51ae6d3fd928e1dd7e81f341dfa8833",
   "country": "US",
@@ -16,12 +23,6 @@
   "secret": "628e7bc8ee9c0b7cd5b1971d1f39f998",
   "country": "DE",
   "via": "websocket"
- },
- {
-  "server": "burmalda.flare-tg.xyz",
-  "secret": "38be977eb335fc614673346006cf1473",
-  "country": "FI",
-  "via": "https"
  },
  {
   "server": "cacaoware.com",
@@ -87,12 +88,6 @@
   "server": "max-messenger.annet.site",
   "secret": "03c454786c012ecec1b80054117de6e7",
   "country": "RU",
-  "via": "https"
- },
- {
-  "server": "med-help-org.duckdns.org",
-  "secret": "77c1c3c07443157cfdd7cc026c405316",
-  "country": "FI",
   "via": "https"
  },
  {
