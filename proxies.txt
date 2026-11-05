@@ -14,7 +14,6 @@ tg://webproxy?server=lith1.lockdwn.com&secret=0044dca395c408d7e48e0163822a2447
 tg://webproxy?server=mamajan.lolzgram.ru&secret=64465540fa3539914fe5a8cc8a3929a8
 tg://webproxy?server=max-messenger.annet.site&secret=03c454786c012ecec1b80054117de6e7
 tg://webproxy?server=med-help-org.duckdns.org&secret=77c1c3c07443157cfdd7cc026c405316
-tg://webproxy?server=moscow-owl.hi-l.im&secret=9fd84ffe082284dfe8b28d44c510387f
 tg://webproxy?server=my.woyt.pro&secret=8e0eb653b4a296e7d05c98371a277f8a
 tg://webproxy?server=neomap.club&secret=3082e7f2e4ebb3abec0b8011fc493653
 tg://webproxy?server=nltw2.lockdwn.com&secret=83bfc8870eb757c48279ff1fb402ba66
@@ -27,6 +26,7 @@ tg://webproxy?server=stone27.home.kg&secret=9fc8d7d1aeee614bd5fa3b760da44dd3
 tg://webproxy?server=telega.deepwoof.net&secret=15719e50e6af385949d676ca3821eaf4
 tg://webproxy?server=tg.empty-space.org&secret=7e2b68c52cacccad90eda282852e16ab
 tg://webproxy?server=tgw.spacessupport.ru&secret=d8e9847f695b235e9b68ee100a2dda81
+tg://webproxy?server=tgweb1.mooo.com&secret=35bb65af1caa3d9ed28e369c884df3a0
 tg://webproxy?server=usa-1.mtproto.vip&secret=09ccb9cc6313d403db5fca98fe780114
 tg://webproxy?server=web.es.nvrsk-not-news.ru&secret=9f28808baf85ae93956b1dd3eb9ee0d0
 tg://webproxy?server=web.maybexiaomi.ru&secret=d4201d0fc585e66232746ccca306d896
