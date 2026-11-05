@@ -55,6 +55,12 @@
   "via": "https"
  },
  {
+  "server": "free.vnespiska.win",
+  "secret": "9fc8d7d1aeee614bd5fa3b760da44dd3",
+  "country": "DE",
+  "via": "websocket"
+ },
+ {
   "server": "giga.annet.website",
   "secret": "03c454786c012ecec1b80054117de6e7",
   "country": "RU",
@@ -119,12 +125,6 @@
   "secret": "83bfc8870eb757c48279ff1fb402ba66",
   "country": "NL",
   "via": "https"
- },
- {
-  "server": "nov.webvirt.cloud",
-  "secret": "2cb152167b45c9a010c8109fef2d8fd6",
-  "country": "PL",
-  "via": "websocket"
  },
  {
   "server": "orbitweb.duckdns.org",
