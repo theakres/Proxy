@@ -30,7 +30,6 @@ tg://webproxy?server=tgw.spacessupport.ru&secret=d8e9847f695b235e9b68ee100a2dda8
 tg://webproxy?server=tgweb1.mooo.com&secret=35bb65af1caa3d9ed28e369c884df3a0
 tg://webproxy?server=upyachka.bid&secret=e6e22259be2e49be662189ee3b5ab606
 tg://webproxy?server=usa-1.mtproto.vip&secret=09ccb9cc6313d403db5fca98fe780114
-tg://webproxy?server=web.es.nvrsk-not-news.ru&secret=9f28808baf85ae93956b1dd3eb9ee0d0
 tg://webproxy?server=web.maybexiaomi.ru&secret=d4201d0fc585e66232746ccca306d896
 tg://webproxy?server=web.solasmp.ru&secret=187ca529eae717212e041d4739156b09
 tg://webproxy?server=web.yard-tg-bot.online&secret=07635470792163f3d4d6ef46d88b9cad

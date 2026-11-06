@@ -193,12 +193,6 @@
   "via": "https-lanes"
  },
  {
-  "server": "web.es.nvrsk-not-news.ru",
-  "secret": "9f28808baf85ae93956b1dd3eb9ee0d0",
-  "country": "AM",
-  "via": "https"
- },
- {
   "server": "web.maybexiaomi.ru",
   "secret": "d4201d0fc585e66232746ccca306d896",
   "country": "US",
