@@ -61,12 +61,6 @@
   "via": "websocket"
  },
  {
-  "server": "giga.annet.website",
-  "secret": "03c454786c012ecec1b80054117de6e7",
-  "country": "RU",
-  "via": "https"
- },
- {
   "server": "host.softplodabc.co.uk",
   "secret": "dea62db6b5217e5679e0a74b8a061840",
   "country": "IR",
@@ -81,7 +75,7 @@
  {
   "server": "kak.hotstbvs.ru",
   "secret": "19642a8b48eff48766d6f7f240209026",
-  "country": "FR",
+  "country": "LV",
   "via": "https-lanes"
  },
  {
@@ -95,12 +89,6 @@
   "secret": "64465540fa3539914fe5a8cc8a3929a8",
   "country": "FI",
   "via": "websocket"
- },
- {
-  "server": "max-messenger.annet.site",
-  "secret": "03c454786c012ecec1b80054117de6e7",
-  "country": "RU",
-  "via": "https"
  },
  {
   "server": "med-help-org.duckdns.org",
