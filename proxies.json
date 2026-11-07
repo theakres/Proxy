@@ -31,6 +31,12 @@
   "via": "websocket"
  },
  {
+  "server": "burmalda.flare-tg.xyz",
+  "secret": "38be977eb335fc614673346006cf1473",
+  "country": "FI",
+  "via": "https"
+ },
+ {
   "server": "cacaoware.com",
   "secret": "caca0caca0caca0caca0caca0caca000",
   "country": "LT",
