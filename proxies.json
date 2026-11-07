@@ -1,12 +1,5 @@
 [
  {
-  "server": "90.156.216.224",
-  "port": 443,
-  "secret": "dd0289a13d961b91438fea5069a8097cb3",
-  "country": "RU",
-  "provider": "VK"
- },
- {
   "server": "95.163.181.216",
   "port": 443,
   "secret": "dd9e1dde0de02a2e7c22d10e2fff841013",
@@ -36,12 +29,6 @@
   "secret": "628e7bc8ee9c0b7cd5b1971d1f39f998",
   "country": "DE",
   "via": "websocket"
- },
- {
-  "server": "burmalda.flare-tg.xyz",
-  "secret": "38be977eb335fc614673346006cf1473",
-  "country": "FI",
-  "via": "https"
  },
  {
   "server": "cacaoware.com",
@@ -82,7 +69,7 @@
  {
   "server": "kak.hotstbvs.ru",
   "secret": "19642a8b48eff48766d6f7f240209026",
-  "country": "FR",
+  "country": "LV",
   "via": "https-lanes"
  },
  {
