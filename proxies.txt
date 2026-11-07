@@ -1,4 +1,3 @@
-tg://proxy?server=83.166.254.149&port=443&secret=dd0289a13d961b91438fea5069a8097cb3
 tg://proxy?server=95.163.181.216&port=443&secret=dd9e1dde0de02a2e7c22d10e2fff841013
 tg://webproxy?server=154.29.158.157.sslip.io&secret=c51ae6d3fd928e1dd7e81f341dfa8833
 tg://webproxy?server=apple.flare-free.xyz&secret=aab65144eb3eea373eedf4febd7c5f41
@@ -19,6 +18,8 @@ tg://webproxy?server=neomap.club&secret=3082e7f2e4ebb3abec0b8011fc493653
 tg://webproxy?server=nltw2.lockdwn.com&secret=83bfc8870eb757c48279ff1fb402ba66
 tg://webproxy?server=nov.webvirt.cloud&secret=2cb152167b45c9a010c8109fef2d8fd6
 tg://webproxy?server=orbitweb.duckdns.org&secret=14ae6fa05091edc383c2a4dc139ead18
+tg://webproxy?server=pl.sosalproxy.lol&secret=f08aacc789648a4a69ec9e1271816a87
+tg://webproxy?server=plg-proxy.duckdns.org&secret=bc74fd552716633770fb4dd765c1ef7f
 tg://webproxy?server=pr.zainetpro.online&secret=37a12317dfb93a51773d0302a1e5e383
 tg://webproxy?server=ru04app.freesurfer.club&secret=1be056afced79ce6ed81327e79b69151
 tg://webproxy?server=sktne.top&secret=849efe17d70898a4166e39860da204e9
