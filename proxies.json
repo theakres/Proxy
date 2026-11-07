@@ -139,12 +139,6 @@
   "via": "https"
  },
  {
-  "server": "plg-proxy.duckdns.org",
-  "secret": "bc74fd552716633770fb4dd765c1ef7f",
-  "country": "SC",
-  "via": "websocket"
- },
- {
   "server": "pr.zainetpro.online",
   "secret": "37a12317dfb93a51773d0302a1e5e383",
   "country": "PL",

@@ -21,7 +21,6 @@ tg://webproxy?server=nltw2.lockdwn.com&secret=83bfc8870eb757c48279ff1fb402ba66
 tg://webproxy?server=nov.webvirt.cloud&secret=2cb152167b45c9a010c8109fef2d8fd6
 tg://webproxy?server=orbitweb.duckdns.org&secret=14ae6fa05091edc383c2a4dc139ead18
 tg://webproxy?server=pl.sosalproxy.lol&secret=f08aacc789648a4a69ec9e1271816a87
-tg://webproxy?server=plg-proxy.duckdns.org&secret=bc74fd552716633770fb4dd765c1ef7f
 tg://webproxy?server=pr.zainetpro.online&secret=37a12317dfb93a51773d0302a1e5e383
 tg://webproxy?server=ru04app.freesurfer.club&secret=1be056afced79ce6ed81327e79b69151
 tg://webproxy?server=sktne.top&secret=849efe17d70898a4166e39860da204e9
