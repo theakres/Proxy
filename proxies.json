@@ -1,5 +1,12 @@
 [
  {
+  "server": "90.156.216.224",
+  "port": 443,
+  "secret": "dd0289a13d961b91438fea5069a8097cb3",
+  "country": "RU",
+  "provider": "VK"
+ },
+ {
   "server": "95.163.181.216",
   "port": 443,
   "secret": "dd9e1dde0de02a2e7c22d10e2fff841013",
