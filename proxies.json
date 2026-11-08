@@ -1,12 +1,5 @@
 [
  {
-  "server": "62.84.117.85",
-  "port": 443,
-  "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
-  "country": "NL",
-  "provider": "Yandex"
- },
- {
   "server": "95.163.181.216",
   "port": 443,
   "secret": "dd9e1dde0de02a2e7c22d10e2fff841013",
@@ -125,18 +118,6 @@
   "server": "orbitweb.duckdns.org",
   "secret": "14ae6fa05091edc383c2a4dc139ead18",
   "country": "DE",
-  "via": "https"
- },
- {
-  "server": "pl.sosalproxy.lol",
-  "secret": "f08aacc789648a4a69ec9e1271816a87",
-  "country": "NL",
-  "via": "https"
- },
- {
-  "server": "pr.zainetpro.online",
-  "secret": "37a12317dfb93a51773d0302a1e5e383",
-  "country": "PL",
   "via": "https"
  },
  {
