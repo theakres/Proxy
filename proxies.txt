@@ -1,3 +1,4 @@
+tg://proxy?server=51.250.88.145&port=443&secret=ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d
 tg://proxy?server=95.163.181.216&port=443&secret=dd9e1dde0de02a2e7c22d10e2fff841013
 tg://webproxy?server=154.29.158.157.sslip.io&secret=c51ae6d3fd928e1dd7e81f341dfa8833
 tg://webproxy?server=apple.flare-free.xyz&secret=aab65144eb3eea373eedf4febd7c5f41
@@ -7,6 +8,7 @@ tg://webproxy?server=burmalda.flare-tg.xyz&secret=38be977eb335fc614673346006cf14
 tg://webproxy?server=cacaoware.com&secret=caca0caca0caca0caca0caca0caca000
 tg://webproxy?server=capybarium.anondns.net&secret=0bf07e1342aea554b2cba10381606c6b
 tg://webproxy?server=deepsky.club&secret=1549de91e71978183354fa780ac7d53f
+tg://webproxy?server=free.vnespiska.win&secret=9fc8d7d1aeee614bd5fa3b760da44dd3
 tg://webproxy?server=host.softplodabc.co.uk&secret=dea62db6b5217e5679e0a74b8a061840
 tg://webproxy?server=k1.dlpd.cc&secret=dd9bf46ec57803c09def701a3844858c
 tg://webproxy?server=kak.hotstbvs.ru&secret=19642a8b48eff48766d6f7f240209026
