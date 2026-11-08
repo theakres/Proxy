@@ -181,12 +181,6 @@
   "via": "https"
  },
  {
-  "server": "tgweb1.mooo.com",
-  "secret": "35bb65af1caa3d9ed28e369c884df3a0",
-  "country": "NL",
-  "via": "https"
- },
- {
   "server": "upyachka.bid",
   "secret": "e6e22259be2e49be662189ee3b5ab606",
   "country": "SE",
