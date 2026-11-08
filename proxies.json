@@ -81,7 +81,7 @@
  {
   "server": "kak.hotstbvs.ru",
   "secret": "19642a8b48eff48766d6f7f240209026",
-  "country": "LV",
+  "country": "FR",
   "via": "https-lanes"
  },
  {
@@ -177,6 +177,12 @@
  {
   "server": "tgw.spacessupport.ru",
   "secret": "d8e9847f695b235e9b68ee100a2dda81",
+  "country": "NL",
+  "via": "https"
+ },
+ {
+  "server": "tgweb1.mooo.com",
+  "secret": "35bb65af1caa3d9ed28e369c884df3a0",
   "country": "NL",
   "via": "https"
  },
