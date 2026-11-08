@@ -81,7 +81,7 @@
  {
   "server": "kak.hotstbvs.ru",
   "secret": "19642a8b48eff48766d6f7f240209026",
-  "country": "LV",
+  "country": "FR",
   "via": "https-lanes"
  },
  {
@@ -221,6 +221,12 @@
   "secret": "07635470792163f3d4d6ef46d88b9cad",
   "country": "RO",
   "via": "websocket"
+ },
+ {
+  "server": "webdl.maflya.com",
+  "secret": "473ce5d4958eb5f968c87680a23854a0",
+  "country": "FR",
+  "via": "websocket-lanes"
  },
  {
   "server": "webproxy.31-56-184-37.sslip.io",
