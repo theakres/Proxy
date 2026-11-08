@@ -1,17 +1,31 @@
 [
  {
-  "server": "46.21.245.8",
-  "port": 443,
-  "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
-  "country": "NL",
-  "provider": "Yandex"
- },
- {
   "server": "95.163.181.216",
   "port": 443,
   "secret": "dd9e1dde0de02a2e7c22d10e2fff841013",
   "country": "AM",
   "provider": "VK"
+ },
+ {
+  "server": "130.193.35.31",
+  "port": 443,
+  "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
+  "country": "NL",
+  "provider": "Yandex"
+ },
+ {
+  "server": "158.160.176.135",
+  "port": 443,
+  "secret": "eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275",
+  "country": "NL",
+  "provider": "Yandex"
+ },
+ {
+  "server": "158.160.189.102",
+  "port": 443,
+  "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
+  "country": "NL",
+  "provider": "Yandex"
  },
  {
   "server": "154.29.158.157.sslip.io",
