@@ -1,12 +1,5 @@
 [
  {
-  "server": "95.163.181.216",
-  "port": 443,
-  "secret": "dd9e1dde0de02a2e7c22d10e2fff841013",
-  "country": "AM",
-  "provider": "VK"
- },
- {
   "server": "158.160.133.55",
   "port": 443,
   "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
@@ -14,7 +7,7 @@
   "provider": "Yandex"
  },
  {
-  "server": "158.160.182.40",
+  "server": "158.160.181.115",
   "port": 443,
   "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
   "country": "NL",
@@ -217,5 +210,11 @@
   "secret": "50ab3537717e352a713e7e7e56c1df87",
   "country": "NL",
   "via": "https-lanes"
+ },
+ {
+  "server": "webproxy3.quietmedadow.site",
+  "secret": "e62d71db14739437614248d0bb01c804",
+  "country": "NL",
+  "via": "https"
  }
 ]
