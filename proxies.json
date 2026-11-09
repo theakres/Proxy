@@ -7,6 +7,13 @@
   "provider": "VK"
  },
  {
+  "server": "81.26.179.131",
+  "port": 443,
+  "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
+  "country": "NL",
+  "provider": "Yandex"
+ },
+ {
   "server": "154.29.158.157.sslip.io",
   "secret": "c51ae6d3fd928e1dd7e81f341dfa8833",
   "country": "US",
@@ -37,16 +44,16 @@
   "via": "https"
  },
  {
+  "server": "capybarium.anondns.net",
+  "secret": "0bf07e1342aea554b2cba10381606c6b",
+  "country": "DE",
+  "via": "https"
+ },
+ {
   "server": "deepsky.club",
   "secret": "1549de91e71978183354fa780ac7d53f",
   "country": "PL",
   "via": "https"
- },
- {
-  "server": "free.vnespiska.win",
-  "secret": "9fc8d7d1aeee614bd5fa3b760da44dd3",
-  "country": "DE",
-  "via": "websocket"
  },
  {
   "server": "host.softplodabc.co.uk",
@@ -125,12 +132,6 @@
   "secret": "849efe17d70898a4166e39860da204e9",
   "country": "DE",
   "via": "websocket-lanes"
- },
- {
-  "server": "stone27.home.kg",
-  "secret": "9fc8d7d1aeee614bd5fa3b760da44dd3",
-  "country": "DE",
-  "via": "websocket"
  },
  {
   "server": "telega.deepwoof.net",
