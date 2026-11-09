@@ -1,5 +1,12 @@
 [
  {
+  "server": "51.250.36.136",
+  "port": 443,
+  "secret": "ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275",
+  "country": "NL",
+  "provider": "Yandex"
+ },
+ {
   "server": "95.163.181.216",
   "port": 443,
   "secret": "dd9e1dde0de02a2e7c22d10e2fff841013",
@@ -75,7 +82,7 @@
  {
   "server": "kak.hotstbvs.ru",
   "secret": "19642a8b48eff48766d6f7f240209026",
-  "country": "FR",
+  "country": "LV",
   "via": "https-lanes"
  },
  {
