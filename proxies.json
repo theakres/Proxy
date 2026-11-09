@@ -1,13 +1,6 @@
 [
  {
-  "server": "51.250.3.191",
-  "port": 443,
-  "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
-  "country": "NL",
-  "provider": "Yandex"
- },
- {
-  "server": "51.250.11.10",
+  "server": "51.250.72.139",
   "port": 443,
   "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
   "country": "NL",
@@ -195,12 +188,6 @@
   "via": "https"
  },
  {
-  "server": "usa-1.mtproto.vip",
-  "secret": "09ccb9cc6313d403db5fca98fe780114",
-  "country": "US",
-  "via": "https-lanes"
- },
- {
   "server": "web.es.nvrsk-not-news.ru",
   "secret": "9f28808baf85ae93956b1dd3eb9ee0d0",
   "country": "AM",
@@ -223,12 +210,6 @@
   "secret": "07635470792163f3d4d6ef46d88b9cad",
   "country": "RO",
   "via": "websocket"
- },
- {
-  "server": "webdl.maflya.com",
-  "secret": "473ce5d4958eb5f968c87680a23854a0",
-  "country": "FR",
-  "via": "websocket-lanes"
  },
  {
   "server": "webproxy.31-56-184-37.sslip.io",
