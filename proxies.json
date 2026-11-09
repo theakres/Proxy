@@ -7,7 +7,7 @@
   "provider": "VK"
  },
  {
-  "server": "158.160.190.143",
+  "server": "158.160.133.55",
   "port": 443,
   "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
   "country": "NL",
@@ -179,6 +179,12 @@
   "server": "upyachka.bid",
   "secret": "e6e22259be2e49be662189ee3b5ab606",
   "country": "SE",
+  "via": "https"
+ },
+ {
+  "server": "web.es.nvrsk-not-news.ru",
+  "secret": "9f28808baf85ae93956b1dd3eb9ee0d0",
+  "country": "AM",
   "via": "https"
  },
  {
