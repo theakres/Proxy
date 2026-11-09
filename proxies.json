@@ -14,6 +14,13 @@
   "provider": "Yandex"
  },
  {
+  "server": "158.160.182.40",
+  "port": 443,
+  "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
+  "country": "NL",
+  "provider": "Yandex"
+ },
+ {
   "server": "154.29.158.157.sslip.io",
   "secret": "c51ae6d3fd928e1dd7e81f341dfa8833",
   "country": "US",
@@ -210,11 +217,5 @@
   "secret": "50ab3537717e352a713e7e7e56c1df87",
   "country": "NL",
   "via": "https-lanes"
- },
- {
-  "server": "webproxy3.quietmedadow.site",
-  "secret": "e62d71db14739437614248d0bb01c804",
-  "country": "NL",
-  "via": "https"
  }
 ]
