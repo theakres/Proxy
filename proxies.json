@@ -1,12 +1,5 @@
 [
  {
-  "server": "51.250.36.136",
-  "port": 443,
-  "secret": "ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275",
-  "country": "NL",
-  "provider": "Yandex"
- },
- {
   "server": "95.163.181.216",
   "port": 443,
   "secret": "dd9e1dde0de02a2e7c22d10e2fff841013",
@@ -78,12 +71,6 @@
   "secret": "dd9bf46ec57803c09def701a3844858c",
   "country": "SG",
   "via": "https"
- },
- {
-  "server": "kak.hotstbvs.ru",
-  "secret": "19642a8b48eff48766d6f7f240209026",
-  "country": "LV",
-  "via": "https-lanes"
  },
  {
   "server": "lith1.lockdwn.com",
@@ -173,12 +160,6 @@
   "server": "tg.empty-space.org",
   "secret": "7e2b68c52cacccad90eda282852e16ab",
   "country": "FR",
-  "via": "https"
- },
- {
-  "server": "tgw.spacessupport.ru",
-  "secret": "d8e9847f695b235e9b68ee100a2dda81",
-  "country": "NL",
   "via": "https"
  },
  {
