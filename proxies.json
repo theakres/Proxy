@@ -7,6 +7,41 @@
   "provider": "VK"
  },
  {
+  "server": "51.250.32.236",
+  "port": 443,
+  "secret": "eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275",
+  "country": "NL",
+  "provider": "Yandex"
+ },
+ {
+  "server": "93.77.167.251",
+  "port": 443,
+  "secret": "ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275",
+  "country": "NL",
+  "provider": "Yandex"
+ },
+ {
+  "server": "153.51.118.28",
+  "port": 443,
+  "secret": "ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275",
+  "country": "NL",
+  "provider": "Yandex"
+ },
+ {
+  "server": "153.51.119.0",
+  "port": 443,
+  "secret": "eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275",
+  "country": "NL",
+  "provider": "Yandex"
+ },
+ {
+  "server": "158.160.195.247",
+  "port": 443,
+  "secret": "eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275",
+  "country": "NL",
+  "provider": "Yandex"
+ },
+ {
   "server": "154.29.158.157.sslip.io",
   "secret": "c51ae6d3fd928e1dd7e81f341dfa8833",
   "country": "US",
@@ -83,12 +118,6 @@
   "secret": "3082e7f2e4ebb3abec0b8011fc493653",
   "country": "FI",
   "via": "websocket"
- },
- {
-  "server": "nex.faradars.co.uk",
-  "secret": "dea62db6b5217e5679e0a74b8a061840",
-  "country": "IR",
-  "via": "https"
  },
  {
   "server": "nltw2.lockdwn.com",
