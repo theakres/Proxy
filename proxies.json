@@ -7,20 +7,6 @@
   "provider": "VK"
  },
  {
-  "server": "153.51.113.229",
-  "port": 443,
-  "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
-  "country": "NL",
-  "provider": "Yandex"
- },
- {
-  "server": "153.51.163.188",
-  "port": 443,
-  "secret": "eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275",
-  "country": "NL",
-  "provider": "Yandex"
- },
- {
   "server": "154.29.158.157.sslip.io",
   "secret": "c51ae6d3fd928e1dd7e81f341dfa8833",
   "country": "US",
@@ -55,6 +41,12 @@
   "secret": "9fc8d7d1aeee614bd5fa3b760da44dd3",
   "country": "DE",
   "via": "websocket"
+ },
+ {
+  "server": "host.lavazemi3.co.uk",
+  "secret": "dea62db6b5217e5679e0a74b8a061840",
+  "country": "IR",
+  "via": "https"
  },
  {
   "server": "k1.dlpd.cc",
