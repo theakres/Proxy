@@ -133,6 +133,12 @@
   "via": "websocket-lanes"
  },
  {
+  "server": "stone27.home.kg",
+  "secret": "9fc8d7d1aeee614bd5fa3b760da44dd3",
+  "country": "DE",
+  "via": "websocket"
+ },
+ {
   "server": "telega.deepwoof.net",
   "secret": "15719e50e6af385949d676ca3821eaf4",
   "country": "EE",
