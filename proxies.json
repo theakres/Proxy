@@ -7,6 +7,27 @@
   "provider": "VK"
  },
  {
+  "server": "153.51.116.203",
+  "port": 443,
+  "secret": "ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275",
+  "country": "NL",
+  "provider": "Yandex"
+ },
+ {
+  "server": "153.51.160.73",
+  "port": 443,
+  "secret": "ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275",
+  "country": "NL",
+  "provider": "Yandex"
+ },
+ {
+  "server": "153.51.163.188",
+  "port": 443,
+  "secret": "eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275",
+  "country": "NL",
+  "provider": "Yandex"
+ },
+ {
   "server": "154.29.158.157.sslip.io",
   "secret": "c51ae6d3fd928e1dd7e81f341dfa8833",
   "country": "US",
@@ -25,12 +46,6 @@
   "via": "websocket"
  },
  {
-  "server": "cacaoware.com",
-  "secret": "caca0caca0caca0caca0caca0caca000",
-  "country": "LT",
-  "via": "https"
- },
- {
   "server": "capybarium.anondns.net",
   "secret": "0bf07e1342aea554b2cba10381606c6b",
   "country": "DE",
@@ -47,12 +62,6 @@
   "secret": "9fc8d7d1aeee614bd5fa3b760da44dd3",
   "country": "DE",
   "via": "websocket"
- },
- {
-  "server": "host.softplodabc.co.uk",
-  "secret": "dea62db6b5217e5679e0a74b8a061840",
-  "country": "IR",
-  "via": "https"
  },
  {
   "server": "k1.dlpd.cc",
@@ -171,7 +180,7 @@
  {
   "server": "upyachka.bid",
   "secret": "e6e22259be2e49be662189ee3b5ab606",
-  "country": "SE",
+  "country": "FR",
   "via": "https"
  },
  {
