@@ -7,69 +7,6 @@
   "provider": "VK"
  },
  {
-  "server": "130.193.59.234",
-  "port": 443,
-  "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
-  "country": "NL",
-  "provider": "Yandex"
- },
- {
-  "server": "153.51.112.46",
-  "port": 443,
-  "secret": "ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275",
-  "country": "NL",
-  "provider": "Yandex"
- },
- {
-  "server": "153.51.113.20",
-  "port": 443,
-  "secret": "eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275",
-  "country": "NL",
-  "provider": "Yandex"
- },
- {
-  "server": "153.51.114.227",
-  "port": 443,
-  "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
-  "country": "NL",
-  "provider": "Yandex"
- },
- {
-  "server": "153.51.117.144",
-  "port": 443,
-  "secret": "ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275",
-  "country": "NL",
-  "provider": "Yandex"
- },
- {
-  "server": "153.51.118.168",
-  "port": 443,
-  "secret": "eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275",
-  "country": "NL",
-  "provider": "Yandex"
- },
- {
-  "server": "153.51.162.239",
-  "port": 443,
-  "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
-  "country": "NL",
-  "provider": "Yandex"
- },
- {
-  "server": "153.51.164.48",
-  "port": 443,
-  "secret": "eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275",
-  "country": "NL",
-  "provider": "Yandex"
- },
- {
-  "server": "153.51.165.2",
-  "port": 443,
-  "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
-  "country": "NL",
-  "provider": "Yandex"
- },
- {
   "server": "154.29.158.157.sslip.io",
   "secret": "c51ae6d3fd928e1dd7e81f341dfa8833",
   "country": "US",
@@ -146,6 +83,12 @@
   "secret": "3082e7f2e4ebb3abec0b8011fc493653",
   "country": "FI",
   "via": "websocket"
+ },
+ {
+  "server": "nex.faradars.co.uk",
+  "secret": "dea62db6b5217e5679e0a74b8a061840",
+  "country": "IR",
+  "via": "https"
  },
  {
   "server": "nltw2.lockdwn.com",
@@ -236,6 +179,12 @@
   "secret": "9f28808baf85ae93956b1dd3eb9ee0d0",
   "country": "AM",
   "via": "https"
+ },
+ {
+  "server": "web.gqsp.eu.org",
+  "secret": "42321843839901889701749610949474",
+  "country": "FR",
+  "via": "websocket-lanes"
  },
  {
   "server": "web.maybexiaomi.ru",

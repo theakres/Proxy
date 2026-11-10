@@ -1,13 +1,4 @@
 tg://proxy?server=37.139.43.226&port=443&secret=dd9e1dde0de02a2e7c22d10e2fff841013
-tg://proxy?server=130.193.59.234&port=443&secret=eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275
-tg://proxy?server=153.51.112.46&port=443&secret=ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275
-tg://proxy?server=153.51.113.20&port=443&secret=eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275
-tg://proxy?server=153.51.114.227&port=443&secret=eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275
-tg://proxy?server=153.51.117.144&port=443&secret=ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275
-tg://proxy?server=153.51.118.168&port=443&secret=eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275
-tg://proxy?server=153.51.162.239&port=443&secret=eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275
-tg://proxy?server=153.51.164.48&port=443&secret=eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275
-tg://proxy?server=153.51.165.2&port=443&secret=eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275
 tg://webproxy?server=154.29.158.157.sslip.io&secret=c51ae6d3fd928e1dd7e81f341dfa8833
 tg://webproxy?server=azir.moonvira.com&secret=db28729a2a2b81d558d2deb53e00233e
 tg://webproxy?server=azirproxy.tgstar.net&secret=628e7bc8ee9c0b7cd5b1971d1f39f998
@@ -21,6 +12,7 @@ tg://webproxy?server=lith1.lockdwn.com&secret=0044dca395c408d7e48e0163822a2447
 tg://webproxy?server=mamajan.lolzgram.ru&secret=64465540fa3539914fe5a8cc8a3929a8
 tg://webproxy?server=my.woyt.pro&secret=8e0eb653b4a296e7d05c98371a277f8a
 tg://webproxy?server=neomap.club&secret=3082e7f2e4ebb3abec0b8011fc493653
+tg://webproxy?server=nex.faradars.co.uk&secret=dea62db6b5217e5679e0a74b8a061840
 tg://webproxy?server=nltw2.lockdwn.com&secret=83bfc8870eb757c48279ff1fb402ba66
 tg://webproxy?server=nov.webvirt.cloud&secret=2cb152167b45c9a010c8109fef2d8fd6
 tg://webproxy?server=orbitweb.duckdns.org&secret=14ae6fa05091edc383c2a4dc139ead18
@@ -36,6 +28,7 @@ tg://webproxy?server=tgw.spacessupport.ru&secret=d8e9847f695b235e9b68ee100a2dda8
 tg://webproxy?server=tgweb1.mooo.com&secret=35bb65af1caa3d9ed28e369c884df3a0
 tg://webproxy?server=upyachka.bid&secret=e6e22259be2e49be662189ee3b5ab606
 tg://webproxy?server=web.es.nvrsk-not-news.ru&secret=9f28808baf85ae93956b1dd3eb9ee0d0
+tg://webproxy?server=web.gqsp.eu.org&secret=42321843839901889701749610949474
 tg://webproxy?server=web.maybexiaomi.ru&secret=d4201d0fc585e66232746ccca306d896
 tg://webproxy?server=web.solasmp.ru&secret=187ca529eae717212e041d4739156b09
 tg://webproxy?server=web.yard-tg-bot.online&secret=07635470792163f3d4d6ef46d88b9cad
