@@ -7,9 +7,9 @@
   "provider": "VK"
  },
  {
-  "server": "153.51.164.212",
+  "server": "51.250.43.144",
   "port": 443,
-  "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
+  "secret": "ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275",
   "country": "NL",
   "provider": "Yandex"
  },
@@ -138,12 +138,6 @@
   "secret": "9fc8d7d1aeee614bd5fa3b760da44dd3",
   "country": "DE",
   "via": "websocket"
- },
- {
-  "server": "telega.deepwoof.net",
-  "secret": "15719e50e6af385949d676ca3821eaf4",
-  "country": "EE",
-  "via": "https"
  },
  {
   "server": "telematic.snichvpn.ru",
