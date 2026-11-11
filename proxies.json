@@ -7,6 +7,27 @@
   "provider": "VK"
  },
  {
+  "server": "93.77.167.74",
+  "port": 443,
+  "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
+  "country": "NL",
+  "provider": "Yandex"
+ },
+ {
+  "server": "153.51.119.72",
+  "port": 443,
+  "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
+  "country": "NL",
+  "provider": "Yandex"
+ },
+ {
+  "server": "153.51.164.212",
+  "port": 443,
+  "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
+  "country": "NL",
+  "provider": "Yandex"
+ },
+ {
   "server": "154.29.158.157.sslip.io",
   "secret": "c51ae6d3fd928e1dd7e81f341dfa8833",
   "country": "US",
