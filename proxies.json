@@ -43,6 +43,12 @@
   "via": "websocket"
  },
  {
+  "server": "host.lavazemi3.co.uk",
+  "secret": "dea62db6b5217e5679e0a74b8a061840",
+  "country": "IR",
+  "via": "https"
+ },
+ {
   "server": "k1.dlpd.cc",
   "secret": "dd9bf46ec57803c09def701a3844858c",
   "country": "SG",
