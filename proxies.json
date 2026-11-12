@@ -7,23 +7,23 @@
   "provider": "VK"
  },
  {
-  "server": "51.250.41.213",
-  "port": 443,
-  "secret": "ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275",
-  "country": "NL",
-  "provider": "Yandex"
- },
- {
-  "server": "153.51.119.56",
+  "server": "153.51.119.206",
   "port": 443,
   "secret": "eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275",
   "country": "NL",
   "provider": "Yandex"
  },
  {
-  "server": "153.51.166.125",
+  "server": "153.51.163.161",
   "port": 443,
   "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
+  "country": "NL",
+  "provider": "Yandex"
+ },
+ {
+  "server": "153.51.166.102",
+  "port": 443,
+  "secret": "eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275",
   "country": "NL",
   "provider": "Yandex"
  },
@@ -151,12 +151,6 @@
   "server": "tg.empty-space.org",
   "secret": "7e2b68c52cacccad90eda282852e16ab",
   "country": "FR",
-  "via": "https"
- },
- {
-  "server": "tgw.spacessupport.ru",
-  "secret": "d8e9847f695b235e9b68ee100a2dda81",
-  "country": "NL",
   "via": "https"
  },
  {
