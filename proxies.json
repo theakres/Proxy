@@ -7,9 +7,9 @@
   "provider": "VK"
  },
  {
-  "server": "153.51.168.1",
+  "server": "93.77.166.81",
   "port": 443,
-  "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
+  "secret": "eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275",
   "country": "NL",
   "provider": "Yandex"
  },
@@ -167,6 +167,12 @@
   "server": "tgw.spacessupport.ru",
   "secret": "d8e9847f695b235e9b68ee100a2dda81",
   "country": "NL",
+  "via": "https"
+ },
+ {
+  "server": "web.es.nvrsk-not-news.ru",
+  "secret": "9f28808baf85ae93956b1dd3eb9ee0d0",
+  "country": "AM",
   "via": "https"
  },
  {
