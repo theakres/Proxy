@@ -7,21 +7,7 @@
   "provider": "VK"
  },
  {
-  "server": "153.51.116.209",
-  "port": 443,
-  "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
-  "country": "NL",
-  "provider": "Yandex"
- },
- {
-  "server": "153.51.118.207",
-  "port": 443,
-  "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
-  "country": "NL",
-  "provider": "Yandex"
- },
- {
-  "server": "153.51.168.130",
+  "server": "153.51.168.155",
   "port": 443,
   "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
   "country": "NL",
@@ -62,12 +48,6 @@
   "secret": "1549de91e71978183354fa780ac7d53f",
   "country": "PL",
   "via": "https"
- },
- {
-  "server": "free.vnespiska.win",
-  "secret": "9fc8d7d1aeee614bd5fa3b760da44dd3",
-  "country": "DE",
-  "via": "websocket"
  },
  {
   "server": "host.lavazemi3.co.uk",
@@ -136,12 +116,6 @@
   "via": "https"
  },
  {
-  "server": "pine31.photo-frame.com",
-  "secret": "9fc8d7d1aeee614bd5fa3b760da44dd3",
-  "country": "DE",
-  "via": "websocket"
- },
- {
   "server": "pr.zainetpro.online",
   "secret": "37a12317dfb93a51773d0302a1e5e383",
   "country": "PL",
@@ -160,12 +134,6 @@
   "via": "websocket-lanes"
  },
  {
-  "server": "stone27.home.kg",
-  "secret": "9fc8d7d1aeee614bd5fa3b760da44dd3",
-  "country": "DE",
-  "via": "websocket"
- },
- {
   "server": "telematic.snichvpn.ru",
   "secret": "6a5cc9aa54fc4100761965d51d9872be",
   "country": "NL",
@@ -175,6 +143,12 @@
   "server": "tg.empty-space.org",
   "secret": "7e2b68c52cacccad90eda282852e16ab",
   "country": "FR",
+  "via": "https"
+ },
+ {
+  "server": "tgw.spacessupport.ru",
+  "secret": "d8e9847f695b235e9b68ee100a2dda81",
+  "country": "NL",
   "via": "https"
  },
  {
