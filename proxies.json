@@ -7,14 +7,21 @@
   "provider": "VK"
  },
  {
-  "server": "93.77.167.82",
+  "server": "153.51.116.87",
   "port": 443,
   "secret": "eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275",
   "country": "NL",
   "provider": "Yandex"
  },
  {
-  "server": "153.51.163.131",
+  "server": "153.51.162.33",
+  "port": 443,
+  "secret": "eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275",
+  "country": "NL",
+  "provider": "Yandex"
+ },
+ {
+  "server": "153.51.164.77",
   "port": 443,
   "secret": "ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275",
   "country": "NL",
@@ -24,13 +31,6 @@
   "server": "153.51.165.240",
   "port": 443,
   "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
-  "country": "NL",
-  "provider": "Yandex"
- },
- {
-  "server": "153.51.169.133",
-  "port": 443,
-  "secret": "ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275",
   "country": "NL",
   "provider": "Yandex"
  },
@@ -149,6 +149,12 @@
   "via": "https"
  },
  {
+  "server": "tgw.spacessupport.ru",
+  "secret": "d8e9847f695b235e9b68ee100a2dda81",
+  "country": "NL",
+  "via": "https"
+ },
+ {
   "server": "web.es.nvrsk-not-news.ru",
   "secret": "9f28808baf85ae93956b1dd3eb9ee0d0",
   "country": "AM",
@@ -177,12 +183,6 @@
   "secret": "07635470792163f3d4d6ef46d88b9cad",
   "country": "AE",
   "via": "websocket"
- },
- {
-  "server": "webproxy.31-56-184-37.sslip.io",
-  "secret": "50ab3537717e352a713e7e7e56c1df87",
-  "country": "NL",
-  "via": "https-lanes"
  },
  {
   "server": "webproxy3.quietmedadow.site",
