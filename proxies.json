@@ -7,16 +7,16 @@
   "provider": "VK"
  },
  {
-  "server": "93.77.162.92",
+  "server": "81.26.177.189",
   "port": 443,
-  "secret": "ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275",
+  "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
   "country": "NL",
   "provider": "Yandex"
  },
  {
-  "server": "130.193.35.141",
+  "server": "153.51.116.124",
   "port": 443,
-  "secret": "eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275",
+  "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
   "country": "NL",
   "provider": "Yandex"
  },
@@ -35,6 +35,13 @@
   "provider": "Yandex"
  },
  {
+  "server": "153.51.163.245",
+  "port": 443,
+  "secret": "eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275",
+  "country": "NL",
+  "provider": "Yandex"
+ },
+ {
   "server": "154.29.158.157.sslip.io",
   "secret": "c51ae6d3fd928e1dd7e81f341dfa8833",
   "country": "US",
@@ -45,6 +52,12 @@
   "secret": "aab65144eb3eea373eedf4febd7c5f41",
   "country": "SE",
   "via": "https"
+ },
+ {
+  "server": "azir.moonvira.com",
+  "secret": "db28729a2a2b81d558d2deb53e00233e",
+  "country": "DE",
+  "via": "websocket"
  },
  {
   "server": "azirproxy.tgstar.net",
@@ -147,6 +160,12 @@
   "secret": "9f28808baf85ae93956b1dd3eb9ee0d0",
   "country": "AM",
   "via": "https"
+ },
+ {
+  "server": "web.gqsp.eu.org",
+  "secret": "42321843839901889701749610949474",
+  "country": "FR",
+  "via": "websocket-lanes"
  },
  {
   "server": "web.maybexiaomi.ru",
