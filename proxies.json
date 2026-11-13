@@ -1,22 +1,8 @@
 [
  {
-  "server": "81.26.177.189",
+  "server": "153.51.161.13",
   "port": 443,
-  "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
-  "country": "NL",
-  "provider": "Yandex"
- },
- {
-  "server": "153.51.117.166",
-  "port": 443,
-  "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
-  "country": "NL",
-  "provider": "Yandex"
- },
- {
-  "server": "153.51.160.26",
-  "port": 443,
-  "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
+  "secret": "eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275",
   "country": "NL",
   "provider": "Yandex"
  },
@@ -55,6 +41,12 @@
   "server": "capybarium.anondns.net",
   "secret": "0bf07e1342aea554b2cba10381606c6b",
   "country": "DE",
+  "via": "https"
+ },
+ {
+  "server": "delestershop15.ir",
+  "secret": "ba5a93a939e610895049252bb5566025",
+  "country": "IR",
   "via": "https"
  },
  {
