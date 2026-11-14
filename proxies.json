@@ -1,13 +1,13 @@
 [
  {
-  "server": "93.77.162.201",
+  "server": "153.51.113.33",
   "port": 443,
   "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
   "country": "NL",
   "provider": "Yandex"
  },
  {
-  "server": "153.51.116.182",
+  "server": "153.51.119.48",
   "port": 443,
   "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
   "country": "NL",
@@ -67,12 +67,6 @@
   "secret": "dd9bf46ec57803c09def701a3844858c",
   "country": "SG",
   "via": "https"
- },
- {
-  "server": "kak.hotstbvs.ru",
-  "secret": "19642a8b48eff48766d6f7f240209026",
-  "country": "LV",
-  "via": "https-lanes"
  },
  {
   "server": "mamajan.lolzgram.ru",
