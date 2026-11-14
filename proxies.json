@@ -55,6 +55,12 @@
   "via": "https"
  },
  {
+  "server": "kak.hotstbvs.ru",
+  "secret": "19642a8b48eff48766d6f7f240209026",
+  "country": "LV",
+  "via": "https-lanes"
+ },
+ {
   "server": "mamajan.lolzgram.ru",
   "secret": "64465540fa3539914fe5a8cc8a3929a8",
   "country": "FI",
