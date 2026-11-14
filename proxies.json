@@ -151,12 +151,6 @@
   "via": "websocket-lanes"
  },
  {
-  "server": "web.maybexiaomi.ru",
-  "secret": "d4201d0fc585e66232746ccca306d896",
-  "country": "PL",
-  "via": "https"
- },
- {
   "server": "web.solasmp.ru",
   "secret": "187ca529eae717212e041d4739156b09",
   "country": "DE",
