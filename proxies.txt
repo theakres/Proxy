@@ -1,11 +1,7 @@
-tg://proxy?server=81.26.184.198&port=443&secret=ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275
 tg://proxy?server=93.77.167.19&port=443&secret=eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275
 tg://proxy?server=153.51.119.133&port=443&secret=ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275
 tg://proxy?server=153.51.160.26&port=443&secret=eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275
-tg://proxy?server=153.51.161.49&port=443&secret=eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275
 tg://proxy?server=153.51.164.214&port=443&secret=eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275
-tg://proxy?server=153.51.168.60&port=443&secret=eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275
-tg://proxy?server=153.51.168.197&port=443&secret=ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275
 tg://webproxy?server=154.29.158.157.sslip.io&secret=c51ae6d3fd928e1dd7e81f341dfa8833
 tg://webproxy?server=apple.flare-free.xyz&secret=aab65144eb3eea373eedf4febd7c5f41
 tg://webproxy?server=azir.moonvira.com&secret=db28729a2a2b81d558d2deb53e00233e
@@ -21,6 +17,7 @@ tg://webproxy?server=neomap.club&secret=3082e7f2e4ebb3abec0b8011fc493653
 tg://webproxy?server=nex.faradars.co.uk&secret=dea62db6b5217e5679e0a74b8a061840
 tg://webproxy?server=nltw2.lockdwn.com&secret=83bfc8870eb757c48279ff1fb402ba66
 tg://webproxy?server=nov.webvirt.cloud&secret=2cb152167b45c9a010c8109fef2d8fd6
+tg://webproxy?server=pr.zainetpro.online&secret=37a12317dfb93a51773d0302a1e5e383
 tg://webproxy?server=ru04app.freesurfer.club&secret=1be056afced79ce6ed81327e79b69151
 tg://webproxy?server=sktne.top&secret=849efe17d70898a4166e39860da204e9
 tg://webproxy?server=telematic.snichvpn.ru&secret=6a5cc9aa54fc4100761965d51d9872be
