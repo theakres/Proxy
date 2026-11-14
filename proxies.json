@@ -1,5 +1,12 @@
 [
  {
+  "server": "160.5.218.115",
+  "port": 443,
+  "secret": "dd9e1dde0de02a2e7c22d10e2fff841013",
+  "country": "AM",
+  "provider": "VK"
+ },
+ {
   "server": "154.29.158.157.sslip.io",
   "secret": "c51ae6d3fd928e1dd7e81f341dfa8833",
   "country": "US",
