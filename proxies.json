@@ -109,6 +109,12 @@
   "via": "https"
  },
  {
+  "server": "ru04app.freesurfer.club",
+  "secret": "1be056afced79ce6ed81327e79b69151",
+  "country": "NL",
+  "via": "https"
+ },
+ {
   "server": "sktne.top",
   "secret": "849efe17d70898a4166e39860da204e9",
   "country": "DE",
