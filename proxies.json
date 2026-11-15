@@ -1,13 +1,13 @@
 [
  {
-  "server": "93.77.163.155",
+  "server": "93.77.160.13",
   "port": 443,
   "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
   "country": "NL",
   "provider": "Yandex"
  },
  {
-  "server": "93.77.166.0",
+  "server": "93.77.161.4",
   "port": 443,
   "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
   "country": "NL",
