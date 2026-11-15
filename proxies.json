@@ -1,37 +1,30 @@
 [
  {
-  "server": "84.201.171.197",
-  "port": 443,
-  "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
-  "country": "NL",
-  "provider": "Yandex"
- },
- {
-  "server": "93.77.160.245",
+  "server": "153.51.116.229",
   "port": 443,
   "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
   "country": "CZ",
   "provider": "Yandex"
  },
  {
-  "server": "93.77.166.242",
+  "server": "153.51.117.18",
+  "port": 443,
+  "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
+  "country": "NL",
+  "provider": "Yandex"
+ },
+ {
+  "server": "153.51.118.40",
+  "port": 443,
+  "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
+  "country": "NL",
+  "provider": "Yandex"
+ },
+ {
+  "server": "153.51.119.136",
   "port": 443,
   "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
   "country": "CZ",
-  "provider": "Yandex"
- },
- {
-  "server": "153.51.117.51",
-  "port": 443,
-  "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
-  "country": "NL",
-  "provider": "Yandex"
- },
- {
-  "server": "153.51.118.107",
-  "port": 443,
-  "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
-  "country": "NL",
   "provider": "Yandex"
  },
  {
@@ -137,12 +130,6 @@
   "via": "https"
  },
  {
-  "server": "site.maxim-api.com",
-  "secret": "5d0d9969161187ae5e5d8587dfe50856",
-  "country": "RU",
-  "via": "https"
- },
- {
   "server": "sktne.top",
   "secret": "849efe17d70898a4166e39860da204e9",
   "country": "DE",
@@ -158,6 +145,12 @@
   "server": "tg.empty-space.org",
   "secret": "7e2b68c52cacccad90eda282852e16ab",
   "country": "FR",
+  "via": "https"
+ },
+ {
+  "server": "tgw.spacessupport.ru",
+  "secret": "d8e9847f695b235e9b68ee100a2dda81",
+  "country": "NL",
   "via": "https"
  },
  {
