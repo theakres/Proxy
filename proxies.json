@@ -1,31 +1,52 @@
 [
  {
-  "server": "93.77.165.160",
+  "server": "93.77.161.135",
+  "port": 443,
+  "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
+  "country": "NL",
+  "provider": "Yandex"
+ },
+ {
+  "server": "93.77.164.2",
   "port": 443,
   "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
   "country": "CZ",
   "provider": "Yandex"
  },
  {
-  "server": "153.51.115.213",
+  "server": "93.77.165.125",
+  "port": 443,
+  "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
+  "country": "CZ",
+  "provider": "Yandex"
+ },
+ {
+  "server": "93.77.167.35",
   "port": 443,
   "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
   "country": "NL",
   "provider": "Yandex"
  },
  {
-  "server": "153.51.117.235",
+  "server": "153.51.112.82",
   "port": 443,
   "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
-  "country": "NL",
+  "country": "GR",
   "provider": "Yandex"
  },
  {
-  "server": "153.51.166.157",
+  "server": "153.51.118.8",
   "port": 443,
-  "secret": "ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275",
-  "country": "NL",
+  "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
+  "country": "GR",
   "provider": "Yandex"
+ },
+ {
+  "server": "168.113.143.222",
+  "port": 443,
+  "secret": "dd9e1dde0de02a2e7c22d10e2fff841013",
+  "country": "AM",
+  "provider": "VK"
  },
  {
   "server": "154.29.158.157.sslip.io",
@@ -118,6 +139,12 @@
   "via": "websocket"
  },
  {
+  "server": "pr.zainetpro.online",
+  "secret": "37a12317dfb93a51773d0302a1e5e383",
+  "country": "PL",
+  "via": "https"
+ },
+ {
   "server": "ru04app.freesurfer.club",
   "secret": "1be056afced79ce6ed81327e79b69151",
   "country": "NL",
@@ -158,6 +185,12 @@
   "secret": "9f28808baf85ae93956b1dd3eb9ee0d0",
   "country": "AM",
   "via": "https"
+ },
+ {
+  "server": "web.gqsp.eu.org",
+  "secret": "42321843839901889701749610949474",
+  "country": "FR",
+  "via": "websocket-lanes"
  },
  {
   "server": "web.yard-tg-bot.online",
