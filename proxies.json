@@ -1,20 +1,6 @@
 [
  {
-  "server": "93.77.160.220",
-  "port": 443,
-  "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
-  "country": "GR",
-  "provider": "Yandex"
- },
- {
-  "server": "93.77.162.136",
-  "port": 443,
-  "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
-  "country": "NL",
-  "provider": "Yandex"
- },
- {
-  "server": "93.77.164.174",
+  "server": "51.250.83.163",
   "port": 443,
   "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
   "country": "CZ",
@@ -28,7 +14,14 @@
   "provider": "Yandex"
  },
  {
-  "server": "153.51.112.245",
+  "server": "153.51.112.115",
+  "port": 443,
+  "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
+  "country": "NL",
+  "provider": "Yandex"
+ },
+ {
+  "server": "153.51.115.23",
   "port": 443,
   "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
   "country": "NL",
@@ -42,10 +35,10 @@
   "provider": "Yandex"
  },
  {
-  "server": "153.51.118.161",
+  "server": "153.51.118.120",
   "port": 443,
   "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
-  "country": "GR",
+  "country": "CZ",
   "provider": "Yandex"
  },
  {
@@ -82,6 +75,12 @@
  {
   "server": "delestershop15.ir",
   "secret": "ba5a93a939e610895049252bb5566025",
+  "country": "IR",
+  "via": "https"
+ },
+ {
+  "server": "hei.fanzon.co.uk",
+  "secret": "597354672a6f5bf07417958a69eb7860",
   "country": "IR",
   "via": "https"
  },
