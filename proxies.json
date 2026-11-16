@@ -1,27 +1,27 @@
 [
  {
-  "server": "153.51.115.196",
-  "port": 443,
-  "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
-  "country": "CZ",
-  "provider": "Yandex"
- },
- {
-  "server": "153.51.117.17",
-  "port": 443,
-  "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
-  "country": "CZ",
-  "provider": "Yandex"
- },
- {
-  "server": "153.51.117.147",
+  "server": "93.77.160.138",
   "port": 443,
   "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
   "country": "NL",
   "provider": "Yandex"
  },
  {
-  "server": "153.51.117.190",
+  "server": "153.51.114.230",
+  "port": 443,
+  "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
+  "country": "CZ",
+  "provider": "Yandex"
+ },
+ {
+  "server": "153.51.116.64",
+  "port": 443,
+  "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
+  "country": "CZ",
+  "provider": "Yandex"
+ },
+ {
+  "server": "153.51.119.246",
   "port": 443,
   "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
   "country": "NL",
