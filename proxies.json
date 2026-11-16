@@ -1,30 +1,37 @@
 [
  {
-  "server": "93.77.164.235",
-  "port": 443,
-  "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
-  "country": "CZ",
-  "provider": "Yandex"
- },
- {
-  "server": "93.77.165.24",
+  "server": "93.77.165.151",
   "port": 443,
   "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
   "country": "NL",
   "provider": "Yandex"
  },
  {
-  "server": "153.51.117.110",
+  "server": "153.51.113.147",
+  "port": 443,
+  "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
+  "country": "CZ",
+  "provider": "Yandex"
+ },
+ {
+  "server": "153.51.117.161",
+  "port": 443,
+  "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
+  "country": "CZ",
+  "provider": "Yandex"
+ },
+ {
+  "server": "153.51.119.188",
   "port": 443,
   "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
   "country": "NL",
   "provider": "Yandex"
  },
  {
-  "server": "153.51.119.215",
+  "server": "153.51.162.62",
   "port": 443,
-  "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
-  "country": "CZ",
+  "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
+  "country": "NL",
   "provider": "Yandex"
  },
  {
@@ -50,12 +57,6 @@
   "secret": "628e7bc8ee9c0b7cd5b1971d1f39f998",
   "country": "DE",
   "via": "websocket"
- },
- {
-  "server": "capybarium.anondns.net",
-  "secret": "0bf07e1342aea554b2cba10381606c6b",
-  "country": "DE",
-  "via": "https"
  },
  {
   "server": "delestershop15.ir",
@@ -139,6 +140,12 @@
   "server": "tg.empty-space.org",
   "secret": "7e2b68c52cacccad90eda282852e16ab",
   "country": "FR",
+  "via": "https"
+ },
+ {
+  "server": "tgw.spacessupport.ru",
+  "secret": "d8e9847f695b235e9b68ee100a2dda81",
+  "country": "NL",
   "via": "https"
  },
  {
