@@ -1,29 +1,36 @@
 [
  {
-  "server": "93.77.160.68",
+  "server": "153.51.112.29",
   "port": 443,
   "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
   "country": "CZ",
   "provider": "Yandex"
  },
  {
-  "server": "93.77.160.85",
+  "server": "153.51.116.16",
   "port": 443,
   "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
   "country": "NL",
   "provider": "Yandex"
  },
  {
-  "server": "93.77.165.207",
+  "server": "153.51.117.35",
+  "port": 443,
+  "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
+  "country": "NL",
+  "provider": "Yandex"
+ },
+ {
+  "server": "153.51.119.17",
   "port": 443,
   "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
   "country": "CZ",
   "provider": "Yandex"
  },
  {
-  "server": "153.51.112.41",
+  "server": "153.51.165.93",
   "port": 443,
-  "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
+  "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
   "country": "NL",
   "provider": "Yandex"
  },
@@ -135,6 +142,12 @@
   "secret": "1be056afced79ce6ed81327e79b69151",
   "country": "NL",
   "via": "https"
+ },
+ {
+  "server": "stone27.home.kg",
+  "secret": "9fc8d7d1aeee614bd5fa3b760da44dd3",
+  "country": "DE",
+  "via": "websocket"
  },
  {
   "server": "telematic.snichvpn.ru",
