@@ -1,7 +1,8 @@
-tg://proxy?server=93.77.164.11&port=443&secret=eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275
-tg://proxy?server=153.51.112.59&port=443&secret=eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275
-tg://proxy?server=153.51.114.252&port=443&secret=eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275
-tg://proxy?server=153.51.117.201&port=443&secret=eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275
+tg://proxy?server=93.77.160.91&port=443&secret=eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275
+tg://proxy?server=93.77.164.98&port=443&secret=eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275
+tg://proxy?server=93.77.167.25&port=443&secret=eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275
+tg://proxy?server=153.51.115.208&port=443&secret=eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275
+tg://proxy?server=153.51.166.81&port=443&secret=eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275
 tg://webproxy?server=154.29.158.157.sslip.io&secret=c51ae6d3fd928e1dd7e81f341dfa8833
 tg://webproxy?server=apple.flare-free.xyz&secret=aab65144eb3eea373eedf4febd7c5f41
 tg://webproxy?server=azir.moonvira.com&secret=db28729a2a2b81d558d2deb53e00233e
@@ -20,7 +21,6 @@ tg://webproxy?server=pr.zainetpro.online&secret=37a12317dfb93a51773d0302a1e5e383
 tg://webproxy?server=ru04app.freesurfer.club&secret=1be056afced79ce6ed81327e79b69151
 tg://webproxy?server=telematic.snichvpn.ru&secret=6a5cc9aa54fc4100761965d51d9872be
 tg://webproxy?server=tg.empty-space.org&secret=7e2b68c52cacccad90eda282852e16ab
-tg://webproxy?server=tgw.spacessupport.ru&secret=d8e9847f695b235e9b68ee100a2dda81
 tg://webproxy?server=web.es.nvrsk-not-news.ru&secret=9f28808baf85ae93956b1dd3eb9ee0d0
 tg://webproxy?server=web.gqsp.eu.org&secret=42321843839901889701749610949474
 tg://webproxy?server=web.yard-tg-bot.online&secret=07635470792163f3d4d6ef46d88b9cad
