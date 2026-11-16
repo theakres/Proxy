@@ -7,27 +7,6 @@
   "provider": "Yandex"
  },
  {
-  "server": "62.84.127.31",
-  "port": 443,
-  "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
-  "country": "GR",
-  "provider": "Yandex"
- },
- {
-  "server": "84.201.133.47",
-  "port": 443,
-  "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
-  "country": "NL",
-  "provider": "Yandex"
- },
- {
-  "server": "93.77.161.14",
-  "port": 443,
-  "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
-  "country": "NL",
-  "provider": "Yandex"
- },
- {
   "server": "168.113.143.222",
   "port": 443,
   "secret": "dd9e1dde0de02a2e7c22d10e2fff841013",
@@ -129,12 +108,6 @@
   "secret": "7595bf7930b88adbc7ba1762d2efe687",
   "country": "DE",
   "via": "websocket"
- },
- {
-  "server": "pr.zainetpro.online",
-  "secret": "37a12317dfb93a51773d0302a1e5e383",
-  "country": "PL",
-  "via": "https"
  },
  {
   "server": "ru04app.freesurfer.club",
