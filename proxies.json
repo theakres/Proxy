@@ -1,34 +1,41 @@
 [
  {
-  "server": "153.51.165.156",
+  "server": "84.252.129.155",
   "port": 443,
   "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
   "country": "FR",
   "provider": "Yandex"
  },
  {
-  "server": "153.51.167.21",
+  "server": "153.51.160.82",
   "port": 443,
   "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
   "country": "FR",
   "provider": "Yandex"
  },
  {
-  "server": "153.51.167.189",
+  "server": "153.51.164.13",
   "port": 443,
   "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
   "country": "FR",
   "provider": "Yandex"
  },
  {
-  "server": "153.51.170.106",
+  "server": "153.51.168.4",
   "port": 443,
   "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
   "country": "FR",
   "provider": "Yandex"
  },
  {
-  "server": "153.51.173.45",
+  "server": "153.51.169.122",
+  "port": 443,
+  "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
+  "country": "FR",
+  "provider": "Yandex"
+ },
+ {
+  "server": "153.51.170.194",
   "port": 443,
   "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
   "country": "FR",
@@ -39,7 +46,7 @@
   "port": 443,
   "secret": "dd9e1dde0de02a2e7c22d10e2fff841013",
   "country": "AM",
-  "provider": "VK"
+  "provider": ""
  },
  {
   "server": "154.29.158.157.sslip.io",
