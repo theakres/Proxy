@@ -1,48 +1,55 @@
 [
  {
-  "server": "51.250.76.238",
+  "server": "51.250.64.199",
   "port": 443,
   "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
   "country": "FR",
   "provider": "Yandex"
  },
  {
-  "server": "81.26.188.89",
+  "server": "51.250.73.10",
   "port": 443,
   "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
   "country": "FR",
   "provider": "Yandex"
  },
  {
-  "server": "84.201.158.219",
+  "server": "81.26.190.17",
   "port": 443,
   "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
   "country": "FR",
   "provider": "Yandex"
  },
  {
-  "server": "153.51.161.96",
+  "server": "153.51.170.118",
   "port": 443,
   "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
   "country": "FR",
   "provider": "Yandex"
  },
  {
-  "server": "153.51.170.186",
+  "server": "153.51.171.85",
   "port": 443,
   "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
   "country": "FR",
   "provider": "Yandex"
  },
  {
-  "server": "153.51.171.61",
+  "server": "153.51.171.214",
   "port": 443,
   "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
   "country": "FR",
   "provider": "Yandex"
  },
  {
-  "server": "153.51.173.127",
+  "server": "153.51.172.26",
+  "port": 443,
+  "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
+  "country": "FR",
+  "provider": "Yandex"
+ },
+ {
+  "server": "153.51.172.29",
   "port": 443,
   "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
   "country": "FR",
@@ -156,12 +163,6 @@
   "secret": "9fc8d7d1aeee614bd5fa3b760da44dd3",
   "country": "DE",
   "via": "websocket"
- },
- {
-  "server": "telematic.snichvpn.ru",
-  "secret": "6a5cc9aa54fc4100761965d51d9872be",
-  "country": "NL",
-  "via": "https"
  },
  {
   "server": "tg.empty-space.org",
