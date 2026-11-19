@@ -1,15 +1,4 @@
 tg://proxy?server=89.169.133.178&port=443&secret=eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275
-tg://proxy?server=153.51.113.28&port=443&secret=eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275
-tg://proxy?server=153.51.161.190&port=443&secret=eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275
-tg://proxy?server=153.51.163.171&port=443&secret=eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275
-tg://proxy?server=153.51.165.247&port=443&secret=eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275
-tg://proxy?server=153.51.170.104&port=443&secret=eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275
-tg://proxy?server=153.51.173.19&port=443&secret=eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275
-tg://proxy?server=153.51.173.77&port=443&secret=eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275
-tg://proxy?server=153.51.173.99&port=443&secret=eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275
-tg://proxy?server=153.51.173.124&port=443&secret=eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275
-tg://proxy?server=153.51.174.206&port=443&secret=eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275
-tg://proxy?server=153.51.174.223&port=443&secret=eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275
 tg://proxy?server=168.113.143.222&port=443&secret=dd9e1dde0de02a2e7c22d10e2fff841013
 tg://webproxy?server=154.29.158.157.sslip.io&secret=c51ae6d3fd928e1dd7e81f341dfa8833
 tg://webproxy?server=azir.moonvira.com&secret=db28729a2a2b81d558d2deb53e00233e
@@ -29,7 +18,6 @@ tg://webproxy?server=tg.empty-space.org&secret=7e2b68c52cacccad90eda282852e16ab
 tg://webproxy?server=vale86.oops.wtf&secret=9fc8d7d1aeee614bd5fa3b760da44dd3
 tg://webproxy?server=web.es.nvrsk-not-news.ru&secret=9f28808baf85ae93956b1dd3eb9ee0d0
 tg://webproxy?server=web.gqsp.eu.org&secret=42321843839901889701749610949474
-tg://webproxy?server=web.maybexiaomi.ru&secret=d4201d0fc585e66232746ccca306d896
 tg://webproxy?server=web.yard-tg-bot.online&secret=07635470792163f3d4d6ef46d88b9cad
 tg://webproxy?server=webproxy.31-56-184-37.sslip.io&secret=50ab3537717e352a713e7e7e56c1df87
 tg://webproxy?server=webproxy3.quietmedadow.site&secret=e62d71db14739437614248d0bb01c804
