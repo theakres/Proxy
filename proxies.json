@@ -1,41 +1,34 @@
 [
  {
-  "server": "84.201.151.94",
+  "server": "51.250.37.226",
   "port": 443,
   "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
   "country": "FR",
   "provider": "Yandex"
  },
  {
-  "server": "84.201.169.208",
+  "server": "51.250.77.215",
   "port": 443,
   "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
   "country": "FR",
   "provider": "Yandex"
  },
  {
-  "server": "84.201.169.223",
+  "server": "81.26.183.136",
   "port": 443,
   "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
   "country": "FR",
   "provider": "Yandex"
  },
  {
-  "server": "153.51.169.50",
+  "server": "84.201.157.162",
   "port": 443,
   "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
   "country": "FR",
   "provider": "Yandex"
  },
  {
-  "server": "153.51.169.76",
-  "port": 443,
-  "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
-  "country": "FR",
-  "provider": "Yandex"
- },
- {
-  "server": "153.51.173.215",
+  "server": "130.193.57.132",
   "port": 443,
   "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
   "country": "FR",
@@ -65,12 +58,6 @@
   "secret": "628e7bc8ee9c0b7cd5b1971d1f39f998",
   "country": "DE",
   "via": "websocket"
- },
- {
-  "server": "fuflixiya8.prx.mom",
-  "secret": "80bcb54255d02b041eac2e4896893786",
-  "country": "RU",
-  "via": "https"
  },
  {
   "server": "host.lavazemi3.co.uk",
@@ -148,6 +135,12 @@
   "server": "tg.empty-space.org",
   "secret": "7e2b68c52cacccad90eda282852e16ab",
   "country": "FR",
+  "via": "https"
+ },
+ {
+  "server": "tgw.spacessupport.ru",
+  "secret": "d8e9847f695b235e9b68ee100a2dda81",
+  "country": "NL",
   "via": "https"
  },
  {
