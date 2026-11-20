@@ -1,55 +1,48 @@
 [
  {
-  "server": "46.21.245.231",
+  "server": "51.250.4.61",
   "port": 443,
   "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
   "country": "FR",
   "provider": "Yandex"
  },
  {
-  "server": "51.250.33.157",
+  "server": "51.250.9.93",
   "port": 443,
   "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
   "country": "FR",
   "provider": "Yandex"
  },
  {
-  "server": "81.26.179.137",
+  "server": "84.201.146.10",
   "port": 443,
   "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
   "country": "FR",
   "provider": "Yandex"
  },
  {
-  "server": "153.51.160.19",
+  "server": "84.201.170.180",
   "port": 443,
   "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
   "country": "FR",
   "provider": "Yandex"
  },
  {
-  "server": "153.51.166.27",
+  "server": "93.77.162.54",
   "port": 443,
   "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
   "country": "FR",
   "provider": "Yandex"
  },
  {
-  "server": "153.51.167.6",
+  "server": "93.77.162.95",
   "port": 443,
   "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
   "country": "FR",
   "provider": "Yandex"
  },
  {
-  "server": "153.51.167.75",
-  "port": 443,
-  "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
-  "country": "FR",
-  "provider": "Yandex"
- },
- {
-  "server": "153.51.169.173",
+  "server": "130.193.59.79",
   "port": 443,
   "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
   "country": "FR",
@@ -61,12 +54,6 @@
   "secret": "dd9e1dde0de02a2e7c22d10e2fff841013",
   "country": "AM",
   "provider": "VK"
- },
- {
-  "server": "154.29.158.157.sslip.io",
-  "secret": "c51ae6d3fd928e1dd7e81f341dfa8833",
-  "country": "US",
-  "via": "websocket"
  },
  {
   "server": "azir.moonvira.com",
