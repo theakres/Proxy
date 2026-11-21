@@ -7,14 +7,14 @@
   "provider": "Yandex"
  },
  {
-  "server": "84.201.131.93",
+  "server": "51.250.7.220",
   "port": 443,
   "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
   "country": "FR",
   "provider": "Yandex"
  },
  {
-  "server": "93.77.161.115",
+  "server": "51.250.45.125",
   "port": 443,
   "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
   "country": "FR",
@@ -36,6 +36,20 @@
  },
  {
   "server": "153.51.170.95",
+  "port": 443,
+  "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
+  "country": "FR",
+  "provider": "Yandex"
+ },
+ {
+  "server": "153.51.172.15",
+  "port": 443,
+  "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
+  "country": "FR",
+  "provider": "Yandex"
+ },
+ {
+  "server": "153.51.172.216",
   "port": 443,
   "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
   "country": "FR",
@@ -135,40 +149,16 @@
   "via": "websocket"
  },
  {
-  "server": "pine31.photo-frame.com",
-  "secret": "9fc8d7d1aeee614bd5fa3b760da44dd3",
-  "country": "DE",
-  "via": "websocket"
- },
- {
   "server": "pr.zainetpro.online",
   "secret": "37a12317dfb93a51773d0302a1e5e383",
   "country": "PL",
   "via": "https"
  },
  {
-  "server": "products.maxmir-energy.ru",
-  "secret": "2e65726e6965746865686f672e636f6d",
-  "country": "DE",
-  "via": "websocket-lanes"
- },
- {
   "server": "ru04app.freesurfer.club",
   "secret": "1be056afced79ce6ed81327e79b69151",
   "country": "NL",
   "via": "https"
- },
- {
-  "server": "secure.irqsistemas.net",
-  "secret": "2e65726e6965746865686f672e636f6d",
-  "country": "DE",
-  "via": "https"
- },
- {
-  "server": "service.bytnx.com",
-  "secret": "2e65726e6965746865686f672e636f6d",
-  "country": "DE",
-  "via": "https-lanes"
  },
  {
   "server": "stone27.home.kg",
