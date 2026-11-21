@@ -1,12 +1,5 @@
 [
  {
-  "server": "46.21.246.196",
-  "port": 443,
-  "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
-  "country": "FR",
-  "provider": "Yandex"
- },
- {
   "server": "51.250.7.220",
   "port": 443,
   "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
@@ -15,6 +8,27 @@
  },
  {
   "server": "51.250.45.125",
+  "port": 443,
+  "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
+  "country": "FR",
+  "provider": "Yandex"
+ },
+ {
+  "server": "51.250.68.27",
+  "port": 443,
+  "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
+  "country": "FR",
+  "provider": "Yandex"
+ },
+ {
+  "server": "93.77.165.108",
+  "port": 443,
+  "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
+  "country": "FR",
+  "provider": "Yandex"
+ },
+ {
+  "server": "153.51.160.177",
   "port": 443,
   "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
   "country": "FR",
@@ -35,7 +49,7 @@
   "provider": "Yandex"
  },
  {
-  "server": "153.51.170.95",
+  "server": "153.51.171.211",
   "port": 443,
   "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
   "country": "FR",
@@ -146,6 +160,12 @@
   "server": "nov.webvirt.cloud",
   "secret": "2cb152167b45c9a010c8109fef2d8fd6",
   "country": "PL",
+  "via": "websocket"
+ },
+ {
+  "server": "pine31.photo-frame.com",
+  "secret": "9fc8d7d1aeee614bd5fa3b760da44dd3",
+  "country": "DE",
   "via": "websocket"
  },
  {
