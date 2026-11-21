@@ -1,13 +1,13 @@
 [
  {
-  "server": "51.250.5.48",
+  "server": "46.21.246.196",
   "port": 443,
   "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
   "country": "FR",
   "provider": "Yandex"
  },
  {
-  "server": "51.250.94.7",
+  "server": "84.201.131.93",
   "port": 443,
   "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
   "country": "FR",
@@ -21,35 +21,35 @@
   "provider": "Yandex"
  },
  {
-  "server": "153.51.114.23",
+  "server": "153.51.161.50",
   "port": 443,
   "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
   "country": "FR",
   "provider": "Yandex"
  },
  {
-  "server": "153.51.160.101",
+  "server": "153.51.165.15",
   "port": 443,
   "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
   "country": "FR",
   "provider": "Yandex"
  },
  {
-  "server": "153.51.165.242",
+  "server": "153.51.170.95",
   "port": 443,
   "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
   "country": "FR",
   "provider": "Yandex"
  },
  {
-  "server": "153.51.166.215",
+  "server": "153.51.173.204",
   "port": 443,
   "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
   "country": "FR",
   "provider": "Yandex"
  },
  {
-  "server": "153.51.172.241",
+  "server": "153.51.174.249",
   "port": 443,
   "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
   "country": "FR",
@@ -147,10 +147,28 @@
   "via": "https"
  },
  {
+  "server": "products.maxmir-energy.ru",
+  "secret": "2e65726e6965746865686f672e636f6d",
+  "country": "DE",
+  "via": "websocket-lanes"
+ },
+ {
   "server": "ru04app.freesurfer.club",
   "secret": "1be056afced79ce6ed81327e79b69151",
   "country": "NL",
   "via": "https"
+ },
+ {
+  "server": "secure.irqsistemas.net",
+  "secret": "2e65726e6965746865686f672e636f6d",
+  "country": "DE",
+  "via": "https"
+ },
+ {
+  "server": "service.bytnx.com",
+  "secret": "2e65726e6965746865686f672e636f6d",
+  "country": "DE",
+  "via": "https-lanes"
  },
  {
   "server": "stone27.home.kg",
