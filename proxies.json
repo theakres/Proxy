@@ -1,55 +1,55 @@
 [
  {
-  "server": "46.21.247.156",
+  "server": "46.21.244.31",
   "port": 443,
   "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
   "country": "FR",
   "provider": "Yandex"
  },
  {
-  "server": "51.250.2.150",
+  "server": "93.77.165.202",
   "port": 443,
   "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
   "country": "FR",
   "provider": "Yandex"
  },
  {
-  "server": "51.250.36.11",
+  "server": "153.51.115.157",
   "port": 443,
   "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
   "country": "FR",
   "provider": "Yandex"
  },
  {
-  "server": "51.250.70.233",
+  "server": "153.51.118.56",
   "port": 443,
   "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
   "country": "FR",
   "provider": "Yandex"
  },
  {
-  "server": "51.250.93.71",
+  "server": "153.51.163.54",
   "port": 443,
   "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
   "country": "FR",
   "provider": "Yandex"
  },
  {
-  "server": "153.51.119.86",
+  "server": "153.51.165.137",
   "port": 443,
   "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
   "country": "FR",
   "provider": "Yandex"
  },
  {
-  "server": "153.51.164.61",
+  "server": "153.51.167.246",
   "port": 443,
   "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
   "country": "FR",
   "provider": "Yandex"
  },
  {
-  "server": "153.51.167.30",
+  "server": "153.51.172.1",
   "port": 443,
   "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
   "country": "FR",
@@ -175,12 +175,6 @@
   "secret": "9fc8d7d1aeee614bd5fa3b760da44dd3",
   "country": "DE",
   "via": "websocket"
- },
- {
-  "server": "web.es.nvrsk-not-news.ru",
-  "secret": "9f28808baf85ae93956b1dd3eb9ee0d0",
-  "country": "AM",
-  "via": "https"
  },
  {
   "server": "web.gqsp.eu.org",
